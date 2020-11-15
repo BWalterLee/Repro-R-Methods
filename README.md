@@ -6,3 +6,5 @@
 
  More edits to tests
 Rstudio test
+
+This is a line from R Studio but for real
