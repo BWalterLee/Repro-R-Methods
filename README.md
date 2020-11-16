@@ -1,5 +1,12 @@
 # Repro-R-Methods
- Workshop General purpose repo
+##Workshop General purpose repo
+Test for scripts and figures for workshop
 
-Day 1 Workshop Push Test!
+## Goals for this Workshop
+- Be Helpful!
+- Solve Problems!
+- Harass Matt! 
+
+Add more stuff!
+
 
