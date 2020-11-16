@@ -1,194 +1,732 @@
-<!DOCTYPE html><html><head><meta name="google" content="notranslate"><meta http-equiv="X-UA-Compatible" content="IE=edge;"><style>@font-face{font-family:'Roboto';font-style:italic;font-weight:400;src:local('Roboto Italic'),local('Roboto-Italic'),url(//fonts.gstatic.com/s/roboto/v18/KFOkCnqEu92Fr1Mu51xIIzc.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:300;src:local('Roboto Light'),local('Roboto-Light'),url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmSU5fBBc9.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:400;src:local('Roboto Regular'),local('Roboto-Regular'),url(//fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxP.ttf)format('truetype');}@font-face{font-family:'Roboto';font-style:normal;font-weight:700;src:local('Roboto Bold'),local('Roboto-Bold'),url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc9.ttf)format('truetype');}</style><meta name="referrer" content="origin"><title>daily_bike_data.csv - Google Drive</title><meta property="og:title" content="daily_bike_data.csv"><meta property="og:type" content="article"><meta property="og:site_name" content="Google Docs"><meta property="og:url" content="https://drive.google.com/file/d/1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW/view?usp=sharing&amp;usp=embed_facebook"><link rel="shortcut icon" href="https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans:300,400,500,700"><link rel="stylesheet" href="https://www.gstatic.com/_/apps-fileview/_/ss/k=apps-fileview.v.AYLKTW1jmG8.L.X.O/d=0/ct=zgms/rs=AO0039u2x2CEipt6YkgdQ68NMGNX4ZB7bw"><script>_docs_flag_initialData={"docs-ails":"docs_cold","docs-fwds":"docs_sdf","docs-crs":"docs_crs_nfd","docs-shdn":0,"docs-tfh":"","info_params":{},"docs-edcsp":true,"docos-eddmh":false,"docs-eohmo":false,"uls":"","docs-enpf":true,"docs-ce":false,"docs-api-keys":{},"buildLabel":"texmex_2020.45-Thu_RC00","docs-show_debug_info":false,"ondlburl":"https://docs.google.com","drive_url":"https://drive.google.com","app_url":"https://drive.google.com/file/","docs-itrf":false,"docs-mid":2048,"docs-eicd":false,"docs-icdmt":[],"docs-erdiiv":false,"docs-sup":"/file","docs-seu":"https://drive.google.com/file/d/1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW/edit","docs-crp":"/file/d/1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW/view","docs-crq":"usp\u003dsharing","docs-ecvca":true,"docs-uptc":["lsrp","ca","sh","noreplica","ouid","dl","hi","popr","sdsid","usp","urp","utm_source","utm_medium","utm_campaign","utm_term","utm_content","aaac","sle"],"docs-doddn":"","docs-uddn":"","docs-cwsd":"","docs-gsmd":"","docs-al":[0,0,0,1,0],"docs-ndt":"Untitled Texmex","docs-prn":"","docs-as":"","docs-etdimo":false,"docs-mdck":"","docs-etiff":false,"docs-mriim":1800000,"docs-eccbs":false,"docos-sosj":false,"docs-rlmp":false,"docs-mmpt":15000,"docs-erd":false,"docs-erfar":false,"docs-ensb":false,"docs-ddts":false,"docs-uootuns":false,"docs-amawso":false,"docs-ofmpp":false,"docs-anlpfdo":false,"docs-eslars":true,"docs-phe":"","docs-pid":"","docs-ebbouf":false,"docs-icap":false,"docs-efs":false,"docs-ricocpb":false,"docs-etauihm":false,"docs-eimtdl":false,"docs-eoms":false,"docs-embmd":false,"docs-esteba":false,"docs-effnp":false,"docs-ecgd":false,"docs-hft":"","docs-edsi":false,"docs-ececs":false,"docs-net-edsle":false,"docos-ssf":false,"docs-edp":false,"docs-edlo":false,"docs-eem":false,"docs-eismtl":false,"docos-sdp2":false,"docs-efsii":false,"docs-text-elnma":false,"docs-esteb":false,"docs-elcfd":false,"docs-ejtlr":false,"docs-seadm":false,"docs-edmitm":false,"docs-enjec":false,"docs-eiasrpu":false,"docs-efmsh":false,"ecid":true,"docs-eir":false,"server_time_ms":1605548680368,"gaia_session_id":"","app-bc":"#d1d1d1","enable_iframed_embed_api":true,"docs-fut":"https://drive.google.com#folders/{folderId}","docs-isb":false,"docs-enct":false,"docs-agdc":false,"docs-anddc":true,"docs-adndldc":false,"docs-text-efnma":false,"docs-cide":true,"docs-cn":"","docs-depquafr":false,"docs-elsr":true,"docs-elmc":false,"docs-frbanmc":false,"docs-rldce":false,"docs-dom":false,"docs-ebidu":false,"docs-edamc":false,"docs-edomic":false,"docs-eddm":false,"docs-edme":false,"kix-edrat":false,"docs-fwd":false,"docs-ehr":false,"docs-elds":false,"docs-eph":false,"docs-epat":true,"docs-eppd":false,"docs-essph":false,"docs-tdd":false,"docs-mib":5242880,"docs-mip":6250000,"docs-rsc":"","docs-rgifem":true,"docs-ssi":false,"docs-uoci":"","docs-wia":"","docs-gth":"","docs-po":"https://drive.google.com","docs-to":"https://drive.google.com","projector_base_url":"//drive.google.com","docs-seso":true,"docs-eastdfm":true,"docs-eastd":true,"docs-emcml":false,"docs-eoes":true,"docs-eoespr":false,"opendv":false,"onePickImportDocumentUrl":"","opmbs":5242880,"opmpd":2500,"opbu":"https://docs.google.com/picker","opru":"https://drive.google.com/relay.html","opdu":false,"opccp":false,"ophi":"texmex","opst":"000770F203C09AF519341E03115D6F8FE3603AF2C0F31149D5::1605548680370","opuci":"","docs-eopiiv2":true,"docs-ndsom":[],"docs-dm":"text/csv","docs-sdsom":[],"docs-drk":[],"docs-erkfsu":false,"jobset":"prod","docs-eqam":false,"docs-eua":false,"docs-eal":false,"docs-etbws":true,"docs-ebpi":false,"docs-eidib":false,"docs-eebvt":true,"docs-eebvf":true,"docs-ehib":false,"docs-emsib":false,"docs-eiib":true,"docs-etal":false,"docs-esap":false,"docs-eisdib":false,"docs-se":false,"docs-egf":false,"docs-surfb":false,"docs-uptuf":true,"docs-eodpb":false,"docs-eodp":false,"docs-odpdu":[null,null,null,"/placeholder-path-please-set-correctly?authuser\u003d"],"docs-odpu":[null,null,null,"//drive.google.com/odp/embed?authuser\u003d"],"docs-spdy":false,"xdbcfAllowHostNamePrefix":true,"xdbcfAllowXpc":true,"docs-iror":true,"promo_url":"","promo_second_url":"","promo_title":"","promo_title_prefix":"","promo_content_html":"","promo_more_element_text":"","promo_second_more_element_text":"","promo_element_id":"","promo_orientation":1,"promo_arrow_alignment":0,"promo_show_on_click":false,"promo_hide_arrow":false,"promo_show_on_load":false,"promo_mark_dismissed_on_show":false,"promo_use_global_preference":false,"promo_use_material_styling":false,"promo_close_button_text":"","promo_icon_url":"","promo_action_id":"","promo_impression_id":0,"promo_is_contextual":false,"docs-ccwt":0,"docs-eccw":false,"docs-epcc":false,"docs_abuse_link":"https://drive.google.com/abuse?id\u003d1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW","docs-msoil":"docs_spanner","docs-gsoil":"docs_gsabs","docs-fsd":false}; _docs_flag_cek= null ; if (window['DOCS_timing']) {DOCS_timing['ifdld']=new Date().getTime();}</script><script>window.viewerData = {config: {'id': '1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW', 'title': 'daily_bike_data.csv', 'isItemTrashed':  false ,'enableEmbedDialog': true,'projectorFeedbackId': '99950', 'projectorFeedbackBucket': 'viewer-web',}, configJson: ["",null,null,null,null,1,null,"",null,1,1,[1,null,null,"AIzaSyDVQw45DwoYh632gvsP5vPDqEKvb-Ywnb8",0,null,1,null,null,"AIzaSyC1eQ1xj69IdTMeii5r7brs3R90eck-m7k",null,"/drive/v2beta",0,0,1,[0]
-,null,1,null,1,1,0]
-,null,5,1,null,null,1,"https://drive.google.com",null,null,1,null,1,null,null,null,null,null,1,null,null,[[null,"0"]
-,6,1,1,null,null,null,1]
-,null,1,null,null,[null,null,null,null,"https://accounts.google.com/ServiceLogin?service\u003dwise\u0026passive\u003d1209600\u0026continue\u003dhttps://drive.google.com/file/d/1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW/view?usp%3Dsharing\u0026hl\u003den\u0026followup\u003dhttps://drive.google.com/file/d/1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW/view?usp%3Dsharing",null,null,null,1]
-,null,null,1,null,null,"https://docs.google.com",null,1,[null,0]
-,["https://youtube.googleapis.com",null,2]
-,1,null,null,null,1,null,1,1,null,null,"000770F2030B9155358084A6A8CEB5F032B34BF3E0C1E8B6FC::1605548680372",null,[1,1,1,1]
-,null,1,null,3,null,null,null,null,1,["AIzaSyCMp6sr4oTC18AWkE2Ii4UBZHTHEpGZWZM","https://blobcomments-pa.clients6.google.com",null,1,1,1]
-,null,1,null,null,0,null,null,1,null,null,null,[1,1,1]
-,null,null,1,null,null,1,1,null,null,null,null,[0,0]
-,null,null,null,null,0,null,0,1,null,1,"https://support.google.com/drive?p\u003dwork_with_files",null,1,null,[0,"","","",""]
-,1,[null,null,0,0,0,0]
-,null,1,null,[1]
-,null,null,1,null,1,"https://gsuite.google.com",null,null,null,null,0,0,1]
-, itemJson: [null,"daily_bike_data.csv",null,null,null,null,null,null,null,"https://drive.google.com/viewerng/upload?ds\u003dAPznzaa6HokG6GogZaCVfuDpdTFPu5rMEOJ1Xbqy6qrdcKChXgcBMcfYtflOGHbpX0hgXLm7RnPOfggyouXDw7_stKNusNh-23d5Taw-XqMCAETYjt4Ouw3zLv7DIp4X8cTpHHIo5b9qMPX0Zh01rGS6G37eNUuB687zF5c5VVxHesiFx3KSfHFBAHVeurqXdhpKmFRlrAfDdXPcxf77s814yRmUMNdCebNDVpPbS9qXelaRV-aXBnTvoe5JezlIr_ZYaE6CjPZ7EUmAtksYLg_aZKUOhNWQ0_FtETvEYszhzT0GmdqH2lHSV190PByRRIp03-tTsRjudL3clgW5tm-J7GsubE9MnHi8SFZY5COEnjvNUuItspU%3D\u0026ck\u003ddrive\u0026p\u003dproj",null,"text/csv",null,null,6,null,"https://drive.google.com/file/d/1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW/view",null,"https://drive.google.com/uc?id\u003d1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW\u0026export\u003ddownload",null,5,0,null,null,null,[null,null,"92451"]
-,null,null,null,null,null,0,"csv",null,[["0B4eWdY29R2_dbW9kdUR4TVI0RFRXaE5EODc0N3NIRUhXYnVZPQ"]
-,[]
-,["1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW"]
-]
-,null,null,null,null,null,null,0]
-};</script><script>;this.gbar_={CONFIG:[[[0,"www.gstatic.com","og.qtm.en_US.3RbaClisRUk.O","com","en","25",0,[4,2,".40.40.40.40.40.40.","","1300102,3700259,3700831,3700837","341323491","0"],null,"iLqyX9qGHaHI1QGpori4CA",null,0,"og.qtm.9Dm0JsDr6Vc.L.X.O","AA2YrTvloPcdkDNPT198iOcIrhEPJsFU3Q","AA2YrTvEjyYZIDL_BcftCIznT7aTkN_U0Q","",2,1,200,"USA",null,null,"25","25",1],null,[1,0.1000000014901161,2,1],[1,0.001000000047497451,1],[0,0,0,null,"","","",""],[0,0,"",1,0,0,0,0,0,0,0,0,0,null,0,0,null,null,0,0,0,"","","","","","",null,0,0,0,0,0,null,null,null,"rgba(32,33,36,1)","rgba(255,255,255,1)",0,0,1,1],null,null,["1","gci_91f30755d6a6b787dcc2a4062e6e9824.js","googleapis.client:gapi.iframes","","en"],null,null,null,null,["m;/_/scs/abc-static/_/js/k=gapi.gapi.en.uhBKOtz6fOw.O/d=1/ct=zgms/rs=AHpOoo8GZHNTtpcfighnqAH0uUZTALLzrw/m=__features__","https://apis.google.com","","","","",null,1,"es_plusone_gc_20201103.0_p0","en",null,0],[0.009999999776482582,"com","25",[null,"","0",null,1,5184000,null,null,"",0,1,"",null,0,0,null,0,0,1,0,0,0,null,null,0,0],null,null,null,0,null,null,["5061451","google\\.(com|ru|ca|by|kz|com\\.mx|com\\.tr)$",1]],[1,1,null,27043,25,"USA","en","341323491.0",8,0.009999999776482582,0,0,null,null,0,0,"3700831,3700837",null,null,null,"iLqyX9qGHaHI1QGpori4CA",0,0],[[null,null,null,"https://www.gstatic.com/og/_/js/k=og.qtm.en_US.3RbaClisRUk.O/rt=j/m=qabr,q_d,qmutsd,qapid/exm=qaaw,qadd,qaid,qein,qhaw,qhbr,qhch,qhga,qhid,qhin,qhpr/d=1/ed=1/rs=AA2YrTvloPcdkDNPT198iOcIrhEPJsFU3Q"]],null,null,[""]]],};this.gbar_=this.gbar_||{};(function(_){var window=this;
-try{
-/*
-
- Copyright The Closure Library Authors.
- SPDX-License-Identifier: Apache-2.0
-*/
-var da,ea,fa,ha,ia,ka,ma,na,ra,sa,Da,Ea,Fa;_.aa=function(a){if(Error.captureStackTrace)Error.captureStackTrace(this,_.aa);else{var b=Error().stack;b&&(this.stack=b)}a&&(this.message=String(a))};_.ca=function(a,b){return 0<=(0,_.ba)(a,b)};da=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}};ea="function"==typeof Object.defineProperties?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};
-fa=function(a){a=["object"==typeof globalThis&&globalThis,a,"object"==typeof window&&window,"object"==typeof self&&self,"object"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error("a");};ha=fa(this);ia=function(a,b){if(b)a:{var c=ha;a=a.split(".");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&null!=b&&ea(c,a,{configurable:!0,writable:!0,value:b})}};
-ia("Symbol",function(a){if(a)return a;var b=function(e,f){this.j=e;ea(this,"description",{configurable:!0,writable:!0,value:f})};b.prototype.toString=function(){return this.j};var c=0,d=function(e){if(this instanceof d)throw new TypeError("b");return new b("jscomp_symbol_"+(e||"")+"_"+c++,e)};return d});
-ia("Symbol.iterator",function(a){if(a)return a;a=Symbol("c");for(var b="Array Int8Array Uint8Array Uint8ClampedArray Int16Array Uint16Array Int32Array Uint32Array Float32Array Float64Array".split(" "),c=0;c<b.length;c++){var d=ha[b[c]];"function"===typeof d&&"function"!=typeof d.prototype[a]&&ea(d.prototype,a,{configurable:!0,writable:!0,value:function(){return ka(da(this))}})}return a});ka=function(a){a={next:a};a[Symbol.iterator]=function(){return this};return a};
-_.la=function(a){var b="undefined"!=typeof Symbol&&Symbol.iterator&&a[Symbol.iterator];return b?b.call(a):{next:da(a)}};ma="function"==typeof Object.create?Object.create:function(a){var b=function(){};b.prototype=a;return new b};if("function"==typeof Object.setPrototypeOf)na=Object.setPrototypeOf;else{var oa;a:{var pa={a:!0},qa={};try{qa.__proto__=pa;oa=qa.a;break a}catch(a){}oa=!1}na=oa?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError("d`"+a);return a}:null}ra=na;
-_.n=function(a,b){a.prototype=ma(b.prototype);a.prototype.constructor=a;if(ra)ra(a,b);else for(var c in b)if("prototype"!=c)if(Object.defineProperties){var d=Object.getOwnPropertyDescriptor(b,c);d&&Object.defineProperty(a,c,d)}else a[c]=b[c];a.U=b.prototype};sa=function(a,b,c){if(null==a)throw new TypeError("e`"+c);if(b instanceof RegExp)throw new TypeError("f`"+c);return a+""};
-ia("String.prototype.startsWith",function(a){return a?a:function(b,c){var d=sa(this,b,"startsWith"),e=d.length,f=b.length;c=Math.max(0,Math.min(c|0,d.length));for(var g=0;g<f&&c<e;)if(d[c++]!=b[g++])return!1;return g>=f}});var ta=function(a,b){a instanceof String&&(a+="");var c=0,d=!1,e={next:function(){if(!d&&c<a.length){var f=c++;return{value:b(f,a[f]),done:!1}}d=!0;return{done:!0,value:void 0}}};e[Symbol.iterator]=function(){return e};return e};
-ia("Array.prototype.entries",function(a){return a?a:function(){return ta(this,function(b,c){return[b,c]})}});ia("Array.prototype.keys",function(a){return a?a:function(){return ta(this,function(b){return b})}});ia("Number.MAX_SAFE_INTEGER",function(){return 9007199254740991});ia("Array.prototype.values",function(a){return a?a:function(){return ta(this,function(b,c){return c})}});
-var ua=function(a,b){return Object.prototype.hasOwnProperty.call(a,b)},va="function"==typeof Object.assign?Object.assign:function(a,b){for(var c=1;c<arguments.length;c++){var d=arguments[c];if(d)for(var e in d)ua(d,e)&&(a[e]=d[e])}return a};ia("Object.assign",function(a){return a||va});
-ia("WeakMap",function(a){function b(){}function c(l){var m=typeof l;return"object"===m&&null!==l||"function"===m}function d(l){if(!ua(l,f)){var m=new b;ea(l,f,{value:m})}}function e(l){var m=Object[l];m&&(Object[l]=function(r){if(r instanceof b)return r;Object.isExtensible(r)&&d(r);return m(r)})}if(function(){if(!a||!Object.seal)return!1;try{var l=Object.seal({}),m=Object.seal({}),r=new a([[l,2],[m,3]]);if(2!=r.get(l)||3!=r.get(m))return!1;r.delete(l);r.set(m,4);return!r.has(l)&&4==r.get(m)}catch(u){return!1}}())return a;
-var f="$jscomp_hidden_"+Math.random();e("freeze");e("preventExtensions");e("seal");var g=0,k=function(l){this.j=(g+=Math.random()+1).toString();if(l){l=_.la(l);for(var m;!(m=l.next()).done;)m=m.value,this.set(m[0],m[1])}};k.prototype.set=function(l,m){if(!c(l))throw Error("g");d(l);if(!ua(l,f))throw Error("h`"+l);l[f][this.j]=m;return this};k.prototype.get=function(l){return c(l)&&ua(l,f)?l[f][this.j]:void 0};k.prototype.has=function(l){return c(l)&&ua(l,f)&&ua(l[f],this.j)};k.prototype.delete=function(l){return c(l)&&
-ua(l,f)&&ua(l[f],this.j)?delete l[f][this.j]:!1};return k});ia("Array.from",function(a){return a?a:function(b,c,d){c=null!=c?c:function(k){return k};var e=[],f="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];if("function"==typeof f){b=f.call(b);for(var g=0;!(f=b.next()).done;)e.push(c.call(d,f.value,g++))}else for(f=b.length,g=0;g<f;g++)e.push(c.call(d,b[g],g));return e}});
-ia("Map",function(a){if(function(){if(!a||"function"!=typeof a||!a.prototype.entries||"function"!=typeof Object.seal)return!1;try{var k=Object.seal({x:4}),l=new a(_.la([[k,"s"]]));if("s"!=l.get(k)||1!=l.size||l.get({x:4})||l.set({x:4},"t")!=l||2!=l.size)return!1;var m=l.entries(),r=m.next();if(r.done||r.value[0]!=k||"s"!=r.value[1])return!1;r=m.next();return r.done||4!=r.value[0].x||"t"!=r.value[1]||!m.next().done?!1:!0}catch(u){return!1}}())return a;var b=new WeakMap,c=function(k){this.o={};this.j=
-f();this.size=0;if(k){k=_.la(k);for(var l;!(l=k.next()).done;)l=l.value,this.set(l[0],l[1])}};c.prototype.set=function(k,l){k=0===k?0:k;var m=d(this,k);m.list||(m.list=this.o[m.id]=[]);m.$a?m.$a.value=l:(m.$a={next:this.j,kc:this.j.kc,head:this.j,key:k,value:l},m.list.push(m.$a),this.j.kc.next=m.$a,this.j.kc=m.$a,this.size++);return this};c.prototype.delete=function(k){k=d(this,k);return k.$a&&k.list?(k.list.splice(k.index,1),k.list.length||delete this.o[k.id],k.$a.kc.next=k.$a.next,k.$a.next.kc=
-k.$a.kc,k.$a.head=null,this.size--,!0):!1};c.prototype.clear=function(){this.o={};this.j=this.j.kc=f();this.size=0};c.prototype.has=function(k){return!!d(this,k).$a};c.prototype.get=function(k){return(k=d(this,k).$a)&&k.value};c.prototype.entries=function(){return e(this,function(k){return[k.key,k.value]})};c.prototype.keys=function(){return e(this,function(k){return k.key})};c.prototype.values=function(){return e(this,function(k){return k.value})};c.prototype.forEach=function(k,l){for(var m=this.entries(),
-r;!(r=m.next()).done;)r=r.value,k.call(l,r[1],r[0],this)};c.prototype[Symbol.iterator]=c.prototype.entries;var d=function(k,l){var m=l&&typeof l;"object"==m||"function"==m?b.has(l)?m=b.get(l):(m=""+ ++g,b.set(l,m)):m="p_"+l;var r=k.o[m];if(r&&ua(k.o,m))for(k=0;k<r.length;k++){var u=r[k];if(l!==l&&u.key!==u.key||l===u.key)return{id:m,list:r,index:k,$a:u}}return{id:m,list:r,index:-1,$a:void 0}},e=function(k,l){var m=k.j;return ka(function(){if(m){for(;m.head!=k.j;)m=m.kc;for(;m.next!=m.head;)return m=
-m.next,{done:!1,value:l(m)};m=null}return{done:!0,value:void 0}})},f=function(){var k={};return k.kc=k.next=k.head=k},g=0;return c});
-ia("Set",function(a){if(function(){if(!a||"function"!=typeof a||!a.prototype.entries||"function"!=typeof Object.seal)return!1;try{var c=Object.seal({x:4}),d=new a(_.la([c]));if(!d.has(c)||1!=d.size||d.add(c)!=d||1!=d.size||d.add({x:4})!=d||2!=d.size)return!1;var e=d.entries(),f=e.next();if(f.done||f.value[0]!=c||f.value[1]!=c)return!1;f=e.next();return f.done||f.value[0]==c||4!=f.value[0].x||f.value[1]!=f.value[0]?!1:e.next().done}catch(g){return!1}}())return a;var b=function(c){this.j=new Map;if(c){c=
-_.la(c);for(var d;!(d=c.next()).done;)this.add(d.value)}this.size=this.j.size};b.prototype.add=function(c){c=0===c?0:c;this.j.set(c,c);this.size=this.j.size;return this};b.prototype.delete=function(c){c=this.j.delete(c);this.size=this.j.size;return c};b.prototype.clear=function(){this.j.clear();this.size=0};b.prototype.has=function(c){return this.j.has(c)};b.prototype.entries=function(){return this.j.entries()};b.prototype.values=function(){return this.j.values()};b.prototype.keys=b.prototype.values;
-b.prototype[Symbol.iterator]=b.prototype.values;b.prototype.forEach=function(c,d){var e=this;this.j.forEach(function(f){return c.call(d,f,f,e)})};return b});ia("Object.entries",function(a){return a?a:function(b){var c=[],d;for(d in b)ua(b,d)&&c.push([d,b[d]]);return c}});ia("Object.is",function(a){return a?a:function(b,c){return b===c?0!==b||1/b===1/c:b!==b&&c!==c}});
-ia("Array.prototype.includes",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(0>c&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});ia("String.prototype.includes",function(a){return a?a:function(b,c){return-1!==sa(this,b,"includes").indexOf(b,c||0)}});
-ia("Array.prototype.fill",function(a){return a?a:function(b,c,d){var e=this.length||0;0>c&&(c=Math.max(0,e+c));if(null==d||d>e)d=e;d=Number(d);0>d&&(d=Math.max(0,e+d));for(c=Number(c||0);c<d;c++)this[c]=b;return this}});var wa=function(a){return a?a:Array.prototype.fill};ia("Int8Array.prototype.fill",wa);ia("Uint8Array.prototype.fill",wa);ia("Uint8ClampedArray.prototype.fill",wa);ia("Int16Array.prototype.fill",wa);ia("Uint16Array.prototype.fill",wa);ia("Int32Array.prototype.fill",wa);
-ia("Uint32Array.prototype.fill",wa);ia("Float32Array.prototype.fill",wa);ia("Float64Array.prototype.fill",wa);_.xa=_.xa||{};_.p=this||self;_.za=function(){};_.Aa=function(a){a.df=void 0;a.va=function(){return a.df?a.df:a.df=new a}};_.Ba=function(a){var b=typeof a;return"object"==b&&null!=a||"function"==b};_.Ca="closure_uid_"+(1E9*Math.random()>>>0);Da=function(a,b,c){return a.call.apply(a.bind,arguments)};
-Ea=function(a,b,c){if(!a)throw Error();if(2<arguments.length){var d=Array.prototype.slice.call(arguments,2);return function(){var e=Array.prototype.slice.call(arguments);Array.prototype.unshift.apply(e,d);return a.apply(b,e)}}return function(){return a.apply(b,arguments)}};_.q=function(a,b,c){Function.prototype.bind&&-1!=Function.prototype.bind.toString().indexOf("native code")?_.q=Da:_.q=Ea;return _.q.apply(null,arguments)};
-_.t=function(a,b){a=a.split(".");var c=_.p;a[0]in c||"undefined"==typeof c.execScript||c.execScript("var "+a[0]);for(var d;a.length&&(d=a.shift());)a.length||void 0===b?c[d]&&c[d]!==Object.prototype[d]?c=c[d]:c=c[d]={}:c[d]=b};_.v=function(a,b){function c(){}c.prototype=b.prototype;a.U=b.prototype;a.prototype=new c;a.prototype.constructor=a;a.hm=function(d,e,f){for(var g=Array(arguments.length-2),k=2;k<arguments.length;k++)g[k-2]=arguments[k];return b.prototype[e].apply(d,g)}};Fa=function(a){return a};
-_.Ga=function(a){var b=null,c=_.p.trustedTypes;if(!c||!c.createPolicy)return b;try{b=c.createPolicy(a,{createHTML:Fa,createScript:Fa,createScriptURL:Fa})}catch(d){_.p.console&&_.p.console.error(d.message)}return b};
-_.v(_.aa,Error);_.aa.prototype.name="CustomError";
-_.ba=Array.prototype.indexOf?function(a,b){return Array.prototype.indexOf.call(a,b,void 0)}:function(a,b){if("string"===typeof a)return"string"!==typeof b||1!=b.length?-1:a.indexOf(b,0);for(var c=0;c<a.length;c++)if(c in a&&a[c]===b)return c;return-1};_.Ha=Array.prototype.forEach?function(a,b,c){Array.prototype.forEach.call(a,b,c)}:function(a,b,c){for(var d=a.length,e="string"===typeof a?a.split(""):a,f=0;f<d;f++)f in e&&b.call(c,e[f],f,a)};
-_.Ia=Array.prototype.filter?function(a,b,c){return Array.prototype.filter.call(a,b,c)}:function(a,b,c){for(var d=a.length,e=[],f=0,g="string"===typeof a?a.split(""):a,k=0;k<d;k++)if(k in g){var l=g[k];b.call(c,l,k,a)&&(e[f++]=l)}return e};_.Ja=Array.prototype.map?function(a,b,c){return Array.prototype.map.call(a,b,c)}:function(a,b,c){for(var d=a.length,e=Array(d),f="string"===typeof a?a.split(""):a,g=0;g<d;g++)g in f&&(e[g]=b.call(c,f[g],g,a));return e};
-_.Ka=Array.prototype.some?function(a,b){return Array.prototype.some.call(a,b,void 0)}:function(a,b){for(var c=a.length,d="string"===typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a))return!0;return!1};
-var Ma;_.La=function(a,b,c){for(var d in a)b.call(c,a[d],d,a)};Ma="constructor hasOwnProperty isPrototypeOf propertyIsEnumerable toLocaleString toString valueOf".split(" ");_.Na=function(a,b){for(var c,d,e=1;e<arguments.length;e++){d=arguments[e];for(c in d)a[c]=d[c];for(var f=0;f<Ma.length;f++)c=Ma[f],Object.prototype.hasOwnProperty.call(d,c)&&(a[c]=d[c])}};
-var Oa;_.Pa=function(){void 0===Oa&&(Oa=_.Ga("ogb-qtm#html"));return Oa};
-var Ra;_.Sa=function(a,b){this.j=a===_.Qa&&b||"";this.o=Ra};_.Sa.prototype.Rb=!0;_.Sa.prototype.Gb=function(){return this.j};_.Ta=function(a){return a instanceof _.Sa&&a.constructor===_.Sa&&a.o===Ra?a.j:"type_error:Const"};Ra={};_.Qa={};
-var Ua;_.Va=function(a,b){this.o=b===Ua?a:""};_.Va.prototype.Rb=!0;_.Va.prototype.Gb=function(){return this.o.toString()};_.Va.prototype.$e=!0;_.Va.prototype.j=function(){return 1};_.Xa=function(a){return _.Wa(a).toString()};_.Wa=function(a){return a instanceof _.Va&&a.constructor===_.Va?a.o:"type_error:TrustedResourceUrl"};Ua={};_.Ya=function(a){var b=_.Pa();a=b?b.createScriptURL(a):a;return new _.Va(a,Ua)};
-var $a;_.Za=String.prototype.trim?function(a){return a.trim()}:function(a){return/^[\s\xa0]*([\s\S]*?)[\s\xa0]*$/.exec(a)[1]};
-_.ab=function(a,b){var c=0;a=(0,_.Za)(String(a)).split(".");b=(0,_.Za)(String(b)).split(".");for(var d=Math.max(a.length,b.length),e=0;0==c&&e<d;e++){var f=a[e]||"",g=b[e]||"";do{f=/(\d*)(\D*)(.*)/.exec(f)||["","","",""];g=/(\d*)(\D*)(.*)/.exec(g)||["","","",""];if(0==f[0].length&&0==g[0].length)break;c=$a(0==f[1].length?0:parseInt(f[1],10),0==g[1].length?0:parseInt(g[1],10))||$a(0==f[2].length,0==g[2].length)||$a(f[2],g[2]);f=f[3];g=g[3]}while(0==c)}return c};
-$a=function(a,b){return a<b?-1:a>b?1:0};
-var eb,fb,gb,bb;_.cb=function(a,b){this.o=b===bb?a:""};_.cb.prototype.Rb=!0;_.cb.prototype.Gb=function(){return this.o.toString()};_.cb.prototype.$e=!0;_.cb.prototype.j=function(){return 1};_.db=function(a){return a instanceof _.cb&&a.constructor===_.cb?a.o:"type_error:SafeUrl"};eb=/^(?:audio\/(?:3gpp2|3gpp|aac|L16|midi|mp3|mp4|mpeg|oga|ogg|opus|x-m4a|x-matroska|x-wav|wav|webm)|font\/\w+|image\/(?:bmp|gif|jpeg|jpg|png|tiff|webp|x-icon)|video\/(?:mpeg|mp4|ogg|webm|quicktime|x-matroska))(?:;\w+=(?:\w+|"[\w;,= ]+"))*$/i;
-fb=/^data:(.*);base64,[a-z0-9+\/]+=*$/i;gb=/^(?:(?:https?|mailto|ftp):|[^:/?#]*(?:[/?#]|$))/i;_.ib=function(a){if(a instanceof _.cb)return a;a="object"==typeof a&&a.Rb?a.Gb():String(a);if(gb.test(a))a=_.hb(a);else{a=String(a);a=a.replace(/(%0A|%0D)/g,"");var b=a.match(fb);a=b&&eb.test(b[1])?_.hb(a):null}return a};_.jb=function(a){if(a instanceof _.cb)return a;a="object"==typeof a&&a.Rb?a.Gb():String(a);gb.test(a)||(a="about:invalid#zClosurez");return _.hb(a)};bb={};
-_.hb=function(a){return new _.cb(a,bb)};_.kb=_.hb("about:invalid#zClosurez");
-_.mb=function(a,b){this.j=b===_.lb?a:""};_.mb.prototype.Rb=!0;_.mb.prototype.Gb=function(){return this.j};_.lb={};_.nb=new _.mb("",_.lb);
-a:{var pb=_.p.navigator;if(pb){var qb=pb.userAgent;if(qb){_.ob=qb;break a}}_.ob=""}_.w=function(a){return-1!=_.ob.indexOf(a)};
-var tb;_.rb=function(){return _.w("Trident")||_.w("MSIE")};_.sb=function(){return _.w("Firefox")||_.w("FxiOS")};_.ub=function(){return _.w("Safari")&&!(tb()||_.w("Coast")||_.w("Opera")||_.w("Edge")||_.w("Edg/")||_.w("OPR")||_.sb()||_.w("Silk")||_.w("Android"))};tb=function(){return(_.w("Chrome")||_.w("CriOS"))&&!_.w("Edge")};_.vb=function(){return _.w("Android")&&!(tb()||_.sb()||_.w("Opera")||_.w("Silk"))};
-var wb;_.xb=function(a,b,c){this.o=c===wb?a:"";this.A=b};_.xb.prototype.$e=!0;_.xb.prototype.j=function(){return this.A};_.xb.prototype.Rb=!0;_.xb.prototype.Gb=function(){return this.o.toString()};_.yb=function(a){return a instanceof _.xb&&a.constructor===_.xb?a.o:"type_error:SafeHtml"};wb={};_.zb=function(a,b){var c=_.Pa();a=c?c.createHTML(a):a;return new _.xb(a,b,wb)};_.Ab=new _.xb(_.p.trustedTypes&&_.p.trustedTypes.emptyHTML||"",0,wb);_.Bb=_.zb("<br>",0);
-_.Cb=function(a){var b=!1,c;return function(){b||(c=a(),b=!0);return c}}(function(){var a=document.createElement("div"),b=document.createElement("div");b.appendChild(document.createElement("div"));a.appendChild(b);b=a.firstChild.firstChild;a.innerHTML=_.yb(_.Ab);return!b.parentElement});
-var Db;Db=function(){return _.w("iPhone")&&!_.w("iPod")&&!_.w("iPad")};_.Eb=function(){return Db()||_.w("iPad")||_.w("iPod")};
-_.Fb=function(){return-1!=_.ob.toLowerCase().indexOf("webkit")&&!_.w("Edge")};
-_.Gb=function(a){_.Gb[" "](a);return a};_.Gb[" "]=_.za;var Ib=function(a,b){var c=Hb;return Object.prototype.hasOwnProperty.call(c,a)?c[a]:c[a]=b(a)};
-var Wb,Xb,Hb,ec;_.Jb=_.w("Opera");_.x=_.rb();_.Kb=_.w("Edge");_.Lb=_.Kb||_.x;_.Mb=_.w("Gecko")&&!_.Fb()&&!(_.w("Trident")||_.w("MSIE"))&&!_.w("Edge");_.Nb=_.Fb();_.Ob=_.w("Macintosh");_.Pb=_.w("Windows");_.Qb=_.w("Linux")||_.w("CrOS");_.Rb=_.w("Android");_.Sb=Db();_.Tb=_.w("iPad");_.Ub=_.w("iPod");_.Vb=_.Eb();Wb=function(){var a=_.p.document;return a?a.documentMode:void 0};
-a:{var Yb="",Zb=function(){var a=_.ob;if(_.Mb)return/rv:([^\);]+)(\)|;)/.exec(a);if(_.Kb)return/Edge\/([\d\.]+)/.exec(a);if(_.x)return/\b(?:MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(_.Nb)return/WebKit\/(\S+)/.exec(a);if(_.Jb)return/(?:Version)[ \/]?(\S+)/.exec(a)}();Zb&&(Yb=Zb?Zb[1]:"");if(_.x){var $b=Wb();if(null!=$b&&$b>parseFloat(Yb)){Xb=String($b);break a}}Xb=Yb}_.ac=Xb;Hb={};_.bc=function(a){return Ib(a,function(){return 0<=_.ab(_.ac,a)})};_.dc=function(a){return Number(cc)>=a};
-if(_.p.document&&_.x){var fc=Wb();ec=fc?fc:parseInt(_.ac,10)||void 0}else ec=void 0;var cc=ec;
-_.gc=_.sb();_.hc=Db()||_.w("iPod");_.ic=_.w("iPad");_.jc=_.vb();_.kc=tb();_.lc=_.ub()&&!_.Eb();
-var mc={},nc=null;
-_.oc=function(a){this.j=0;this.o=a};_.oc.prototype.next=function(){return this.j<this.o.length?{done:!1,value:this.o[this.j++]}:{done:!0,value:void 0}};"undefined"!=typeof Symbol&&"undefined"!=typeof Symbol.iterator&&(_.oc.prototype[Symbol.iterator]=function(){return this});
-var wc;_.y=function(){};_.pc="function"==typeof Uint8Array;
-_.z=function(a,b,c,d,e,f){a.j=null;b||(b=c?[c]:[]);a.J=c?String(c):void 0;a.C=0===c?-1:0;a.A=b;a:{c=a.A.length;b=-1;if(c&&(b=c-1,c=a.A[b],!(null===c||"object"!=typeof c||Array.isArray(c)||_.pc&&c instanceof Uint8Array))){a.D=b-a.C;a.B=c;break a}-1<d?(a.D=Math.max(d,b+1-a.C),a.B=null):a.D=Number.MAX_VALUE}a.K={};if(e)for(d=0;d<e.length;d++)b=e[d],b<a.D?(b+=a.C,a.A[b]=a.A[b]||_.qc):(_.rc(a),a.B[b]=a.B[b]||_.qc);if(f&&f.length)for(d=0;d<f.length;d++)_.sc(a,f[d])};_.qc=[];
-_.rc=function(a){var b=a.D+a.C;a.A[b]||(a.B=a.A[b]={})};_.A=function(a,b){if(b<a.D){b+=a.C;var c=a.A[b];return c===_.qc?a.A[b]=[]:c}if(a.B)return c=a.B[b],c===_.qc?a.B[b]=[]:c};_.tc=function(a,b){return null!=_.A(a,b)};_.B=function(a,b){a=_.A(a,b);return null==a?a:!!a};_.E=function(a,b,c){a=_.A(a,b);return null==a?c:a};_.uc=function(a,b,c){a=_.B(a,b);return null==a?c:a};_.vc=function(a,b,c){a=_.A(a,b);a=null==a?a:+a;return null==a?c:a};_.F=function(a,b,c){b<a.D?a.A[b+a.C]=c:(_.rc(a),a.B[b]=c);return a};
-_.sc=function(a,b){for(var c,d,e=0;e<b.length;e++){var f=b[e],g=_.A(a,f);null!=g&&(c=f,d=g,_.F(a,f,void 0))}return c?(_.F(a,c,d),c):0};_.G=function(a,b,c){a.j||(a.j={});if(!a.j[c]){var d=_.A(a,c);d&&(a.j[c]=new b(d))}return a.j[c]};_.H=function(a,b,c){a.j||(a.j={});var d=c?c.vb():c;a.j[b]=c;return _.F(a,b,d)};wc=function(a){if(a.j)for(var b in a.j){var c=a.j[b];if(Array.isArray(c))for(var d=0;d<c.length;d++)c[d]&&c[d].vb();else c&&c.vb()}};_.y.prototype.vb=function(){wc(this);return this.A};
-_.y.prototype.o=_.pc?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!nc){nc={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));mc[e]=f;for(var g=0;g<f.length;g++){var k=f[g];void 0===nc[k]&&(nc[k]=g)}}}b=mc[b];c=[];for(d=0;d<this.length;d+=3){var l=this[d],m=(e=d+1<this.length)?this[d+1]:0;k=(f=d+2<this.length)?this[d+2]:0;
-g=l>>2;l=(l&3)<<4|m>>4;m=(m&15)<<2|k>>6;k&=63;f||(k=64,e||(m=64));c.push(b[g],b[l],b[m]||"",b[k]||"")}return c.join("")};try{return JSON.stringify(this.A&&this.vb(),xc)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.A&&this.vb(),xc)};var xc=function(a,b){return"number"!==typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};_.y.prototype.toString=function(){wc(this);return this.A.toString()};
-_.J=function(){this.Za=this.Za;this.Zb=this.Zb};_.J.prototype.Za=!1;_.J.prototype.ta=function(){this.Za||(this.Za=!0,this.S())};_.J.prototype.S=function(){if(this.Zb)for(;this.Zb.length;)this.Zb.shift()()};
-var yc=function(a){_.z(this,a,0,-1,null,null)};_.v(yc,_.y);
-_.zc=function(a){_.z(this,a,0,-1,null,null)};_.v(_.zc,_.y);
-var Ac=function(a){_.z(this,a,0,-1,null,null)};_.v(Ac,_.y);
-_.Bc=function(a){_.z(this,a,0,-1,null,null)};_.v(_.Bc,_.y);
-_.Cc=function(a){_.z(this,a,0,-1,null,null)};_.v(_.Cc,_.y);
-var Dc=function(a){_.J.call(this);this.A=a;this.j=[];this.o={}};_.n(Dc,_.J);Dc.prototype.Ad=function(){for(var a=this.j.length,b=this.j,c=[],d=0;d<a;++d){var e=b[d].j();a:{var f=this.A;for(var g=e.split("."),k=g.length,l=0;l<k;++l)if(f[g[l]])f=f[g[l]];else{f=null;break a}f=f instanceof Function?f:null}if(f&&f!=this.o[e])try{b[d].Ad(f)}catch(m){}else c.push(b[d])}this.j=c.concat(b.slice(a))};
-_.Ec=function(){this.j={};this.o={}};_.Gc=function(a){return _.Fc(_.Ec.va(),a)};_.Ic=function(a,b){var c=_.Ec.va();if(a in c.j){if(c.j[a]!=b)throw new Hc(a);}else{c.j[a]=b;if(b=c.o[a])for(var d=0,e=b.length;d<e;d++)b[d].j(c.j,a);delete c.o[a]}};_.Fc=function(a,b){if(b in a.j)return a.j[b];throw new Jc(b);};_.Aa(_.Ec);var Kc=function(){_.aa.call(this)};_.n(Kc,_.aa);var Hc=function(){_.aa.call(this)};_.n(Hc,Kc);var Jc=function(){_.aa.call(this)};_.n(Jc,Kc);
-var Lc=function(a){_.J.call(this);this.C=a;this.A=this.j=null;this.D=0;this.B={};this.o=!1;a=window.navigator.userAgent;0<=a.indexOf("MSIE")&&0<=a.indexOf("Trident")&&(a=/\b(?:MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a))&&a[1]&&9>parseFloat(a[1])&&(this.o=!0)};_.n(Lc,_.J);Lc.prototype.F=function(a,b){this.j=b;this.A=a;b.preventDefault?b.preventDefault():b.returnValue=!1};
-_.Mc=function(a){_.z(this,a,0,-1,null,null)};_.v(_.Mc,_.y);
-_.Nc=function(a){_.z(this,a,0,-1,null,null)};_.v(_.Nc,_.y);
-_.K=function(a,b){return null!=a?!!a:!!b};_.L=function(a,b){void 0==b&&(b="");return null!=a?a:b};_.Oc=function(a,b){void 0==b&&(b=0);return null!=a?a:b};
-var Pc,Uc,Tc;_.Qc=function(a){var b=window.google&&window.google.logUrl?"":"https://www.google.com";b+="/gen_204?";b+=a.o(2040-b.length);Pc(_.ib(b)||_.kb)};Pc=function(a){var b=new Image,c=Tc;b.onerror=b.onload=b.onabort=function(){c in Uc&&delete Uc[c]};Uc[Tc++]=b;b.src=_.db(a)};Uc=[];Tc=0;
-_.Vc=function(){this.data={}};_.Vc.prototype.j=function(){window.console&&window.console.log&&window.console.log("Log data: ",this.data)};_.Vc.prototype.o=function(a){var b=[],c;for(c in this.data)b.push(encodeURIComponent(c)+"="+encodeURIComponent(String(this.data[c])));return("atyp=i&zx="+(new Date).getTime()+"&"+b.join("&")).substr(0,a)};
-var Wc=function(a,b){this.data={};var c=_.G(a,Ac,8)||new Ac;window.google&&window.google.kEI&&(this.data.ei=window.google.kEI);this.data.sei=_.L(_.A(a,10));this.data.ogf=_.L(_.A(c,3));var d=window.google&&window.google.sn?/.*hp$/.test(window.google.sn)?!1:!0:_.K(_.B(a,7));this.data.ogrp=d?"1":"";this.data.ogv=_.L(_.A(c,6))+"."+_.L(_.A(c,7));this.data.ogd=_.L(_.A(a,21));this.data.ogc=_.L(_.A(a,20));this.data.ogl=_.L(_.A(a,5));b&&(this.data.oggv=b)};_.n(Wc,_.Vc);
-var Xc=[1,2,3,4,5,6,9,10,11,13,14,28,29,30,34,35,37,38,39,40,42,43,48,49,50,51,52,53,62,500],$c=function(a,b,c,d,e,f){Wc.call(this,a,b);_.Na(this.data,{oge:d,ogex:_.L(_.A(a,9)),ogp:_.L(_.A(a,6)),ogsr:Math.round(1/(Yc(d)?_.Oc(_.vc(c,3,1)):_.Oc(_.vc(c,2,1E-4)))),ogus:e});if(f){"ogw"in f&&(this.data.ogw=f.ogw,delete f.ogw);"ved"in f&&(this.data.ved=f.ved,delete f.ved);a=[];for(var g in f)0!=a.length&&a.push(","),a.push(Zc(g)),a.push("."),a.push(Zc(f[g]));f=a.join("");""!=f&&(this.data.ogad=f)}};
-_.n($c,Wc);var Zc=function(a){a=String(a);return a.replace(".","%2E").replace(",","%2C")},Yc=function(a){if(!ad){ad={};for(var b=0;b<Xc.length;b++)ad[Xc[b]]=!0}return!!ad[a]},ad=null;
-var bd=function(a){_.z(this,a,0,-1,null,null)};_.v(bd,_.y);
-var fd=function(){var a=cd,b=dd,c=ed;this.A=a;this.o=b;this.C=_.Oc(_.vc(a,2,1E-4),1E-4);this.D=_.Oc(_.vc(a,3,1),1);b=Math.random();this.B=_.K(_.B(a,1))&&b<this.C;this.j=_.K(_.B(a,1))&&b<this.D;a=0;_.K(_.B(c,1))&&(a|=1);_.K(_.B(c,2))&&(a|=2);_.K(_.B(c,3))&&(a|=4);this.F=a};fd.prototype.log=function(a,b){try{if(Yc(a)?this.j:this.B){var c=new $c(this.o,"quantum:gapiBuildLabel",this.A,a,this.F,b);_.Qc(c)}}catch(d){}};
-_.gd=function(a,b,c,d,e){Wc.call(this,a,b);_.Na(this.data,{jexpid:_.L(_.A(a,9)),srcpg:"prop="+_.L(_.A(a,6)),jsr:Math.round(1/d),emsg:c.name+":"+c.message});if(e){e._sn&&(e._sn="og."+e._sn);for(var f in e)this.data[encodeURIComponent(f)]=e[f]}};_.n(_.gd,Wc);
-_.hd=function(a){_.z(this,a,0,-1,null,null)};_.v(_.hd,_.y);
-var kd=function(){var a=id;this.D=jd;this.B=_.Oc(_.vc(a,2,.001),.001);this.F=_.K(_.B(a,1))&&Math.random()<this.B;this.C=_.Oc(_.E(a,3,1),1);this.A=0;this.j=this.o=null;_.uc(a,4,!0)};kd.prototype.log=function(a,b){if(this.j){var c=new yc;_.F(c,1,a.message);_.F(c,2,a.stack);_.F(c,3,a.lineNumber);_.F(c,5,1);var d=new _.zc;_.H(d,40,c);this.j.log(98,d)}try{if(this.F&&this.A<this.C){try{var e=(this.o||_.Fc(_.Ec.va(),"lm")).j(a,b)}catch(f){e=new _.gd(this.D,"quantum:gapiBuildLabel",a,this.B,b)}_.Qc(e);this.A++}}catch(f){}};
-var ld=function(a){this.j=a;this.o=void 0;this.A=[]};ld.prototype.then=function(a,b,c){this.A.push(new md(a,b,c));_.nd(this)};_.od=function(a,b){if(void 0!==a.j||void 0!==a.o)throw Error("p");a.j=b;_.nd(a)};_.nd=function(a){if(0<a.A.length){var b=void 0!==a.j,c=void 0!==a.o;if(b||c){b=b?a.B:a.C;c=a.A;a.A=[];try{_.Ha(c,b,a)}catch(d){console.error(d)}}}};ld.prototype.B=function(a){a.o&&a.o.call(a.j,this.j)};ld.prototype.C=function(a){a.A&&a.A.call(a.j,this.o)};
-var md=function(a,b,c){this.o=a;this.A=b;this.j=c};
-_.pd=function(){this.B=new ld;this.o=new ld;this.F=new ld;this.C=new ld;this.D=new ld;this.H=new ld;this.K=new ld;this.j=new ld;this.A=new ld};_.h=_.pd.prototype;_.h.Wh=function(){return this.B};_.h.ii=function(){return this.o};_.h.ri=function(){return this.F};_.h.hi=function(){return this.C};_.h.ni=function(){return this.D};_.h.si=function(){return this.H};_.h.$h=function(){return this.K};_.h.ai=function(){return this.j};_.h.Ph=function(){return this.A};_.Aa(_.pd);
-var qd=function(a){_.z(this,a,0,-1,null,null)};_.v(qd,_.y);_.sd=function(){return _.G(_.rd,_.Bc,1)};_.td=function(){return _.G(_.rd,_.Cc,5)};
-var ud;window.gbar_&&window.gbar_.CONFIG?ud=window.gbar_.CONFIG[0]||{}:ud=[];_.rd=new qd(ud);
-var id,jd,dd,ed,cd;id=_.G(_.rd,_.hd,3)||new _.hd;jd=_.sd()||new _.Bc;_.M=new kd;dd=_.sd()||new _.Bc;ed=_.td()||new _.Cc;cd=_.G(_.rd,bd,4)||new bd;_.vd=new fd;
-_.t("gbar_._DumpException",function(a){_.M?_.M.log(a):console.error(a)});
-_.wd=new Lc(_.M);
-_.vd.log(8,{m:"BackCompat"==document.compatMode?"q":"s"});_.t("gbar.A",ld);ld.prototype.aa=ld.prototype.then;_.t("gbar.B",_.pd);_.pd.prototype.ba=_.pd.prototype.ii;_.pd.prototype.bb=_.pd.prototype.ri;_.pd.prototype.bd=_.pd.prototype.ni;_.pd.prototype.be=_.pd.prototype.si;_.pd.prototype.bf=_.pd.prototype.Wh;_.pd.prototype.bg=_.pd.prototype.hi;_.pd.prototype.bh=_.pd.prototype.$h;_.pd.prototype.bi=_.pd.prototype.ai;_.pd.prototype.bj=_.pd.prototype.Ph;_.t("gbar.a",_.pd.va());var xd=new Dc(window);
-_.Ic("api",xd);var yd=_.td()||new _.Cc,zd=_.L(_.A(yd,8));window.__PVT=zd;_.Ic("eq",_.wd);
-
-}catch(e){_._DumpException(e)}
-try{
-var Ad=function(a){_.z(this,a,0,-1,null,null)};_.v(Ad,_.y);
-var Bd=function(){_.J.call(this);this.o=[];this.j=[]};_.n(Bd,_.J);Bd.prototype.A=function(a,b){this.o.push({Zd:a,options:b})};Bd.prototype.init=function(a,b,c){window.gapi={};var d=window.___jsl={};d.h=_.L(_.A(a,1));_.tc(a,12)&&(d.dpo=_.K(_.B(a,12)));d.ms=_.L(_.A(a,2));d.m=_.L(_.A(a,3));d.l=[];_.A(b,1)&&(a=_.A(b,3))&&this.j.push(a);_.A(c,1)&&(c=_.A(c,2))&&this.j.push(c);_.t("gapi.load",(0,_.q)(this.A,this));return this};
-var Cd=_.G(_.rd,_.Mc,14)||new _.Mc,Dd=_.G(_.rd,_.Nc,9)||new _.Nc,Ed=new Ad,Fd=new Bd;Fd.init(Cd,Dd,Ed);_.Ic("gs",Fd);
-
-}catch(e){_._DumpException(e)}
-})(this.gbar_);
-// Google Inc.
-</script><style>.gb_1a:not(.gb_Rd){font:13px/27px Roboto,RobotoDraft,Arial,sans-serif;z-index:986}@keyframes gb__a{0%{opacity:0}50%{opacity:1}}a.gb_0{border:none;color:#4285f4;cursor:default;font-weight:bold;outline:none;position:relative;text-align:center;text-decoration:none;text-transform:uppercase;white-space:nowrap}a.gb_0:hover:after,a.gb_0:focus:after{background-color:rgba(0,0,0,.12);content:'';height:100%;left:0;position:absolute;top:0;width:100%}a.gb_0:hover,a.gb_0:focus{text-decoration:none}a.gb_0:active{background-color:rgba(153,153,153,.4);text-decoration:none}a.gb_1{background-color:#4285f4;color:#fff}a.gb_1:active{background-color:#0043b2}.gb_2{box-shadow:0 1px 1px rgba(0,0,0,.16)}.gb_0,.gb_1,.gb_3,.gb_4{display:inline-block;line-height:28px;padding:0 12px;border-radius:2px}.gb_3{background:#f8f8f8;border:1px solid #c6c6c6}.gb_4{background:#f8f8f8}.gb_3,#gb a.gb_3.gb_3,.gb_4{color:#666;cursor:default;text-decoration:none}#gb a.gb_4.gb_4{cursor:default;text-decoration:none}.gb_4{border:1px solid #4285f4;font-weight:bold;outline:none;background:#4285f4;background:linear-gradient(top,#4387fd,#4683ea);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#4387fd,endColorstr=#4683ea,GradientType=0)}#gb a.gb_4.gb_4{color:#fff}.gb_4:hover{box-shadow:0 1px 0 rgba(0,0,0,.15)}.gb_4:active{box-shadow:inset 0 2px 0 rgba(0,0,0,.15);background:#3c78dc;background:linear-gradient(top,#3c7ae4,#3f76d3);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#3c7ae4,endColorstr=#3f76d3,GradientType=0)}.gb_Fa{display:none!important}.gb_Ha{visibility:hidden}.gb_gd{display:inline-block;vertical-align:middle}.gb_Vf{position:relative}.gb_D{display:inline-block;outline:none;vertical-align:middle;border-radius:2px;box-sizing:border-box;height:40px;width:40px;color:#000;cursor:pointer;text-decoration:none}#gb#gb a.gb_D{color:#000;cursor:pointer;text-decoration:none}.gb_3a{border-color:transparent;border-bottom-color:#fff;border-style:dashed dashed solid;border-width:0 8.5px 8.5px;display:none;position:absolute;left:11.5px;top:43px;z-index:1;height:0;width:0;animation:gb__a .2s}.gb_4a{border-color:transparent;border-style:dashed dashed solid;border-width:0 8.5px 8.5px;display:none;position:absolute;left:11.5px;z-index:1;height:0;width:0;animation:gb__a .2s;border-bottom-color:#ccc;border-bottom-color:rgba(0,0,0,.2);top:42px}x:-o-prefocus,div.gb_4a{border-bottom-color:#ccc}.gb_F{background:#fff;border:1px solid #ccc;border-color:rgba(0,0,0,.2);color:#000;box-shadow:0 2px 10px rgba(0,0,0,.2);display:none;outline:none;overflow:hidden;position:absolute;right:8px;top:62px;animation:gb__a .2s;border-radius:2px}.gb_gd.gb_oa .gb_3a,.gb_gd.gb_oa .gb_4a,.gb_gd.gb_oa .gb_F,.gb_oa.gb_F{display:block}.gb_gd.gb_oa.gb_Wf .gb_3a,.gb_gd.gb_oa.gb_Wf .gb_4a{display:none}.gb_Xf{position:absolute;right:8px;top:62px;z-index:-1}.gb_Oa .gb_3a,.gb_Oa .gb_4a,.gb_Oa .gb_F{margin-top:-10px}.gb_gd:first-child,#gbsfw:first-child+.gb_gd{padding-left:4px}.gb_ta.gb_4e .gb_gd:first-child{padding-left:0}.gb_5e{position:relative}.gb_Rc .gb_5e,.gb_be .gb_5e{float:right}.gb_D{padding:8px;cursor:pointer}.gb_ta .gb_8c:not(.gb_0):focus img{background-color:rgba(0,0,0,0.20);outline:none;border-radius:50%}.gb_6e button:focus svg,.gb_6e button:hover svg,.gb_6e button:active svg,.gb_D:focus,.gb_D:hover,.gb_D:active,.gb_D[aria-expanded=true]{outline:none;border-radius:50%}.gb_zc .gb_6e.gb_7e button:focus svg,.gb_zc .gb_6e.gb_7e button:focus:hover svg,.gb_6e button:focus svg,.gb_6e button:focus:hover svg,.gb_D:focus,.gb_D:focus:hover{background-color:rgba(60,64,67,0.1)}.gb_zc .gb_6e.gb_7e button:active svg,.gb_6e button:active svg,.gb_D:active{background-color:rgba(60,64,67,0.12)}.gb_zc .gb_6e.gb_7e button:hover svg,.gb_6e button:hover svg,.gb_D:hover{background-color:rgba(60,64,67,0.08)}.gb_ja .gb_D.gb_Ra:hover{background-color:transparent}.gb_D[aria-expanded=true],.gb_D:hover[aria-expanded=true]{background-color:rgba(95,99,104,0.24)}.gb_D[aria-expanded=true] .gb_8e,.gb_D[aria-expanded=true] .gb_9e{fill:#5f6368;opacity:1}.gb_zc .gb_6e button:hover svg,.gb_zc .gb_D:hover{background-color:rgba(232,234,237,0.08)}.gb_zc .gb_6e button:focus svg,.gb_zc .gb_6e button:focus:hover svg,.gb_zc .gb_D:focus,.gb_zc .gb_D:focus:hover{background-color:rgba(232,234,237,0.10)}.gb_zc .gb_6e button:active svg,.gb_zc .gb_D:active{background-color:rgba(232,234,237,0.12)}.gb_zc .gb_D[aria-expanded=true],.gb_zc .gb_D:hover[aria-expanded=true]{background-color:rgba(255,255,255,0.12)}.gb_zc .gb_D[aria-expanded=true] .gb_8e,.gb_zc .gb_D[aria-expanded=true] .gb_9e{fill:#ffffff;opacity:1}.gb_gd{padding:4px}.gb_ta.gb_4e .gb_gd{padding:4px 2px}.gb_ta.gb_4e .gb_Sa.gb_gd{padding-left:6px}.gb_F{z-index:991;line-height:normal}.gb_F.gb_af{left:8px;right:auto}@media (max-width:350px){.gb_F.gb_af{left:0}}.gb_bf .gb_F{top:56px}.gb_C .gb_D,.gb_E .gb_C .gb_D{background-position:-64px -29px}.gb_j .gb_C .gb_D{background-position:-29px -29px;opacity:1}.gb_C .gb_D,.gb_C .gb_D:hover,.gb_C .gb_D:focus{opacity:1}.gb_Sd{display:none}.gb_0c{font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;letter-spacing:.25px;line-height:48px;margin-bottom:2px;opacity:1;overflow:hidden;padding-left:16px;position:relative;text-overflow:ellipsis;vertical-align:middle;top:2px;white-space:nowrap;flex:1 1 auto}.gb_0c.gb_1c{color:#3c4043}.gb_ta.gb_ua .gb_0c{margin-bottom:0}.gb_2c.gb_3c .gb_0c{padding-left:4px}.gb_ta.gb_ua .gb_4c{position:relative;top:-2px}.gb_ta{color:black;min-width:320px;position:relative;transition:box-shadow 250ms}.gb_ta.gb_Jc{min-width:240px}.gb_ta.gb_Td .gb_Ud{display:none}.gb_ta.gb_Td .gb_Vd{height:56px}header.gb_ta{display:block}.gb_ta svg{fill:currentColor}.gb_Wd{position:fixed;top:0;width:100%}.gb_Xd{box-shadow:0 4px 5px 0 rgba(0,0,0,0.14),0 1px 10px 0 rgba(0,0,0,0.12),0 2px 4px -1px rgba(0,0,0,0.2)}.gb_Zd{height:64px}.gb_ta:not(.gb_Mc) .gb_6c.gb_7c:not(.gb_0d):not(.gb_1d),.gb_ta:not(.gb_Mc) .gb_Od:not(.gb_0d):not(.gb_1d),.gb_ta.gb_2d .gb_6c.gb_7c.gb_0d,.gb_ta.gb_2d .gb_Od.gb_0d,.gb_ta.gb_2d .gb_6c.gb_7c.gb_1d,.gb_ta.gb_2d .gb_Od.gb_1d{display:none!important}.gb_Vd{box-sizing:border-box;position:relative;width:100%;display:flex;justify-content:space-between;min-width:min-content}.gb_ta:not(.gb_ua) .gb_Vd{padding:8px}.gb_ta.gb_3d .gb_Vd{flex:1 0 auto}.gb_ta .gb_Vd.gb_4d.gb_5d{min-width:0}.gb_ta.gb_ua .gb_Vd{padding:4px;padding-left:8px;min-width:0}.gb_Ud{height:48px;vertical-align:middle;white-space:nowrap;align-items:center;display:flex}.gb_7d>.gb_Ud{display:table-cell;width:100%}.gb_2c{padding-right:30px;box-sizing:border-box;flex:1 0 auto}.gb_ta.gb_ua .gb_2c{padding-right:14px}.gb_8d{flex:1 1 100%}.gb_8d>:only-child{display:inline-block}.gb_9d.gb_Sc{padding-left:4px}.gb_9d.gb_ae,.gb_ta.gb_3d .gb_9d,.gb_ta.gb_ua:not(.gb_be) .gb_9d{padding-left:0}.gb_ta.gb_ua .gb_9d.gb_ae{padding-right:0}.gb_ta.gb_ua .gb_9d.gb_ae .gb_ja{margin-left:10px}.gb_Sc{display:inline}.gb_ta.gb_Mc .gb_9d.gb_ce,.gb_ta.gb_be .gb_9d.gb_ce{padding-left:2px}.gb_0c{display:inline-block}.gb_9d{box-sizing:border-box;height:48px;line-height:normal;padding:0 4px;padding-left:30px;flex:0 0 auto;justify-content:flex-end}.gb_be{height:48px}.gb_ta.gb_be{min-width:initial;min-width:auto}.gb_be .gb_9d{float:right;padding-left:32px}.gb_be .gb_9d.gb_de{padding-left:0}.gb_ee{font-size:14px;max-width:200px;overflow:hidden;padding:0 12px;text-overflow:ellipsis;white-space:nowrap}.gb_fe{transition:background-color .4s}.gb_ge{color:black}.gb_zc{color:white}.gb_ta a,.gb_Fc a{color:inherit}.gb_t{color:rgba(0,0,0,0.87)}.gb_ta svg,.gb_Fc svg,.gb_2c .gb_he,.gb_Rc .gb_he{color:#5f6368;opacity:1}.gb_zc svg,.gb_Fc.gb_Kc svg,.gb_zc .gb_2c .gb_he,.gb_zc .gb_2c .gb_yc,.gb_zc .gb_2c .gb_4c,.gb_Fc.gb_Kc .gb_he{color:rgba(255,255,255, .87 )}.gb_zc .gb_2c .gb_va:not(.gb_ie){opacity:.87}.gb_1c{color:inherit;opacity:1;text-rendering:optimizeLegibility}.gb_zc .gb_1c,.gb_ge .gb_1c{opacity:1}.gb_je{position:relative}.gb_ke{font-family:arial,sans-serif;line-height:normal;padding-right:15px}a.gb_g,span.gb_g{color:rgba(0,0,0,0.87);text-decoration:none}.gb_zc a.gb_g,.gb_zc span.gb_g{color:white}a.gb_g:hover,a.gb_g:focus{opacity:.85;text-decoration:underline}.gb_h{display:inline-block;padding-left:15px}.gb_h .gb_g{display:inline-block;line-height:24px;outline:none;vertical-align:middle}.gb_le{font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-weight:500;font-size:14px;letter-spacing:.25px;line-height:16px;margin-left:10px;margin-right:8px;min-width:96px;padding:9px 23px;text-align:center;vertical-align:middle;border-radius:4px;box-sizing:border-box}.gb_ta.gb_be .gb_le{margin-left:8px}#gb a.gb_4.gb_4.gb_le,#gb a.gb_3.gb_3.gb_le{cursor:pointer}.gb_4.gb_le:hover{background:#2b7de9;box-shadow:0 1px 2px 0 rgba(66,133,244,0.3),0 1px 3px 1px rgba(66,133,244,0.15)}.gb_4.gb_le:focus,.gb_4.gb_le:hover:focus{background:#5094ed;box-shadow:0 1px 2px 0 rgba(66,133,244,0.3),0 1px 3px 1px rgba(66,133,244,0.15)}.gb_4.gb_le:active{background:#63a0ef;box-shadow:0 1px 2px 0 rgba(66,133,244,0.3),0 1px 3px 1px rgba(66,133,244,0.15)}.gb_le:not(.gb_3){background:#1a73e8;border:1px solid transparent}.gb_ta.gb_ua .gb_le{padding:9px 15px;min-width:80px}.gb_me{text-align:left}#gb a.gb_4.gb_ka.gb_le,#gb a.gb_le.gb_3{background:#ffffff;border-color:#dadce0;box-shadow:none;color:#1a73e8}#gb a.gb_4.gb_ka.gb_le:hover,#gb a.gb_le.gb_3:hover{background:#f8fbff;border-color:#cce0fc}#gb a.gb_4.gb_ka.gb_le:focus,#gb a.gb_4.gb_ka.gb_le:focus:hover,#gb a.gb_le.gb_3:focus,#gb a.gb_le.gb_3:focus:hover{background:#f4f8ff;border-color:#c9ddfc}#gb a.gb_4.gb_ka.gb_le:active,#gb a.gb_le.gb_3:active{background:#ecf3fe}#gb a.gb_4.gb_ka.gb_le:active{box-shadow:0 1px 2px 0 rgba(0,0,0,0.3),0 2px 6px 2px rgba(0,0,0,0.15)}#gb a.gb_le.gb_3:not(.gb_ka):active{box-shadow:0 1px 2px 0 rgba(60,64,67,0.3),0 2px 6px 2px rgba(60,64,67,0.15)}.gb_ja{background-color:rgba(255,255,255,0.88);border:1px solid #dadce0;box-sizing:border-box;cursor:pointer;display:inline-block;max-height:48px;overflow:hidden;outline:none;padding:0;vertical-align:middle;width:134px;border-radius:8px}.gb_ja.gb_ka{background-color:transparent;border:1px solid #5f6368}.gb_la{width:115px}.gb_ma{display:inherit}.gb_ma.gb_ka{background:#ffffff;border-radius:4px;display:inline-block;left:8px;margin-right:5px;position:relative;padding:3px;top:-1px}.gb_ma.gb_na.gb_ka{left:6px;margin-right:2px}.gb_ja:hover{border:1px solid #d2e3fc;background-color:rgba(248,250,255,0.88)}.gb_ja.gb_ka:hover{border:1px solid #5f6368;background-color:rgba(232,234,237,0.08)}.gb_ja:focus{border:1px solid #fff;background-color:rgba(255,255,255);box-shadow:0 1px 2px 0 rgba(60,64,67,0.3),0 1px 3px 1px rgba(60,64,67,0.15)}.gb_ja.gb_ka:focus{border:1px solid #e8eaed;background-color:#38383b}.gb_ja.gb_ka:active,.gb_ja.gb_oa.gb_ka:focus{border:1px solid #5f6368;background-color:#333438}.gb_pa{display:inline-block;padding-left:7px;padding-bottom:2px;text-align:center;vertical-align:middle;line-height:32px;width:78px}.gb_pa.gb_ka{line-height:26px;width:72px}.gb_pa.gb_qa.gb_ka{line-height:30px;width:57px}.gb_pa.gb_qa{line-height:40px;width:59px}.gb_pa.gb_ka{padding-left:0;padding-bottom:0}.gb_pa.gb_ra{background-color:#f1f3f4;border-radius:4px;margin-left:8px;padding-left:0}.gb_pa.gb_ra .gb_sa{vertical-align:middle}.gb_ta:not(.gb_ua) .gb_ja{margin-left:10px;margin-right:4px}.gb_ja .gb_sa.gb_va{min-width:0}.gb_wa{max-height:32px;width:78px}.gb_qa>.gb_wa{max-height:40px;width:96px}.gb_wa.gb_ka{max-height:26px;width:72px}.gb_qa>.gb_wa.gb_ka{max-height:30px;width:88px}.gb_Ia{background-size:32px 32px;border:0;border-radius:50%;display:block;margin:0;position:relative;height:32px;width:32px;z-index:0}.gb_Ja{background-color:#e8f0fe;border:1px solid rgba(32,33,36,.08);position:relative}.gb_Ja.gb_Ia{height:30px;width:30px}.gb_Ja.gb_Ia:hover,.gb_Ja.gb_Ia:active{box-shadow:none}.gb_Ka{background:#fff;border:none;border-radius:50%;bottom:2px;box-shadow:0 1px 2px 0 rgba(60,64,67,.30),0 1px 3px 1px rgba(60,64,67,.15);height:14px;margin:2px;position:absolute;right:0;width:14px}.gb_La{color:#1f71e7;font:400 22px/32px Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;text-align:center;text-transform:uppercase}@media (min-resolution:1.25dppx),(-o-min-device-pixel-ratio:5/4),(-webkit-min-device-pixel-ratio:1.25),(min-device-pixel-ratio:1.25){.gb_Ia::before{display:inline-block;transform:scale(.5);transform-origin:left 0}.gb_Ma::before{display:inline-block;transform:scale(.5);transform-origin:left 0}.gb_l .gb_Ma::before{transform:scale(0.416666667)}}.gb_Ia:hover,.gb_Ia:focus{box-shadow:0 1px 0 rgba(0,0,0,.15)}.gb_Ia:active{box-shadow:inset 0 2px 0 rgba(0,0,0,.15)}.gb_Ia:active::after{background:rgba(0,0,0,.1);border-radius:50%;content:'';display:block;height:100%}.gb_Na{cursor:pointer;line-height:40px;min-width:30px;opacity:.75;overflow:hidden;vertical-align:middle;text-overflow:ellipsis}.gb_D.gb_Na{width:auto}.gb_Na:hover,.gb_Na:focus{opacity:.85}.gb_Oa .gb_Na,.gb_Oa .gb_Pa{line-height:26px}#gb#gb.gb_Oa a.gb_Na,.gb_Oa .gb_Pa{font-size:11px;height:auto}.gb_Qa{border-top:4px solid #000;border-left:4px dashed transparent;border-right:4px dashed transparent;display:inline-block;margin-left:6px;opacity:.75;vertical-align:middle}.gb_Ra:hover .gb_Qa{opacity:.85}.gb_ja>.gb_Sa{padding:3px 3px 3px 4px}.gb_Ta.gb_Ha{color:#fff}.gb_j .gb_Na,.gb_j .gb_Qa{opacity:1}#gb#gb.gb_j.gb_j a.gb_Na,#gb#gb .gb_j.gb_j a.gb_Na{color:#fff}.gb_j.gb_j .gb_Qa{border-top-color:#fff;opacity:1}.gb_E .gb_Ia:hover,.gb_j .gb_Ia:hover,.gb_E .gb_Ia:focus,.gb_j .gb_Ia:focus{box-shadow: 0 1px 0 rgba(0,0,0,.15) , 0 1px 2px rgba(0,0,0,.2) }.gb_Ua .gb_Sa,.gb_Va .gb_Sa{position:absolute;right:1px}.gb_Sa.gb_i,.gb_Wa.gb_i,.gb_Ra.gb_i{flex:0 1 auto;flex:0 1 main-size}.gb_Xa.gb_Za .gb_Na{width:30px!important}.gb_0a{height:40px;position:absolute;right:-5px;top:-5px;width:40px}.gb_1a .gb_0a,.gb_2a .gb_0a{right:0;top:0}.gb_Sa .gb_D{padding:4px}.gb_oe{display:none}.gb_5c{display:none}.gb_5c.gb_oa{display:block}.gb_6c{background-color:#fff;box-shadow:0 1px 0 rgba(0,0,0,0.08);color:#000;position:relative;z-index:986}.gb_7c{height:40px;padding:16px 24px;white-space:nowrap}.gb_6c .gb_8c{border:0;font-weight:500;font-size:14px;line-height:36px;min-width:32px;padding:0 16px;vertical-align:middle}.gb_6c .gb_8c:before{content:'';height:6px;left:0;position:absolute;top:-6px;width:100%}.gb_6c .gb_8c:after{bottom:-6px;content:'';height:6px;left:0;position:absolute;width:100%}.gb_6c .gb_8c+.gb_8c{margin-left:8px}.gb_9c{height:48px;padding:4px;margin:-8px 0 0 -8px}.gb_ad{font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif;overflow:hidden;vertical-align:top}.gb_7c .gb_ad{display:inline-block;padding-left:8px;width:640px}.gb_bd{background-color:inherit}.gb_7c .gb_bd{display:inline-block;position:absolute;top:18px;right:24px}.gb_bd .gb_cd{height:1.5em;margin:-.25em 10px -.25em 0;vertical-align:text-top;width:1.5em}.gb_dd{line-height:20px;font-size:16px;font-weight:700;color:rgba(0,0,0,.87)}.gb_7c .gb_dd,.gb_7c .gb_ed{width:640px}.gb_ed .gb_fd,.gb_ed{line-height:20px;font-size:13px;font-weight:400;color:rgba(0,0,0,.54)}.gb_gd.gb_hd{padding:0}.gb_hd .gb_F{background:#ffffff;border:solid 1px transparent;border-radius:8px;box-sizing:border-box;padding:16px;right:16px;top:72px;box-shadow:0 1px 2px 0 rgba(65,69,73,0.3),0 3px 6px 2px rgba(65,69,73,0.15)}.gb_hd .gb_F.gb_id{right:60px;top:48px}.gb_hd .gb_F.gb_jd{top:62px}a.gb_kd{color:#5f6368!important;font-size:22px;height:24px;opacity:1;padding:8px;position:absolute;right:8px;top:8px;text-decoration:none!important;width:24px}a.gb_kd:focus,a.gb_kd:active,a.gb_kd:focus:hover{background-color:#e8eaed;border-radius:50%;outline:none}a.gb_kd:hover{background-color:#f1f3f4;border-radius:50%;outline:none}svg.gb_ld{fill:#5f6368;opacity:1}.gb_md{padding:0;white-space:normal;display:table}.gb_nd{line-height:normal;font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif}.gb_hd .gb_4:active{outline:none;box-shadow:0 4px 5px rgba(0,0,0,.16)}.gb_0.gb_od.gb_pd{border-radius:4px;box-sizing:border-box;cursor:pointer;height:36px;font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;letter-spacing:.25px;line-height:16px;min-width:70px;outline:none;text-transform:none}.gb_0.gb_qd.gb_pd{border-radius:4px;box-sizing:border-box;cursor:pointer;height:36px;color:#5f6368;font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;letter-spacing:.25px;line-height:16px;min-width:70px;outline:none;padding:8px 6px;text-transform:none}.gb_0.gb_od.gb_pd{background:white;border:1px solid #dadce0;color:#1a73e8;margin-top:21px;padding:9px 7px}.gb_0.gb_od.gb_pd:hover{background-color:rgba(26,115,232,0.04)}.gb_0.gb_od.gb_pd:focus,.gb_0.gb_od.gb_pd:focus:hover{background-color:rgba(26,115,232,0.12);border:solid 1px #1a73e8}.gb_0.gb_od.gb_pd:active{background-color:rgba(26,115,232,0.1);border-color:transparent}.gb_0.gb_qd:hover{background-color:#f8f9fa}.gb_0.gb_qd:focus,.gb_0.gb_qd:hover:focus{background-color:#f1f3f4;border-color:transparent}.gb_0.gb_qd:active{background-color:#f1f3f4;box-shadow:0 1px 2px 0 rgba(60,64,67,0.3),0 1px 3px 1px rgba(60,64,67,0.15)}.gb_fd{color:#5f6368;font-family:Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-size:14px;letter-spacing:.25px;line-height:20px;margin:0;margin-bottom:5px}.gb_rd{text-align:right;font-size:14px;padding-bottom:0;white-space:nowrap}.gb_rd .gb_sd,.gb_rd .gb_td{margin-left:12px;text-transform:none}a.gb_4.gb_sd:hover{background-color:#2b7de9;border-color:transparent;box-shadow:0 1px 2px 0 rgba(66,133,244,0.3),0 1px 3px 1px rgba(66,133,244,0.15)}a.gb_4.gb_sd:focus,a.gb_4.gb_sd:hover:focus{background-color:#5094ed;border-color:transparent;box-shadow:0 1px 2px 0 rgba(66,133,244,0.3),0 1px 3px 1px rgba(66,133,244,0.15)}a.gb_4.gb_sd:active{background-color:#63a0ef;box-shadow:0 1px 2px 0 rgba(66,133,244,0.3),0 1px 3px 1px rgba(66,133,244,0.15)}.gb_rd .gb_pd.gb_sd img{background-color:inherit;border-radius:initial;height:18px;margin:0 8px 0 4px;vertical-align:text-top;width:18px}.gb_ud .gb_md .gb_vd .gb_pd{border:2px solid transparent}.gb_md .gb_vd .gb_pd:focus:after,.gb_md .gb_vd .gb_pd:hover:after{background-color:transparent}.gb_nd{background-color:#404040;color:#fff;padding:16px;position:absolute;top:62px;min-width:328px;max-width:650px;right:8px;border-radius:2px;box-shadow:4px 4px 12px rgba(0,0,0,0.4)}.gb_nd a,.gb_nd a:visited{color:#5e97f6;text-decoration:none}.gb_wd{text-transform:uppercase}.gb_xd{padding-left:50px}.gb_yd{color:#3c4043;font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-size:16px;font-weight:500;letter-spacing:.1px;line-height:20px;margin:0;margin-bottom:12px}.gb_fd a.gb_Ad{text-decoration:none;color:#5e97f6}.gb_fd a.gb_Ad:visited{color:#5e97f6}.gb_fd a.gb_Ad:hover,.gb_fd a.gb_Ad:active{text-decoration:underline}.gb_Bd{position:absolute;background:transparent;top:-999px;z-index:-1;visibility:hidden;margin-top:1px;margin-left:1px}#gb .gb_hd{margin:0}.gb_hd .gb_8c{background:#4d90fe;border:2px solid transparent;box-sizing:border-box;font-weight:500;margin-top:21px;min-width:70px;text-align:center}.gb_hd a.gb_4{background:#1a73e8;border-radius:4px;color:#ffffff;font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-size:14px;font-weight:500;letter-spacing:.25px;line-height:16px;padding:8px 22px}.gb_hd a.gb_4.gb_Cd{background:#d93025}.gb_hd a.gb_4.gb_Cd:hover{background-color:#cc3127;box-shadow:0 -1px 5px rgba(128,134,139,0.09),0 3px 5px rgba(128,134,139,0.06),0 1px 2px rgba(60,64,67,0.3),0 1px 3px rgba(60,64,67,0.15)}.gb_hd a.gb_4.gb_Cd:focus,.gb_hd a.gb_4.gb_Cd:focus:hover{background-color:#b3332c;box-shadow:none}.gb_hd a.gb_4.gb_Cd:active,.gb_hd a.gb_4.gb_Cd:focus:active{background-color:#a6342e;box-shadow:0 -2px 8px rgba(128,134,139,0.09),0 4px 8px rgba(128,134,139,0.06),0 1px 2px rgba(60,64,67,0.3),0 2px 6px rgba(60,64,67,0.15)}.gb_hd.gb_Dd a.gb_4{float:right}#gb .gb_hd a.gb_8c.gb_8c{color:#ffffff;cursor:pointer}.gb_hd .gb_8c:hover{background:#357ae8;border-color:#2f5bb7}.gb_Ed,.gb_vd{display:table-cell}.gb_Ed{vertical-align:middle}.gb_Ed img{height:48px;padding-left:4px;padding-right:20px;width:48px}.gb_vd{padding-left:13px;width:100%}.gb_hd .gb_vd{padding-top:4px;min-width:326px;padding-left:0;width:326px}.gb_hd.gb_Fd .gb_vd{min-width:254px;width:254px}.gb_hd.gb_Dd .gb_vd{padding-top:32px}.gb_Hd{display:block;display:inline-block;padding:1em 0 0 0;position:relative;width:100%}.gb_Id{color:#ff0000;font-style:italic;margin:0;padding-left:46px}.gb_Hd .gb_Jd{float:right;margin:-20px 0;width:calc(100% - 46px)}.gb_Kd svg{fill:grey}.gb_Kd.gb_Ld svg{fill:#4285f4}.gb_Hd .gb_Jd label:after{background-color:#4285f4}.gb_Kd{display:inline;float:right;margin-right:22px;position:relative;top:2px}.gb_Od{color:#ffffff;font-size:13px;font-weight:bold;height:25px;line-height:19px;padding-top:5px;padding-left:12px;position:relative;background-color:#4d90fe}.gb_Od .gb_Pd{color:#ffffff;cursor:default;font-size:22px;font-weight:normal;position:absolute;right:12px;top:5px}.gb_Od .gb_sd,.gb_Od .gb_qd{color:#ffffff;display:inline-block;font-size:11px;margin-left:16px;padding:0 8px;white-space:nowrap}.gb_Qd{background:none;background-image:linear-gradient(top,rgba(0,0,0,0.16),rgba(0,0,0,0.2));border-radius:2px;border:1px solid #dcdcdc;border:1px solid rgba(0,0,0,0.1);cursor:default!important;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#160000ff,endColorstr=#220000ff);text-decoration:none!important}.gb_Qd:hover{background:none;background-image:linear-gradient(top,rgba(0,0,0,0.14),rgba(0,0,0,0.2));border:1px solid rgba(0,0,0,0.2);box-shadow:0 1px 1px rgba(0,0,0,0.1);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#14000000,endColorstr=#22000000)}.gb_Qd:active{box-shadow:inset 0 1px 2px rgba(0,0,0,0.3)}.gb_ta .gb_0{color:#4285f4}.gb_ta .gb_1{color:#fff}.gb_ta .gb_8c:not(.gb_2e):focus{outline:none}sentinel{}</style></head><body dir="ltr" role="application" itemscope itemtype="http://schema.org/CreativeWork/DocumentObject"><div style="display:none"><div id="one-google-bar" class="ndfHFb-c4YZDc-Woal0c-jcJzye-ZMv3u ndfHFb-c4YZDc-n1UuX-Bz112c"><div class="gb_ta gb_be gb_1a" id="gb"><div class="gb_9d gb_Xa gb_Ud" ng-non-bindable="" data-ogsr-up="" style="padding:0"><div class="gb_5e" style="display:block"><div class="gb_Sc"></div><a class="gb_4 gb_5 gb_le gb_8c" href="https://accounts.google.com/ServiceLogin?service=wise&amp;passive=1209600&amp;continue=https://drive.google.com/file/d/1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW/view?usp%3Dsharing&amp;followup=https://drive.google.com/file/d/1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW/view?usp%3Dsharing&amp;ec=GAZAGQ" target="_top">Sign in</a></div></div></div><script>this.gbar_=this.gbar_||{};(function(_){var window=this;
-try{
-/*
-
- Copyright The Closure Library Authors.
- SPDX-License-Identifier: Apache-2.0
-*/
-_.Gd=!_.x||_.dc(9);_.Hd=!_.x||_.dc(9);_.Id=_.x&&!_.bc("9");_.Jd=function(){if(!_.p.addEventListener||!Object.defineProperty)return!1;var a=!1,b=Object.defineProperty({},"passive",{get:function(){a=!0}});try{_.p.addEventListener("test",_.za,b),_.p.removeEventListener("test",_.za,b)}catch(c){}return a}();
-_.Kd=_.Nb?"webkitTransitionEnd":_.Jb?"otransitionend":"transitionend";
-
-}catch(e){_._DumpException(e)}
-try{
-_.Ld=function(a,b,c){if(!a.o)if(c instanceof Array){c=_.la(c);for(var d=c.next();!d.done;d=c.next())_.Ld(a,b,d.value)}else{d=(0,_.q)(a.F,a,b);var e=a.D+c;a.D++;b.setAttribute("data-eqid",e);a.B[e]=d;b&&b.addEventListener?b.addEventListener(c,d,!1):b&&b.attachEvent?b.attachEvent("on"+c,d):a.C.log(Error("n`"+b))}};
-
-}catch(e){_._DumpException(e)}
-try{
-var Md=document.querySelector(".gb_C .gb_D"),Nd=document.querySelector("#gb.gb_Jc");Md&&!Nd&&_.Ld(_.wd,Md,"click");
-
-}catch(e){_._DumpException(e)}
-try{
-var Ih=function(a){_.J.call(this);this.C=a;this.A=null;this.o={};this.D={};this.j={};this.B=null};_.n(Ih,_.J);_.Jh=function(a){if(a.A)return a.A;for(var b in a.j)if(a.j[b].ef()&&a.j[b].Ub())return a.j[b];return null};_.h=Ih.prototype;_.h.Bf=function(a){a&&_.Jh(this)&&a!=_.Jh(this)&&_.Jh(this).Ae(!1);this.A=a};_.h.Ag=function(a){a=this.j[a]||a;return _.Jh(this)==a};_.h.Ne=function(a,b){b=b.od();if(this.o[a]&&this.o[a][b])for(var c=0;c<this.o[a][b].length;c++)try{this.o[a][b][c]()}catch(d){this.C.log(d)}};
-_.h.uh=function(a){return!this.D[a.od()]};_.h.Zg=function(a){this.j[a]&&(_.Jh(this)&&_.Jh(this).od()==a||this.j[a].Ae(!0))};_.h.hb=function(a){this.B=a;for(var b in this.j)this.j[b].ef()&&this.j[b].hb(a)};_.h.vf=function(a){this.j[a.od()]=a};var Kh=new Ih(_.M);_.Ic("dd",Kh);
-
-}catch(e){_._DumpException(e)}
-try{
-var qj=document.querySelector(".gb_Sa .gb_D"),rj=document.querySelector("#gb.gb_Jc");qj&&!rj&&_.Ld(_.wd,qj,"click");
-
-}catch(e){_._DumpException(e)}
-})(this.gbar_);
-// Google Inc.
-</script></div></div><meta itemprop="name" content="daily_bike_data.csv"><meta itemprop="faviconUrl" content="https://ssl.gstatic.com/images/branding/product/1x/drive_2020q4_32dp.png"><meta itemprop="url" content="https://drive.google.com/file/d/1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW/view?usp=sharing&amp;usp=embed_googleplus"><meta itemprop="embedURL" content="https://drive.google.com/file/d/1kfmFupf81DtW9cMU1VhoUfkjBtfoyvKW/preview?usp=embed_googleplus"><div ng-non-bindable=""></div><script>this.gbar_=this.gbar_||{};(function(_){var window=this;
-try{
-/*
-
- Copyright The Closure Library Authors.
- SPDX-License-Identifier: Apache-2.0
-*/
-var Qd,Rd,Sd,Yd,Zd,$d,ae,be,ce,de,ie;_.Od=function(a){var b=a.length;if(0<b){for(var c=Array(b),d=0;d<b;d++)c[d]=a[d];return c}return[]};_.Pd=function(a,b){var c=Array.prototype.slice.call(arguments,1);return function(){var d=c.slice();d.push.apply(d,arguments);return a.apply(this,d)}};Qd=null;Rd=/^[\w+/_-]+[=]{0,2}$/;Sd=function(a){return(a=a.querySelector&&a.querySelector("script[nonce]"))&&(a=a.nonce||a.getAttribute("nonce"))&&Rd.test(a)?a:""};
-_.Td=function(a){if(a&&a!=_.p)return Sd(a.document);null===Qd&&(Qd=Sd(_.p.document));return Qd};_.Ud=function(a){var b=typeof a;return"object"!=b?b:a?Array.isArray(a)?"array":b:"null"};_.Vd=function(a){var b=_.Ud(a);return"array"==b||"object"==b&&"number"==typeof a.length};_.Wd=function(){return Date.now()};_.Xd=function(a,b){return 0==a.lastIndexOf(b,0)};Yd=/&/g;Zd=/</g;$d=/>/g;ae=/"/g;be=/'/g;ce=/\x00/g;de=/[\x00&<>"']/;
-_.ee=function(a,b){if(b)a=a.replace(Yd,"&amp;").replace(Zd,"&lt;").replace($d,"&gt;").replace(ae,"&quot;").replace(be,"&#39;").replace(ce,"&#0;");else{if(!de.test(a))return a;-1!=a.indexOf("&")&&(a=a.replace(Yd,"&amp;"));-1!=a.indexOf("<")&&(a=a.replace(Zd,"&lt;"));-1!=a.indexOf(">")&&(a=a.replace($d,"&gt;"));-1!=a.indexOf('"')&&(a=a.replace(ae,"&quot;"));-1!=a.indexOf("'")&&(a=a.replace(be,"&#39;"));-1!=a.indexOf("\x00")&&(a=a.replace(ce,"&#0;"))}return a};
-_.fe=function(a){var b=_.Td(a.ownerDocument&&a.ownerDocument.defaultView);b&&a.setAttribute("nonce",b)};_.ge=function(a,b){a.src=_.Wa(b);_.fe(a)};_.he=function(a){return a=_.ee(a,void 0)};ie=!_.x||_.dc(9);_.je=!_.Mb&&!_.x||_.x&&_.dc(9)||_.Mb&&_.bc("1.9.1");_.ke=_.x&&!_.bc("9");_.le=_.x||_.Jb||_.Nb;
-_.me=function(a,b){this.width=a;this.height=b};_.h=_.me.prototype;_.h.aspectRatio=function(){return this.width/this.height};_.h.jc=function(){return!(this.width*this.height)};_.h.ceil=function(){this.width=Math.ceil(this.width);this.height=Math.ceil(this.height);return this};_.h.floor=function(){this.width=Math.floor(this.width);this.height=Math.floor(this.height);return this};_.h.round=function(){this.width=Math.round(this.width);this.height=Math.round(this.height);return this};
-var pe;_.ne=function(a,b){return(b||document).getElementsByTagName(String(a))};_.N=function(a,b){var c=b||document;if(c.getElementsByClassName)a=c.getElementsByClassName(a)[0];else{c=document;var d=b||c;a=d.querySelectorAll&&d.querySelector&&a?d.querySelector(a?"."+a:""):_.oe(c,"*",a,b)[0]||null}return a||null};
-_.oe=function(a,b,c,d){a=d||a;b=b&&"*"!=b?String(b).toUpperCase():"";if(a.querySelectorAll&&a.querySelector&&(b||c))return a.querySelectorAll(b+(c?"."+c:""));if(c&&a.getElementsByClassName){a=a.getElementsByClassName(c);if(b){d={};for(var e=0,f=0,g;g=a[f];f++)b==g.nodeName&&(d[e++]=g);d.length=e;return d}return a}a=a.getElementsByTagName(b||"*");if(c){d={};for(f=e=0;g=a[f];f++)b=g.className,"function"==typeof b.split&&_.ca(b.split(/\s+/),c)&&(d[e++]=g);d.length=e;return d}return a};
-_.qe=function(a,b){_.La(b,function(c,d){c&&"object"==typeof c&&c.Rb&&(c=c.Gb());"style"==d?a.style.cssText=c:"class"==d?a.className=c:"for"==d?a.htmlFor=c:pe.hasOwnProperty(d)?a.setAttribute(pe[d],c):_.Xd(d,"aria-")||_.Xd(d,"data-")?a.setAttribute(d,c):a[d]=c})};pe={cellpadding:"cellPadding",cellspacing:"cellSpacing",colspan:"colSpan",frameborder:"frameBorder",height:"height",maxlength:"maxLength",nonce:"nonce",role:"role",rowspan:"rowSpan",type:"type",usemap:"useMap",valign:"vAlign",width:"width"};
-_.te=function(a,b){var c=String(b[0]),d=b[1];if(!ie&&d&&(d.name||d.type)){c=["<",c];d.name&&c.push(' name="',_.he(d.name),'"');if(d.type){c.push(' type="',_.he(d.type),'"');var e={};_.Na(e,d);delete e.type;d=e}c.push(">");c=c.join("")}c=_.re(a,c);d&&("string"===typeof d?c.className=d:Array.isArray(d)?c.className=d.join(" "):_.qe(c,d));2<b.length&&_.se(a,c,b,2);return c};
-_.se=function(a,b,c,d){function e(k){k&&b.appendChild("string"===typeof k?a.createTextNode(k):k)}for(;d<c.length;d++){var f=c[d];if(!_.Vd(f)||_.Ba(f)&&0<f.nodeType)e(f);else{a:{if(f&&"number"==typeof f.length){if(_.Ba(f)){var g="function"==typeof f.item||"string"==typeof f.item;break a}if("function"===typeof f){g="function"==typeof f.item;break a}}g=!1}_.Ha(g?_.Od(f):f,e)}}};_.ue=function(a){return _.re(document,a)};
-_.re=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)};_.ve=function(a){for(var b;b=a.firstChild;)a.removeChild(b)};_.we=function(a){return a&&a.parentNode?a.parentNode.removeChild(a):null};_.xe=function(a){return _.Ba(a)&&1==a.nodeType};_.ye=function(a){return 9==a.nodeType?a:a.ownerDocument||a.document};_.ze=function(a,b,c){for(var d=0;a&&(null==c||d<=c);){if(b(a))return a;a=a.parentNode;d++}return null};
-
-}catch(e){_._DumpException(e)}
-try{
-_.vj=function(a){_.z(this,a,0,-1,null,null)};_.v(_.vj,_.y);_.wj=function(a,b,c){a.rel=c;a.href=-1!=c.toLowerCase().indexOf("stylesheet")?_.Xa(b):b instanceof _.Va?_.Xa(b):b instanceof _.cb?_.db(b):_.db(_.jb(b))};
-_.xj=function(a){return _.Ya(_.A(a,4)||"")};
-
-}catch(e){_._DumpException(e)}
-try{
-var yj=function(a,b,c){_.vd.log(46,{att:a,max:b,url:c})},Aj=function(a,b,c){_.vd.log(47,{att:a,max:b,url:c});a<b?zj(a+1,b):_.M.log(Error("R`"+a+"`"+b),{url:c})},zj=function(a,b){if(Bj){var c=_.ue("SCRIPT");c.async=!0;c.type="text/javascript";c.charset="UTF-8";_.ge(c,Bj);c.onload=_.Pd(yj,a,b,c.src);c.onerror=_.Pd(Aj,a,b,c.src);_.vd.log(45,{att:a,max:b,url:c.src});_.ne("HEAD")[0].appendChild(c)}},Cj=function(a){_.z(this,a,0,-1,null,null)};_.v(Cj,_.y);
-var Dj=_.G(_.rd,Cj,17)||new Cj,Ej,Bj=(Ej=_.G(Dj,_.vj,1))?_.xj(Ej):null,Fj,Gj=(Fj=_.G(Dj,_.vj,2))?_.xj(Fj):null,Hj=function(){zj(1,2);if(Gj){var a=_.ue("LINK");a.setAttribute("type","text/css");_.wj(a,Gj,"stylesheet");var b=_.Td();b&&a.setAttribute("nonce",b);_.ne("HEAD")[0].appendChild(a)}};
-(function(){var a=_.sd();if(_.B(a,18))Hj();else{var b=_.A(a,19)||0;window.addEventListener("load",function(){window.setTimeout(Hj,b)})}})();
-
-}catch(e){_._DumpException(e)}
-})(this.gbar_);
-// Google Inc.
-</script><script id="base-js" async type="text/javascript" src="https://www.gstatic.com/_/apps-fileview/_/js/k=apps-fileview.v.en.S1y74lctIDw.O/d=1/ct=zgms/rs=AO0039tvcSTWGqk49eJbqEs8mIVV0sr-3w/m=v,vl"></script></body></html>
+"instant","dteday","season","yr","mnth","holiday","weekday","workingday","weathersit","temp","atemp","hum","windspeed","casual","registered","cnt"
+1,"2011-01-01","spring",2011,"January","not holiday","Saturday","not workday",2,0.344167,0.363625,0.805833,0.160446,331,654,985
+2,"2011-01-02","spring",2011,"January","not holiday","Sunday","not workday",2,0.363478,0.353739,0.696087,0.248539,131,670,801
+3,"2011-01-03","spring",2011,"January","not holiday","Monday","workday",1,0.196364,0.189405,0.437273,0.248309,120,1229,1349
+4,"2011-01-04","spring",2011,"January","not holiday","Tuesday","workday",1,0.2,0.212122,0.590435,0.160296,108,1454,1562
+5,"2011-01-05","spring",2011,"January","not holiday","Wednesday","workday",1,0.226957,0.22927,0.436957,0.1869,82,1518,1600
+6,"2011-01-06","spring",2011,"January","not holiday","Thursday","workday",1,0.204348,0.233209,0.518261,0.0895652,88,1518,1606
+7,"2011-01-07","spring",2011,"January","not holiday","Friday","workday",2,0.196522,0.208839,0.498696,0.168726,148,1362,1510
+8,"2011-01-08","spring",2011,"January","not holiday","Saturday","not workday",2,0.165,0.162254,0.535833,0.266804,68,891,959
+9,"2011-01-09","spring",2011,"January","not holiday","Sunday","not workday",1,0.138333,0.116175,0.434167,0.36195,54,768,822
+10,"2011-01-10","spring",2011,"January","not holiday","Monday","workday",1,0.150833,0.150888,0.482917,0.223267,41,1280,1321
+11,"2011-01-11","spring",2011,"January","not holiday","Tuesday","workday",2,0.169091,0.191464,0.686364,0.122132,43,1220,1263
+12,"2011-01-12","spring",2011,"January","not holiday","Wednesday","workday",1,0.172727,0.160473,0.599545,0.304627,25,1137,1162
+13,"2011-01-13","spring",2011,"January","not holiday","Thursday","workday",1,0.165,0.150883,0.470417,0.301,38,1368,1406
+14,"2011-01-14","spring",2011,"January","not holiday","Friday","workday",1,0.16087,0.188413,0.537826,0.126548,54,1367,1421
+15,"2011-01-15","spring",2011,"January","not holiday","Saturday","not workday",2,0.233333,0.248112,0.49875,0.157963,222,1026,1248
+16,"2011-01-16","spring",2011,"January","not holiday","Sunday","not workday",1,0.231667,0.234217,0.48375,0.188433,251,953,1204
+17,"2011-01-17","spring",2011,"January","holiday","Monday","not workday",2,0.175833,0.176771,0.5375,0.194017,117,883,1000
+18,"2011-01-18","spring",2011,"January","not holiday","Tuesday","workday",2,0.216667,0.232333,0.861667,0.146775,9,674,683
+19,"2011-01-19","spring",2011,"January","not holiday","Wednesday","workday",2,0.292174,0.298422,0.741739,0.208317,78,1572,1650
+20,"2011-01-20","spring",2011,"January","not holiday","Thursday","workday",2,0.261667,0.25505,0.538333,0.195904,83,1844,1927
+21,"2011-01-21","spring",2011,"January","not holiday","Friday","workday",1,0.1775,0.157833,0.457083,0.353242,75,1468,1543
+22,"2011-01-22","spring",2011,"January","not holiday","Saturday","not workday",1,0.0591304,0.0790696,0.4,0.17197,93,888,981
+23,"2011-01-23","spring",2011,"January","not holiday","Sunday","not workday",1,0.0965217,0.0988391,0.436522,0.2466,150,836,986
+24,"2011-01-24","spring",2011,"January","not holiday","Monday","workday",1,0.0973913,0.11793,0.491739,0.15833,86,1330,1416
+25,"2011-01-25","spring",2011,"January","not holiday","Tuesday","workday",2,0.223478,0.234526,0.616957,0.129796,186,1799,1985
+26,"2011-01-26","spring",2011,"January","not holiday","Wednesday","workday",3,0.2175,0.2036,0.8625,0.29385,34,472,506
+27,"2011-01-27","spring",2011,"January","not holiday","Thursday","workday",1,0.195,0.2197,0.6875,0.113837,15,416,431
+28,"2011-01-28","spring",2011,"January","not holiday","Friday","workday",2,0.203478,0.223317,0.793043,0.1233,38,1129,1167
+29,"2011-01-29","spring",2011,"January","not holiday","Saturday","not workday",1,0.196522,0.212126,0.651739,0.145365,123,975,1098
+30,"2011-01-30","spring",2011,"January","not holiday","Sunday","not workday",1,0.216522,0.250322,0.722174,0.0739826,140,956,1096
+31,"2011-01-31","spring",2011,"January","not holiday","Monday","workday",2,0.180833,0.18625,0.60375,0.187192,42,1459,1501
+32,"2011-02-01","spring",2011,"February","not holiday","Tuesday","workday",2,0.192174,0.23453,0.829565,0.053213,47,1313,1360
+33,"2011-02-02","spring",2011,"February","not holiday","Wednesday","workday",2,0.26,0.254417,0.775417,0.264308,72,1454,1526
+34,"2011-02-03","spring",2011,"February","not holiday","Thursday","workday",1,0.186957,0.177878,0.437826,0.277752,61,1489,1550
+35,"2011-02-04","spring",2011,"February","not holiday","Friday","workday",2,0.211304,0.228587,0.585217,0.127839,88,1620,1708
+36,"2011-02-05","spring",2011,"February","not holiday","Saturday","not workday",2,0.233333,0.243058,0.929167,0.161079,100,905,1005
+37,"2011-02-06","spring",2011,"February","not holiday","Sunday","not workday",1,0.285833,0.291671,0.568333,0.1418,354,1269,1623
+38,"2011-02-07","spring",2011,"February","not holiday","Monday","workday",1,0.271667,0.303658,0.738333,0.0454083,120,1592,1712
+39,"2011-02-08","spring",2011,"February","not holiday","Tuesday","workday",1,0.220833,0.198246,0.537917,0.36195,64,1466,1530
+40,"2011-02-09","spring",2011,"February","not holiday","Wednesday","workday",2,0.134783,0.144283,0.494783,0.188839,53,1552,1605
+41,"2011-02-10","spring",2011,"February","not holiday","Thursday","workday",1,0.144348,0.149548,0.437391,0.221935,47,1491,1538
+42,"2011-02-11","spring",2011,"February","not holiday","Friday","workday",1,0.189091,0.213509,0.506364,0.10855,149,1597,1746
+43,"2011-02-12","spring",2011,"February","not holiday","Saturday","not workday",1,0.2225,0.232954,0.544167,0.203367,288,1184,1472
+44,"2011-02-13","spring",2011,"February","not holiday","Sunday","not workday",1,0.316522,0.324113,0.457391,0.260883,397,1192,1589
+45,"2011-02-14","spring",2011,"February","not holiday","Monday","workday",1,0.415,0.39835,0.375833,0.417908,208,1705,1913
+46,"2011-02-15","spring",2011,"February","not holiday","Tuesday","workday",1,0.266087,0.254274,0.314348,0.291374,140,1675,1815
+47,"2011-02-16","spring",2011,"February","not holiday","Wednesday","workday",1,0.318261,0.3162,0.423478,0.251791,218,1897,2115
+48,"2011-02-17","spring",2011,"February","not holiday","Thursday","workday",1,0.435833,0.428658,0.505,0.230104,259,2216,2475
+49,"2011-02-18","spring",2011,"February","not holiday","Friday","workday",1,0.521667,0.511983,0.516667,0.264925,579,2348,2927
+50,"2011-02-19","spring",2011,"February","not holiday","Saturday","not workday",1,0.399167,0.391404,0.187917,0.507463,532,1103,1635
+51,"2011-02-20","spring",2011,"February","not holiday","Sunday","not workday",1,0.285217,0.27733,0.407826,0.223235,639,1173,1812
+52,"2011-02-21","spring",2011,"February","holiday","Monday","not workday",2,0.303333,0.284075,0.605,0.307846,195,912,1107
+53,"2011-02-22","spring",2011,"February","not holiday","Tuesday","workday",1,0.182222,0.186033,0.577778,0.195683,74,1376,1450
+54,"2011-02-23","spring",2011,"February","not holiday","Wednesday","workday",1,0.221739,0.245717,0.423043,0.094113,139,1778,1917
+55,"2011-02-24","spring",2011,"February","not holiday","Thursday","workday",2,0.295652,0.289191,0.697391,0.250496,100,1707,1807
+56,"2011-02-25","spring",2011,"February","not holiday","Friday","workday",2,0.364348,0.350461,0.712174,0.346539,120,1341,1461
+57,"2011-02-26","spring",2011,"February","not holiday","Saturday","not workday",1,0.2825,0.282192,0.537917,0.186571,424,1545,1969
+58,"2011-02-27","spring",2011,"February","not holiday","Sunday","not workday",1,0.343478,0.351109,0.68,0.125248,694,1708,2402
+59,"2011-02-28","spring",2011,"February","not holiday","Monday","workday",2,0.407273,0.400118,0.876364,0.289686,81,1365,1446
+60,"2011-03-01","spring",2011,"March","not holiday","Tuesday","workday",1,0.266667,0.263879,0.535,0.216425,137,1714,1851
+61,"2011-03-02","spring",2011,"March","not holiday","Wednesday","workday",1,0.335,0.320071,0.449583,0.307833,231,1903,2134
+62,"2011-03-03","spring",2011,"March","not holiday","Thursday","workday",1,0.198333,0.200133,0.318333,0.225754,123,1562,1685
+63,"2011-03-04","spring",2011,"March","not holiday","Friday","workday",2,0.261667,0.255679,0.610417,0.203346,214,1730,1944
+64,"2011-03-05","spring",2011,"March","not holiday","Saturday","not workday",2,0.384167,0.378779,0.789167,0.251871,640,1437,2077
+65,"2011-03-06","spring",2011,"March","not holiday","Sunday","not workday",2,0.376522,0.366252,0.948261,0.343287,114,491,605
+66,"2011-03-07","spring",2011,"March","not holiday","Monday","workday",1,0.261739,0.238461,0.551304,0.341352,244,1628,1872
+67,"2011-03-08","spring",2011,"March","not holiday","Tuesday","workday",1,0.2925,0.3024,0.420833,0.12065,316,1817,2133
+68,"2011-03-09","spring",2011,"March","not holiday","Wednesday","workday",2,0.295833,0.286608,0.775417,0.22015,191,1700,1891
+69,"2011-03-10","spring",2011,"March","not holiday","Thursday","workday",3,0.389091,0.385668,0,0.261877,46,577,623
+70,"2011-03-11","spring",2011,"March","not holiday","Friday","workday",2,0.316522,0.305,0.649565,0.23297,247,1730,1977
+71,"2011-03-12","spring",2011,"March","not holiday","Saturday","not workday",1,0.329167,0.32575,0.594583,0.220775,724,1408,2132
+72,"2011-03-13","spring",2011,"March","not holiday","Sunday","not workday",1,0.384348,0.380091,0.527391,0.270604,982,1435,2417
+73,"2011-03-14","spring",2011,"March","not holiday","Monday","workday",1,0.325217,0.332,0.496957,0.136926,359,1687,2046
+74,"2011-03-15","spring",2011,"March","not holiday","Tuesday","workday",2,0.317391,0.318178,0.655652,0.184309,289,1767,2056
+75,"2011-03-16","spring",2011,"March","not holiday","Wednesday","workday",2,0.365217,0.36693,0.776522,0.203117,321,1871,2192
+76,"2011-03-17","spring",2011,"March","not holiday","Thursday","workday",1,0.415,0.410333,0.602917,0.209579,424,2320,2744
+77,"2011-03-18","spring",2011,"March","not holiday","Friday","workday",1,0.54,0.527009,0.525217,0.231017,884,2355,3239
+78,"2011-03-19","spring",2011,"March","not holiday","Saturday","not workday",1,0.4725,0.466525,0.379167,0.368167,1424,1693,3117
+79,"2011-03-20","spring",2011,"March","not holiday","Sunday","not workday",1,0.3325,0.32575,0.47375,0.207721,1047,1424,2471
+80,"2011-03-21","summer",2011,"March","not holiday","Monday","workday",2,0.430435,0.409735,0.737391,0.288783,401,1676,2077
+81,"2011-03-22","summer",2011,"March","not holiday","Tuesday","workday",1,0.441667,0.440642,0.624583,0.22575,460,2243,2703
+82,"2011-03-23","summer",2011,"March","not holiday","Wednesday","workday",2,0.346957,0.337939,0.839565,0.234261,203,1918,2121
+83,"2011-03-24","summer",2011,"March","not holiday","Thursday","workday",2,0.285,0.270833,0.805833,0.243787,166,1699,1865
+84,"2011-03-25","summer",2011,"March","not holiday","Friday","workday",1,0.264167,0.256312,0.495,0.230725,300,1910,2210
+85,"2011-03-26","summer",2011,"March","not holiday","Saturday","not workday",1,0.265833,0.257571,0.394167,0.209571,981,1515,2496
+86,"2011-03-27","summer",2011,"March","not holiday","Sunday","not workday",2,0.253043,0.250339,0.493913,0.1843,472,1221,1693
+87,"2011-03-28","summer",2011,"March","not holiday","Monday","workday",1,0.264348,0.257574,0.302174,0.212204,222,1806,2028
+88,"2011-03-29","summer",2011,"March","not holiday","Tuesday","workday",1,0.3025,0.292908,0.314167,0.226996,317,2108,2425
+89,"2011-03-30","summer",2011,"March","not holiday","Wednesday","workday",2,0.3,0.29735,0.646667,0.172888,168,1368,1536
+90,"2011-03-31","summer",2011,"March","not holiday","Thursday","workday",3,0.268333,0.257575,0.918333,0.217646,179,1506,1685
+91,"2011-04-01","summer",2011,"April","not holiday","Friday","workday",2,0.3,0.283454,0.68625,0.258708,307,1920,2227
+92,"2011-04-02","summer",2011,"April","not holiday","Saturday","not workday",2,0.315,0.315637,0.65375,0.197146,898,1354,2252
+93,"2011-04-03","summer",2011,"April","not holiday","Sunday","not workday",1,0.378333,0.378767,0.48,0.182213,1651,1598,3249
+94,"2011-04-04","summer",2011,"April","not holiday","Monday","workday",1,0.573333,0.542929,0.42625,0.385571,734,2381,3115
+95,"2011-04-05","summer",2011,"April","not holiday","Tuesday","workday",2,0.414167,0.39835,0.642083,0.388067,167,1628,1795
+96,"2011-04-06","summer",2011,"April","not holiday","Wednesday","workday",1,0.390833,0.387608,0.470833,0.263063,413,2395,2808
+97,"2011-04-07","summer",2011,"April","not holiday","Thursday","workday",1,0.4375,0.433696,0.602917,0.162312,571,2570,3141
+98,"2011-04-08","summer",2011,"April","not holiday","Friday","workday",2,0.335833,0.324479,0.83625,0.226992,172,1299,1471
+99,"2011-04-09","summer",2011,"April","not holiday","Saturday","not workday",2,0.3425,0.341529,0.8775,0.133083,879,1576,2455
+100,"2011-04-10","summer",2011,"April","not holiday","Sunday","not workday",2,0.426667,0.426737,0.8575,0.146767,1188,1707,2895
+101,"2011-04-11","summer",2011,"April","not holiday","Monday","workday",2,0.595652,0.565217,0.716956,0.324474,855,2493,3348
+102,"2011-04-12","summer",2011,"April","not holiday","Tuesday","workday",2,0.5025,0.493054,0.739167,0.274879,257,1777,2034
+103,"2011-04-13","summer",2011,"April","not holiday","Wednesday","workday",2,0.4125,0.417283,0.819167,0.250617,209,1953,2162
+104,"2011-04-14","summer",2011,"April","not holiday","Thursday","workday",1,0.4675,0.462742,0.540417,0.1107,529,2738,3267
+105,"2011-04-15","summer",2011,"April","holiday","Friday","not workday",1,0.446667,0.441913,0.67125,0.226375,642,2484,3126
+106,"2011-04-16","summer",2011,"April","not holiday","Saturday","not workday",3,0.430833,0.425492,0.888333,0.340808,121,674,795
+107,"2011-04-17","summer",2011,"April","not holiday","Sunday","not workday",1,0.456667,0.445696,0.479583,0.303496,1558,2186,3744
+108,"2011-04-18","summer",2011,"April","not holiday","Monday","workday",1,0.5125,0.503146,0.5425,0.163567,669,2760,3429
+109,"2011-04-19","summer",2011,"April","not holiday","Tuesday","workday",2,0.505833,0.489258,0.665833,0.157971,409,2795,3204
+110,"2011-04-20","summer",2011,"April","not holiday","Wednesday","workday",1,0.595,0.564392,0.614167,0.241925,613,3331,3944
+111,"2011-04-21","summer",2011,"April","not holiday","Thursday","workday",1,0.459167,0.453892,0.407083,0.325258,745,3444,4189
+112,"2011-04-22","summer",2011,"April","not holiday","Friday","workday",2,0.336667,0.321954,0.729583,0.219521,177,1506,1683
+113,"2011-04-23","summer",2011,"April","not holiday","Saturday","not workday",2,0.46,0.450121,0.887917,0.230725,1462,2574,4036
+114,"2011-04-24","summer",2011,"April","not holiday","Sunday","not workday",2,0.581667,0.551763,0.810833,0.192175,1710,2481,4191
+115,"2011-04-25","summer",2011,"April","not holiday","Monday","workday",1,0.606667,0.5745,0.776667,0.185333,773,3300,4073
+116,"2011-04-26","summer",2011,"April","not holiday","Tuesday","workday",1,0.631667,0.594083,0.729167,0.3265,678,3722,4400
+117,"2011-04-27","summer",2011,"April","not holiday","Wednesday","workday",2,0.62,0.575142,0.835417,0.3122,547,3325,3872
+118,"2011-04-28","summer",2011,"April","not holiday","Thursday","workday",2,0.6175,0.578929,0.700833,0.320908,569,3489,4058
+119,"2011-04-29","summer",2011,"April","not holiday","Friday","workday",1,0.51,0.497463,0.457083,0.240063,878,3717,4595
+120,"2011-04-30","summer",2011,"April","not holiday","Saturday","not workday",1,0.4725,0.464021,0.503333,0.235075,1965,3347,5312
+121,"2011-05-01","summer",2011,"May","not holiday","Sunday","not workday",2,0.451667,0.448204,0.762083,0.106354,1138,2213,3351
+122,"2011-05-02","summer",2011,"May","not holiday","Monday","workday",2,0.549167,0.532833,0.73,0.183454,847,3554,4401
+123,"2011-05-03","summer",2011,"May","not holiday","Tuesday","workday",2,0.616667,0.582079,0.697083,0.342667,603,3848,4451
+124,"2011-05-04","summer",2011,"May","not holiday","Wednesday","workday",2,0.414167,0.40465,0.737083,0.328996,255,2378,2633
+125,"2011-05-05","summer",2011,"May","not holiday","Thursday","workday",1,0.459167,0.441917,0.444167,0.295392,614,3819,4433
+126,"2011-05-06","summer",2011,"May","not holiday","Friday","workday",1,0.479167,0.474117,0.59,0.228246,894,3714,4608
+127,"2011-05-07","summer",2011,"May","not holiday","Saturday","not workday",1,0.52,0.512621,0.54125,0.16045,1612,3102,4714
+128,"2011-05-08","summer",2011,"May","not holiday","Sunday","not workday",1,0.528333,0.518933,0.631667,0.0746375,1401,2932,4333
+129,"2011-05-09","summer",2011,"May","not holiday","Monday","workday",1,0.5325,0.525246,0.58875,0.176,664,3698,4362
+130,"2011-05-10","summer",2011,"May","not holiday","Tuesday","workday",1,0.5325,0.522721,0.489167,0.115671,694,4109,4803
+131,"2011-05-11","summer",2011,"May","not holiday","Wednesday","workday",1,0.5425,0.5284,0.632917,0.120642,550,3632,4182
+132,"2011-05-12","summer",2011,"May","not holiday","Thursday","workday",1,0.535,0.523363,0.7475,0.189667,695,4169,4864
+133,"2011-05-13","summer",2011,"May","not holiday","Friday","workday",2,0.5125,0.4943,0.863333,0.179725,692,3413,4105
+134,"2011-05-14","summer",2011,"May","not holiday","Saturday","not workday",2,0.520833,0.500629,0.9225,0.13495,902,2507,3409
+135,"2011-05-15","summer",2011,"May","not holiday","Sunday","not workday",2,0.5625,0.536,0.867083,0.152979,1582,2971,4553
+136,"2011-05-16","summer",2011,"May","not holiday","Monday","workday",1,0.5775,0.550512,0.787917,0.126871,773,3185,3958
+137,"2011-05-17","summer",2011,"May","not holiday","Tuesday","workday",2,0.561667,0.538529,0.837917,0.277354,678,3445,4123
+138,"2011-05-18","summer",2011,"May","not holiday","Wednesday","workday",2,0.55,0.527158,0.87,0.201492,536,3319,3855
+139,"2011-05-19","summer",2011,"May","not holiday","Thursday","workday",2,0.530833,0.510742,0.829583,0.108213,735,3840,4575
+140,"2011-05-20","summer",2011,"May","not holiday","Friday","workday",1,0.536667,0.529042,0.719583,0.125013,909,4008,4917
+141,"2011-05-21","summer",2011,"May","not holiday","Saturday","not workday",1,0.6025,0.571975,0.626667,0.12065,2258,3547,5805
+142,"2011-05-22","summer",2011,"May","not holiday","Sunday","not workday",1,0.604167,0.5745,0.749583,0.148008,1576,3084,4660
+143,"2011-05-23","summer",2011,"May","not holiday","Monday","workday",2,0.631667,0.590296,0.81,0.233842,836,3438,4274
+144,"2011-05-24","summer",2011,"May","not holiday","Tuesday","workday",2,0.66,0.604813,0.740833,0.207092,659,3833,4492
+145,"2011-05-25","summer",2011,"May","not holiday","Wednesday","workday",1,0.660833,0.615542,0.69625,0.154233,740,4238,4978
+146,"2011-05-26","summer",2011,"May","not holiday","Thursday","workday",1,0.708333,0.654688,0.6775,0.199642,758,3919,4677
+147,"2011-05-27","summer",2011,"May","not holiday","Friday","workday",1,0.681667,0.637008,0.65375,0.240679,871,3808,4679
+148,"2011-05-28","summer",2011,"May","not holiday","Saturday","not workday",1,0.655833,0.612379,0.729583,0.230092,2001,2757,4758
+149,"2011-05-29","summer",2011,"May","not holiday","Sunday","not workday",1,0.6675,0.61555,0.81875,0.213938,2355,2433,4788
+150,"2011-05-30","summer",2011,"May","holiday","Monday","not workday",1,0.733333,0.671092,0.685,0.131225,1549,2549,4098
+151,"2011-05-31","summer",2011,"May","not holiday","Tuesday","workday",1,0.775,0.725383,0.636667,0.111329,673,3309,3982
+152,"2011-06-01","summer",2011,"June","not holiday","Wednesday","workday",2,0.764167,0.720967,0.677083,0.207092,513,3461,3974
+153,"2011-06-02","summer",2011,"June","not holiday","Thursday","workday",1,0.715,0.643942,0.305,0.292287,736,4232,4968
+154,"2011-06-03","summer",2011,"June","not holiday","Friday","workday",1,0.62,0.587133,0.354167,0.253121,898,4414,5312
+155,"2011-06-04","summer",2011,"June","not holiday","Saturday","not workday",1,0.635,0.594696,0.45625,0.123142,1869,3473,5342
+156,"2011-06-05","summer",2011,"June","not holiday","Sunday","not workday",2,0.648333,0.616804,0.6525,0.138692,1685,3221,4906
+157,"2011-06-06","summer",2011,"June","not holiday","Monday","workday",1,0.678333,0.621858,0.6,0.121896,673,3875,4548
+158,"2011-06-07","summer",2011,"June","not holiday","Tuesday","workday",1,0.7075,0.65595,0.597917,0.187808,763,4070,4833
+159,"2011-06-08","summer",2011,"June","not holiday","Wednesday","workday",1,0.775833,0.727279,0.622083,0.136817,676,3725,4401
+160,"2011-06-09","summer",2011,"June","not holiday","Thursday","workday",2,0.808333,0.757579,0.568333,0.149883,563,3352,3915
+161,"2011-06-10","summer",2011,"June","not holiday","Friday","workday",1,0.755,0.703292,0.605,0.140554,815,3771,4586
+162,"2011-06-11","summer",2011,"June","not holiday","Saturday","not workday",1,0.725,0.678038,0.654583,0.15485,1729,3237,4966
+163,"2011-06-12","summer",2011,"June","not holiday","Sunday","not workday",1,0.6925,0.643325,0.747917,0.163567,1467,2993,4460
+164,"2011-06-13","summer",2011,"June","not holiday","Monday","workday",1,0.635,0.601654,0.494583,0.30535,863,4157,5020
+165,"2011-06-14","summer",2011,"June","not holiday","Tuesday","workday",1,0.604167,0.591546,0.507083,0.269283,727,4164,4891
+166,"2011-06-15","summer",2011,"June","not holiday","Wednesday","workday",1,0.626667,0.587754,0.471667,0.167912,769,4411,5180
+167,"2011-06-16","summer",2011,"June","not holiday","Thursday","workday",2,0.628333,0.595346,0.688333,0.206471,545,3222,3767
+168,"2011-06-17","summer",2011,"June","not holiday","Friday","workday",1,0.649167,0.600383,0.735833,0.143029,863,3981,4844
+169,"2011-06-18","summer",2011,"June","not holiday","Saturday","not workday",1,0.696667,0.643954,0.670417,0.119408,1807,3312,5119
+170,"2011-06-19","summer",2011,"June","not holiday","Sunday","not workday",2,0.699167,0.645846,0.666667,0.102,1639,3105,4744
+171,"2011-06-20","summer",2011,"June","not holiday","Monday","workday",2,0.635,0.595346,0.74625,0.155475,699,3311,4010
+172,"2011-06-21","fall",2011,"June","not holiday","Tuesday","workday",2,0.680833,0.637646,0.770417,0.171025,774,4061,4835
+173,"2011-06-22","fall",2011,"June","not holiday","Wednesday","workday",1,0.733333,0.693829,0.7075,0.172262,661,3846,4507
+174,"2011-06-23","fall",2011,"June","not holiday","Thursday","workday",2,0.728333,0.693833,0.703333,0.238804,746,4044,4790
+175,"2011-06-24","fall",2011,"June","not holiday","Friday","workday",1,0.724167,0.656583,0.573333,0.222025,969,4022,4991
+176,"2011-06-25","fall",2011,"June","not holiday","Saturday","not workday",1,0.695,0.643313,0.483333,0.209571,1782,3420,5202
+177,"2011-06-26","fall",2011,"June","not holiday","Sunday","not workday",1,0.68,0.637629,0.513333,0.0945333,1920,3385,5305
+178,"2011-06-27","fall",2011,"June","not holiday","Monday","workday",2,0.6825,0.637004,0.658333,0.107588,854,3854,4708
+179,"2011-06-28","fall",2011,"June","not holiday","Tuesday","workday",1,0.744167,0.692558,0.634167,0.144283,732,3916,4648
+180,"2011-06-29","fall",2011,"June","not holiday","Wednesday","workday",1,0.728333,0.654688,0.497917,0.261821,848,4377,5225
+181,"2011-06-30","fall",2011,"June","not holiday","Thursday","workday",1,0.696667,0.637008,0.434167,0.185312,1027,4488,5515
+182,"2011-07-01","fall",2011,"July","not holiday","Friday","workday",1,0.7225,0.652162,0.39625,0.102608,1246,4116,5362
+183,"2011-07-02","fall",2011,"July","not holiday","Saturday","not workday",1,0.738333,0.667308,0.444583,0.115062,2204,2915,5119
+184,"2011-07-03","fall",2011,"July","not holiday","Sunday","not workday",2,0.716667,0.668575,0.6825,0.228858,2282,2367,4649
+185,"2011-07-04","fall",2011,"July","holiday","Monday","not workday",2,0.726667,0.665417,0.637917,0.0814792,3065,2978,6043
+186,"2011-07-05","fall",2011,"July","not holiday","Tuesday","workday",1,0.746667,0.696338,0.590417,0.126258,1031,3634,4665
+187,"2011-07-06","fall",2011,"July","not holiday","Wednesday","workday",1,0.72,0.685633,0.743333,0.149883,784,3845,4629
+188,"2011-07-07","fall",2011,"July","not holiday","Thursday","workday",1,0.75,0.686871,0.65125,0.1592,754,3838,4592
+189,"2011-07-08","fall",2011,"July","not holiday","Friday","workday",2,0.709167,0.670483,0.757917,0.225129,692,3348,4040
+190,"2011-07-09","fall",2011,"July","not holiday","Saturday","not workday",1,0.733333,0.664158,0.609167,0.167912,1988,3348,5336
+191,"2011-07-10","fall",2011,"July","not holiday","Sunday","not workday",1,0.7475,0.690025,0.578333,0.183471,1743,3138,4881
+192,"2011-07-11","fall",2011,"July","not holiday","Monday","workday",1,0.7625,0.729804,0.635833,0.282337,723,3363,4086
+193,"2011-07-12","fall",2011,"July","not holiday","Tuesday","workday",1,0.794167,0.739275,0.559167,0.200254,662,3596,4258
+194,"2011-07-13","fall",2011,"July","not holiday","Wednesday","workday",1,0.746667,0.689404,0.631667,0.146133,748,3594,4342
+195,"2011-07-14","fall",2011,"July","not holiday","Thursday","workday",1,0.680833,0.635104,0.47625,0.240667,888,4196,5084
+196,"2011-07-15","fall",2011,"July","not holiday","Friday","workday",1,0.663333,0.624371,0.59125,0.182833,1318,4220,5538
+197,"2011-07-16","fall",2011,"July","not holiday","Saturday","not workday",1,0.686667,0.638263,0.585,0.208342,2418,3505,5923
+198,"2011-07-17","fall",2011,"July","not holiday","Sunday","not workday",1,0.719167,0.669833,0.604167,0.245033,2006,3296,5302
+199,"2011-07-18","fall",2011,"July","not holiday","Monday","workday",1,0.746667,0.703925,0.65125,0.215804,841,3617,4458
+200,"2011-07-19","fall",2011,"July","not holiday","Tuesday","workday",1,0.776667,0.747479,0.650417,0.1306,752,3789,4541
+201,"2011-07-20","fall",2011,"July","not holiday","Wednesday","workday",1,0.768333,0.74685,0.707083,0.113817,644,3688,4332
+202,"2011-07-21","fall",2011,"July","not holiday","Thursday","workday",2,0.815,0.826371,0.69125,0.222021,632,3152,3784
+203,"2011-07-22","fall",2011,"July","not holiday","Friday","workday",1,0.848333,0.840896,0.580417,0.1331,562,2825,3387
+204,"2011-07-23","fall",2011,"July","not holiday","Saturday","not workday",1,0.849167,0.804287,0.5,0.131221,987,2298,3285
+205,"2011-07-24","fall",2011,"July","not holiday","Sunday","not workday",1,0.83,0.794829,0.550833,0.169171,1050,2556,3606
+206,"2011-07-25","fall",2011,"July","not holiday","Monday","workday",1,0.743333,0.720958,0.757083,0.0908083,568,3272,3840
+207,"2011-07-26","fall",2011,"July","not holiday","Tuesday","workday",1,0.771667,0.696979,0.540833,0.200258,750,3840,4590
+208,"2011-07-27","fall",2011,"July","not holiday","Wednesday","workday",1,0.775,0.690667,0.402917,0.183463,755,3901,4656
+209,"2011-07-28","fall",2011,"July","not holiday","Thursday","workday",1,0.779167,0.7399,0.583333,0.178479,606,3784,4390
+210,"2011-07-29","fall",2011,"July","not holiday","Friday","workday",1,0.838333,0.785967,0.5425,0.174138,670,3176,3846
+211,"2011-07-30","fall",2011,"July","not holiday","Saturday","not workday",1,0.804167,0.728537,0.465833,0.168537,1559,2916,4475
+212,"2011-07-31","fall",2011,"July","not holiday","Sunday","not workday",1,0.805833,0.729796,0.480833,0.164813,1524,2778,4302
+213,"2011-08-01","fall",2011,"August","not holiday","Monday","workday",1,0.771667,0.703292,0.550833,0.156717,729,3537,4266
+214,"2011-08-02","fall",2011,"August","not holiday","Tuesday","workday",1,0.783333,0.707071,0.49125,0.20585,801,4044,4845
+215,"2011-08-03","fall",2011,"August","not holiday","Wednesday","workday",2,0.731667,0.679937,0.6575,0.135583,467,3107,3574
+216,"2011-08-04","fall",2011,"August","not holiday","Thursday","workday",2,0.71,0.664788,0.7575,0.19715,799,3777,4576
+217,"2011-08-05","fall",2011,"August","not holiday","Friday","workday",1,0.710833,0.656567,0.630833,0.184696,1023,3843,4866
+218,"2011-08-06","fall",2011,"August","not holiday","Saturday","not workday",2,0.716667,0.676154,0.755,0.22825,1521,2773,4294
+219,"2011-08-07","fall",2011,"August","not holiday","Sunday","not workday",1,0.7425,0.715292,0.752917,0.201487,1298,2487,3785
+220,"2011-08-08","fall",2011,"August","not holiday","Monday","workday",1,0.765,0.703283,0.592083,0.192175,846,3480,4326
+221,"2011-08-09","fall",2011,"August","not holiday","Tuesday","workday",1,0.775,0.724121,0.570417,0.151121,907,3695,4602
+222,"2011-08-10","fall",2011,"August","not holiday","Wednesday","workday",1,0.766667,0.684983,0.424167,0.200258,884,3896,4780
+223,"2011-08-11","fall",2011,"August","not holiday","Thursday","workday",1,0.7175,0.651521,0.42375,0.164796,812,3980,4792
+224,"2011-08-12","fall",2011,"August","not holiday","Friday","workday",1,0.708333,0.654042,0.415,0.125621,1051,3854,4905
+225,"2011-08-13","fall",2011,"August","not holiday","Saturday","not workday",2,0.685833,0.645858,0.729583,0.211454,1504,2646,4150
+226,"2011-08-14","fall",2011,"August","not holiday","Sunday","not workday",2,0.676667,0.624388,0.8175,0.222633,1338,2482,3820
+227,"2011-08-15","fall",2011,"August","not holiday","Monday","workday",1,0.665833,0.616167,0.712083,0.208954,775,3563,4338
+228,"2011-08-16","fall",2011,"August","not holiday","Tuesday","workday",1,0.700833,0.645837,0.578333,0.236329,721,4004,4725
+229,"2011-08-17","fall",2011,"August","not holiday","Wednesday","workday",1,0.723333,0.666671,0.575417,0.143667,668,4026,4694
+230,"2011-08-18","fall",2011,"August","not holiday","Thursday","workday",1,0.711667,0.662258,0.654583,0.233208,639,3166,3805
+231,"2011-08-19","fall",2011,"August","not holiday","Friday","workday",2,0.685,0.633221,0.722917,0.139308,797,3356,4153
+232,"2011-08-20","fall",2011,"August","not holiday","Saturday","not workday",1,0.6975,0.648996,0.674167,0.104467,1914,3277,5191
+233,"2011-08-21","fall",2011,"August","not holiday","Sunday","not workday",1,0.710833,0.675525,0.77,0.248754,1249,2624,3873
+234,"2011-08-22","fall",2011,"August","not holiday","Monday","workday",1,0.691667,0.638254,0.47,0.27675,833,3925,4758
+235,"2011-08-23","fall",2011,"August","not holiday","Tuesday","workday",1,0.640833,0.606067,0.455417,0.146763,1281,4614,5895
+236,"2011-08-24","fall",2011,"August","not holiday","Wednesday","workday",1,0.673333,0.630692,0.605,0.253108,949,4181,5130
+237,"2011-08-25","fall",2011,"August","not holiday","Thursday","workday",2,0.684167,0.645854,0.771667,0.210833,435,3107,3542
+238,"2011-08-26","fall",2011,"August","not holiday","Friday","workday",1,0.7,0.659733,0.76125,0.0839625,768,3893,4661
+239,"2011-08-27","fall",2011,"August","not holiday","Saturday","not workday",2,0.68,0.635556,0.85,0.375617,226,889,1115
+240,"2011-08-28","fall",2011,"August","not holiday","Sunday","not workday",1,0.707059,0.647959,0.561765,0.304659,1415,2919,4334
+241,"2011-08-29","fall",2011,"August","not holiday","Monday","workday",1,0.636667,0.607958,0.554583,0.159825,729,3905,4634
+242,"2011-08-30","fall",2011,"August","not holiday","Tuesday","workday",1,0.639167,0.594704,0.548333,0.125008,775,4429,5204
+243,"2011-08-31","fall",2011,"August","not holiday","Wednesday","workday",1,0.656667,0.611121,0.597917,0.0833333,688,4370,5058
+244,"2011-09-01","fall",2011,"September","not holiday","Thursday","workday",1,0.655,0.614921,0.639167,0.141796,783,4332,5115
+245,"2011-09-02","fall",2011,"September","not holiday","Friday","workday",2,0.643333,0.604808,0.727083,0.139929,875,3852,4727
+246,"2011-09-03","fall",2011,"September","not holiday","Saturday","not workday",1,0.669167,0.633213,0.716667,0.185325,1935,2549,4484
+247,"2011-09-04","fall",2011,"September","not holiday","Sunday","not workday",1,0.709167,0.665429,0.742083,0.206467,2521,2419,4940
+248,"2011-09-05","fall",2011,"September","holiday","Monday","not workday",2,0.673333,0.625646,0.790417,0.212696,1236,2115,3351
+249,"2011-09-06","fall",2011,"September","not holiday","Tuesday","workday",3,0.54,0.5152,0.886957,0.343943,204,2506,2710
+250,"2011-09-07","fall",2011,"September","not holiday","Wednesday","workday",3,0.599167,0.544229,0.917083,0.0970208,118,1878,1996
+251,"2011-09-08","fall",2011,"September","not holiday","Thursday","workday",3,0.633913,0.555361,0.939565,0.192748,153,1689,1842
+252,"2011-09-09","fall",2011,"September","not holiday","Friday","workday",2,0.65,0.578946,0.897917,0.124379,417,3127,3544
+253,"2011-09-10","fall",2011,"September","not holiday","Saturday","not workday",1,0.66,0.607962,0.75375,0.153608,1750,3595,5345
+254,"2011-09-11","fall",2011,"September","not holiday","Sunday","not workday",1,0.653333,0.609229,0.71375,0.115054,1633,3413,5046
+255,"2011-09-12","fall",2011,"September","not holiday","Monday","workday",1,0.644348,0.60213,0.692174,0.088913,690,4023,4713
+256,"2011-09-13","fall",2011,"September","not holiday","Tuesday","workday",1,0.650833,0.603554,0.7125,0.141804,701,4062,4763
+257,"2011-09-14","fall",2011,"September","not holiday","Wednesday","workday",1,0.673333,0.6269,0.697083,0.1673,647,4138,4785
+258,"2011-09-15","fall",2011,"September","not holiday","Thursday","workday",2,0.5775,0.553671,0.709167,0.271146,428,3231,3659
+259,"2011-09-16","fall",2011,"September","not holiday","Friday","workday",2,0.469167,0.461475,0.590417,0.164183,742,4018,4760
+260,"2011-09-17","fall",2011,"September","not holiday","Saturday","not workday",2,0.491667,0.478512,0.718333,0.189675,1434,3077,4511
+261,"2011-09-18","fall",2011,"September","not holiday","Sunday","not workday",1,0.5075,0.490537,0.695,0.178483,1353,2921,4274
+262,"2011-09-19","fall",2011,"September","not holiday","Monday","workday",2,0.549167,0.529675,0.69,0.151742,691,3848,4539
+263,"2011-09-20","fall",2011,"September","not holiday","Tuesday","workday",2,0.561667,0.532217,0.88125,0.134954,438,3203,3641
+264,"2011-09-21","fall",2011,"September","not holiday","Wednesday","workday",2,0.595,0.550533,0.9,0.0964042,539,3813,4352
+265,"2011-09-22","fall",2011,"September","not holiday","Thursday","workday",2,0.628333,0.554963,0.902083,0.128125,555,4240,4795
+266,"2011-09-23","winter",2011,"September","not holiday","Friday","workday",2,0.609167,0.522125,0.9725,0.0783667,258,2137,2395
+267,"2011-09-24","winter",2011,"September","not holiday","Saturday","not workday",2,0.606667,0.564412,0.8625,0.0783833,1776,3647,5423
+268,"2011-09-25","winter",2011,"September","not holiday","Sunday","not workday",2,0.634167,0.572637,0.845,0.0503792,1544,3466,5010
+269,"2011-09-26","winter",2011,"September","not holiday","Monday","workday",2,0.649167,0.589042,0.848333,0.1107,684,3946,4630
+270,"2011-09-27","winter",2011,"September","not holiday","Tuesday","workday",2,0.636667,0.574525,0.885417,0.118171,477,3643,4120
+271,"2011-09-28","winter",2011,"September","not holiday","Wednesday","workday",2,0.635,0.575158,0.84875,0.148629,480,3427,3907
+272,"2011-09-29","winter",2011,"September","not holiday","Thursday","workday",1,0.616667,0.574512,0.699167,0.172883,653,4186,4839
+273,"2011-09-30","winter",2011,"September","not holiday","Friday","workday",1,0.564167,0.544829,0.6475,0.206475,830,4372,5202
+274,"2011-10-01","winter",2011,"October","not holiday","Saturday","not workday",2,0.41,0.412863,0.75375,0.292296,480,1949,2429
+275,"2011-10-02","winter",2011,"October","not holiday","Sunday","not workday",2,0.356667,0.345317,0.791667,0.222013,616,2302,2918
+276,"2011-10-03","winter",2011,"October","not holiday","Monday","workday",2,0.384167,0.392046,0.760833,0.0833458,330,3240,3570
+277,"2011-10-04","winter",2011,"October","not holiday","Tuesday","workday",1,0.484167,0.472858,0.71,0.205854,486,3970,4456
+278,"2011-10-05","winter",2011,"October","not holiday","Wednesday","workday",1,0.538333,0.527138,0.647917,0.17725,559,4267,4826
+279,"2011-10-06","winter",2011,"October","not holiday","Thursday","workday",1,0.494167,0.480425,0.620833,0.134954,639,4126,4765
+280,"2011-10-07","winter",2011,"October","not holiday","Friday","workday",1,0.510833,0.504404,0.684167,0.0223917,949,4036,4985
+281,"2011-10-08","winter",2011,"October","not holiday","Saturday","not workday",1,0.521667,0.513242,0.70125,0.0454042,2235,3174,5409
+282,"2011-10-09","winter",2011,"October","not holiday","Sunday","not workday",1,0.540833,0.523983,0.7275,0.06345,2397,3114,5511
+283,"2011-10-10","winter",2011,"October","holiday","Monday","not workday",1,0.570833,0.542925,0.73375,0.0423042,1514,3603,5117
+284,"2011-10-11","winter",2011,"October","not holiday","Tuesday","workday",2,0.566667,0.546096,0.80875,0.143042,667,3896,4563
+285,"2011-10-12","winter",2011,"October","not holiday","Wednesday","workday",3,0.543333,0.517717,0.90625,0.24815,217,2199,2416
+286,"2011-10-13","winter",2011,"October","not holiday","Thursday","workday",2,0.589167,0.551804,0.896667,0.141787,290,2623,2913
+287,"2011-10-14","winter",2011,"October","not holiday","Friday","workday",2,0.550833,0.529675,0.71625,0.223883,529,3115,3644
+288,"2011-10-15","winter",2011,"October","not holiday","Saturday","not workday",1,0.506667,0.498725,0.483333,0.258083,1899,3318,5217
+289,"2011-10-16","winter",2011,"October","not holiday","Sunday","not workday",1,0.511667,0.503154,0.486667,0.281717,1748,3293,5041
+290,"2011-10-17","winter",2011,"October","not holiday","Monday","workday",1,0.534167,0.510725,0.579583,0.175379,713,3857,4570
+291,"2011-10-18","winter",2011,"October","not holiday","Tuesday","workday",2,0.5325,0.522721,0.701667,0.110087,637,4111,4748
+292,"2011-10-19","winter",2011,"October","not holiday","Wednesday","workday",3,0.541739,0.513848,0.895217,0.243339,254,2170,2424
+293,"2011-10-20","winter",2011,"October","not holiday","Thursday","workday",1,0.475833,0.466525,0.63625,0.422275,471,3724,4195
+294,"2011-10-21","winter",2011,"October","not holiday","Friday","workday",1,0.4275,0.423596,0.574167,0.221396,676,3628,4304
+295,"2011-10-22","winter",2011,"October","not holiday","Saturday","not workday",1,0.4225,0.425492,0.629167,0.0926667,1499,2809,4308
+296,"2011-10-23","winter",2011,"October","not holiday","Sunday","not workday",1,0.421667,0.422333,0.74125,0.0995125,1619,2762,4381
+297,"2011-10-24","winter",2011,"October","not holiday","Monday","workday",1,0.463333,0.457067,0.772083,0.118792,699,3488,4187
+298,"2011-10-25","winter",2011,"October","not holiday","Tuesday","workday",1,0.471667,0.463375,0.622917,0.166658,695,3992,4687
+299,"2011-10-26","winter",2011,"October","not holiday","Wednesday","workday",2,0.484167,0.472846,0.720417,0.148642,404,3490,3894
+300,"2011-10-27","winter",2011,"October","not holiday","Thursday","workday",2,0.47,0.457046,0.812917,0.197763,240,2419,2659
+301,"2011-10-28","winter",2011,"October","not holiday","Friday","workday",2,0.330833,0.318812,0.585833,0.229479,456,3291,3747
+302,"2011-10-29","winter",2011,"October","not holiday","Saturday","not workday",3,0.254167,0.227913,0.8825,0.351371,57,570,627
+303,"2011-10-30","winter",2011,"October","not holiday","Sunday","not workday",1,0.319167,0.321329,0.62375,0.176617,885,2446,3331
+304,"2011-10-31","winter",2011,"October","not holiday","Monday","workday",1,0.34,0.356063,0.703333,0.10635,362,3307,3669
+305,"2011-11-01","winter",2011,"November","not holiday","Tuesday","workday",1,0.400833,0.397088,0.68375,0.135571,410,3658,4068
+306,"2011-11-02","winter",2011,"November","not holiday","Wednesday","workday",1,0.3775,0.390133,0.71875,0.0820917,370,3816,4186
+307,"2011-11-03","winter",2011,"November","not holiday","Thursday","workday",1,0.408333,0.405921,0.702083,0.136817,318,3656,3974
+308,"2011-11-04","winter",2011,"November","not holiday","Friday","workday",2,0.403333,0.403392,0.6225,0.271779,470,3576,4046
+309,"2011-11-05","winter",2011,"November","not holiday","Saturday","not workday",1,0.326667,0.323854,0.519167,0.189062,1156,2770,3926
+310,"2011-11-06","winter",2011,"November","not holiday","Sunday","not workday",1,0.348333,0.362358,0.734583,0.0920542,952,2697,3649
+311,"2011-11-07","winter",2011,"November","not holiday","Monday","workday",1,0.395,0.400871,0.75875,0.057225,373,3662,4035
+312,"2011-11-08","winter",2011,"November","not holiday","Tuesday","workday",1,0.408333,0.412246,0.721667,0.0690375,376,3829,4205
+313,"2011-11-09","winter",2011,"November","not holiday","Wednesday","workday",1,0.4,0.409079,0.758333,0.0621958,305,3804,4109
+314,"2011-11-10","winter",2011,"November","not holiday","Thursday","workday",2,0.38,0.373721,0.813333,0.189067,190,2743,2933
+315,"2011-11-11","winter",2011,"November","holiday","Friday","not workday",1,0.324167,0.306817,0.44625,0.314675,440,2928,3368
+316,"2011-11-12","winter",2011,"November","not holiday","Saturday","not workday",1,0.356667,0.357942,0.552917,0.212062,1275,2792,4067
+317,"2011-11-13","winter",2011,"November","not holiday","Sunday","not workday",1,0.440833,0.43055,0.458333,0.281721,1004,2713,3717
+318,"2011-11-14","winter",2011,"November","not holiday","Monday","workday",1,0.53,0.524612,0.587083,0.306596,595,3891,4486
+319,"2011-11-15","winter",2011,"November","not holiday","Tuesday","workday",2,0.53,0.507579,0.68875,0.199633,449,3746,4195
+320,"2011-11-16","winter",2011,"November","not holiday","Wednesday","workday",3,0.456667,0.451988,0.93,0.136829,145,1672,1817
+321,"2011-11-17","winter",2011,"November","not holiday","Thursday","workday",2,0.341667,0.323221,0.575833,0.305362,139,2914,3053
+322,"2011-11-18","winter",2011,"November","not holiday","Friday","workday",1,0.274167,0.272721,0.41,0.168533,245,3147,3392
+323,"2011-11-19","winter",2011,"November","not holiday","Saturday","not workday",1,0.329167,0.324483,0.502083,0.224496,943,2720,3663
+324,"2011-11-20","winter",2011,"November","not holiday","Sunday","not workday",2,0.463333,0.457058,0.684583,0.18595,787,2733,3520
+325,"2011-11-21","winter",2011,"November","not holiday","Monday","workday",3,0.4475,0.445062,0.91,0.138054,220,2545,2765
+326,"2011-11-22","winter",2011,"November","not holiday","Tuesday","workday",3,0.416667,0.421696,0.9625,0.118792,69,1538,1607
+327,"2011-11-23","winter",2011,"November","not holiday","Wednesday","workday",2,0.440833,0.430537,0.757917,0.335825,112,2454,2566
+328,"2011-11-24","winter",2011,"November","holiday","Thursday","not workday",1,0.373333,0.372471,0.549167,0.167304,560,935,1495
+329,"2011-11-25","winter",2011,"November","not holiday","Friday","workday",1,0.375,0.380671,0.64375,0.0988958,1095,1697,2792
+330,"2011-11-26","winter",2011,"November","not holiday","Saturday","not workday",1,0.375833,0.385087,0.681667,0.0684208,1249,1819,3068
+331,"2011-11-27","winter",2011,"November","not holiday","Sunday","not workday",1,0.459167,0.4558,0.698333,0.208954,810,2261,3071
+332,"2011-11-28","winter",2011,"November","not holiday","Monday","workday",1,0.503478,0.490122,0.743043,0.142122,253,3614,3867
+333,"2011-11-29","winter",2011,"November","not holiday","Tuesday","workday",2,0.458333,0.451375,0.830833,0.258092,96,2818,2914
+334,"2011-11-30","winter",2011,"November","not holiday","Wednesday","workday",1,0.325,0.311221,0.613333,0.271158,188,3425,3613
+335,"2011-12-01","winter",2011,"December","not holiday","Thursday","workday",1,0.3125,0.305554,0.524583,0.220158,182,3545,3727
+336,"2011-12-02","winter",2011,"December","not holiday","Friday","workday",1,0.314167,0.331433,0.625833,0.100754,268,3672,3940
+337,"2011-12-03","winter",2011,"December","not holiday","Saturday","not workday",1,0.299167,0.310604,0.612917,0.0957833,706,2908,3614
+338,"2011-12-04","winter",2011,"December","not holiday","Sunday","not workday",1,0.330833,0.3491,0.775833,0.0839583,634,2851,3485
+339,"2011-12-05","winter",2011,"December","not holiday","Monday","workday",2,0.385833,0.393925,0.827083,0.0622083,233,3578,3811
+340,"2011-12-06","winter",2011,"December","not holiday","Tuesday","workday",3,0.4625,0.4564,0.949583,0.232583,126,2468,2594
+341,"2011-12-07","winter",2011,"December","not holiday","Wednesday","workday",3,0.41,0.400246,0.970417,0.266175,50,655,705
+342,"2011-12-08","winter",2011,"December","not holiday","Thursday","workday",1,0.265833,0.256938,0.58,0.240058,150,3172,3322
+343,"2011-12-09","winter",2011,"December","not holiday","Friday","workday",1,0.290833,0.317542,0.695833,0.0827167,261,3359,3620
+344,"2011-12-10","winter",2011,"December","not holiday","Saturday","not workday",1,0.275,0.266412,0.5075,0.233221,502,2688,3190
+345,"2011-12-11","winter",2011,"December","not holiday","Sunday","not workday",1,0.220833,0.253154,0.49,0.0665417,377,2366,2743
+346,"2011-12-12","winter",2011,"December","not holiday","Monday","workday",1,0.238333,0.270196,0.670833,0.06345,143,3167,3310
+347,"2011-12-13","winter",2011,"December","not holiday","Tuesday","workday",1,0.2825,0.301138,0.59,0.14055,155,3368,3523
+348,"2011-12-14","winter",2011,"December","not holiday","Wednesday","workday",2,0.3175,0.338362,0.66375,0.0609583,178,3562,3740
+349,"2011-12-15","winter",2011,"December","not holiday","Thursday","workday",2,0.4225,0.412237,0.634167,0.268042,181,3528,3709
+350,"2011-12-16","winter",2011,"December","not holiday","Friday","workday",2,0.375,0.359825,0.500417,0.260575,178,3399,3577
+351,"2011-12-17","winter",2011,"December","not holiday","Saturday","not workday",2,0.258333,0.249371,0.560833,0.243167,275,2464,2739
+352,"2011-12-18","winter",2011,"December","not holiday","Sunday","not workday",1,0.238333,0.245579,0.58625,0.169779,220,2211,2431
+353,"2011-12-19","winter",2011,"December","not holiday","Monday","workday",1,0.276667,0.280933,0.6375,0.172896,260,3143,3403
+354,"2011-12-20","winter",2011,"December","not holiday","Tuesday","workday",2,0.385833,0.396454,0.595417,0.0615708,216,3534,3750
+355,"2011-12-21","spring",2011,"December","not holiday","Wednesday","workday",2,0.428333,0.428017,0.858333,0.2214,107,2553,2660
+356,"2011-12-22","spring",2011,"December","not holiday","Thursday","workday",2,0.423333,0.426121,0.7575,0.047275,227,2841,3068
+357,"2011-12-23","spring",2011,"December","not holiday","Friday","workday",1,0.373333,0.377513,0.68625,0.274246,163,2046,2209
+358,"2011-12-24","spring",2011,"December","not holiday","Saturday","not workday",1,0.3025,0.299242,0.5425,0.190304,155,856,1011
+359,"2011-12-25","spring",2011,"December","not holiday","Sunday","not workday",1,0.274783,0.279961,0.681304,0.155091,303,451,754
+360,"2011-12-26","spring",2011,"December","holiday","Monday","not workday",1,0.321739,0.315535,0.506957,0.239465,430,887,1317
+361,"2011-12-27","spring",2011,"December","not holiday","Tuesday","workday",2,0.325,0.327633,0.7625,0.18845,103,1059,1162
+362,"2011-12-28","spring",2011,"December","not holiday","Wednesday","workday",1,0.29913,0.279974,0.503913,0.293961,255,2047,2302
+363,"2011-12-29","spring",2011,"December","not holiday","Thursday","workday",1,0.248333,0.263892,0.574167,0.119412,254,2169,2423
+364,"2011-12-30","spring",2011,"December","not holiday","Friday","workday",1,0.311667,0.318812,0.636667,0.134337,491,2508,2999
+365,"2011-12-31","spring",2011,"December","not holiday","Saturday","not workday",1,0.41,0.414121,0.615833,0.220154,665,1820,2485
+366,"2012-01-01","spring",2012,"January","not holiday","Sunday","not workday",1,0.37,0.375621,0.6925,0.192167,686,1608,2294
+367,"2012-01-02","spring",2012,"January","holiday","Monday","not workday",1,0.273043,0.252304,0.381304,0.329665,244,1707,1951
+368,"2012-01-03","spring",2012,"January","not holiday","Tuesday","workday",1,0.15,0.126275,0.44125,0.365671,89,2147,2236
+369,"2012-01-04","spring",2012,"January","not holiday","Wednesday","workday",2,0.1075,0.119337,0.414583,0.1847,95,2273,2368
+370,"2012-01-05","spring",2012,"January","not holiday","Thursday","workday",1,0.265833,0.278412,0.524167,0.129987,140,3132,3272
+371,"2012-01-06","spring",2012,"January","not holiday","Friday","workday",1,0.334167,0.340267,0.542083,0.167908,307,3791,4098
+372,"2012-01-07","spring",2012,"January","not holiday","Saturday","not workday",1,0.393333,0.390779,0.531667,0.174758,1070,3451,4521
+373,"2012-01-08","spring",2012,"January","not holiday","Sunday","not workday",1,0.3375,0.340258,0.465,0.191542,599,2826,3425
+374,"2012-01-09","spring",2012,"January","not holiday","Monday","workday",2,0.224167,0.247479,0.701667,0.0989,106,2270,2376
+375,"2012-01-10","spring",2012,"January","not holiday","Tuesday","workday",1,0.308696,0.318826,0.646522,0.187552,173,3425,3598
+376,"2012-01-11","spring",2012,"January","not holiday","Wednesday","workday",2,0.274167,0.282821,0.8475,0.131221,92,2085,2177
+377,"2012-01-12","spring",2012,"January","not holiday","Thursday","workday",2,0.3825,0.381938,0.802917,0.180967,269,3828,4097
+378,"2012-01-13","spring",2012,"January","not holiday","Friday","workday",1,0.274167,0.249362,0.5075,0.378108,174,3040,3214
+379,"2012-01-14","spring",2012,"January","not holiday","Saturday","not workday",1,0.18,0.183087,0.4575,0.187183,333,2160,2493
+380,"2012-01-15","spring",2012,"January","not holiday","Sunday","not workday",1,0.166667,0.161625,0.419167,0.251258,284,2027,2311
+381,"2012-01-16","spring",2012,"January","holiday","Monday","not workday",1,0.19,0.190663,0.5225,0.231358,217,2081,2298
+382,"2012-01-17","spring",2012,"January","not holiday","Tuesday","workday",2,0.373043,0.364278,0.716087,0.34913,127,2808,2935
+383,"2012-01-18","spring",2012,"January","not holiday","Wednesday","workday",1,0.303333,0.275254,0.443333,0.415429,109,3267,3376
+384,"2012-01-19","spring",2012,"January","not holiday","Thursday","workday",1,0.19,0.190038,0.4975,0.220158,130,3162,3292
+385,"2012-01-20","spring",2012,"January","not holiday","Friday","workday",2,0.2175,0.220958,0.45,0.20275,115,3048,3163
+386,"2012-01-21","spring",2012,"January","not holiday","Saturday","not workday",2,0.173333,0.174875,0.83125,0.222642,67,1234,1301
+387,"2012-01-22","spring",2012,"January","not holiday","Sunday","not workday",2,0.1625,0.16225,0.79625,0.199638,196,1781,1977
+388,"2012-01-23","spring",2012,"January","not holiday","Monday","workday",2,0.218333,0.243058,0.91125,0.110708,145,2287,2432
+389,"2012-01-24","spring",2012,"January","not holiday","Tuesday","workday",1,0.3425,0.349108,0.835833,0.123767,439,3900,4339
+390,"2012-01-25","spring",2012,"January","not holiday","Wednesday","workday",1,0.294167,0.294821,0.64375,0.161071,467,3803,4270
+391,"2012-01-26","spring",2012,"January","not holiday","Thursday","workday",2,0.341667,0.35605,0.769583,0.0733958,244,3831,4075
+392,"2012-01-27","spring",2012,"January","not holiday","Friday","workday",2,0.425,0.415383,0.74125,0.342667,269,3187,3456
+393,"2012-01-28","spring",2012,"January","not holiday","Saturday","not workday",1,0.315833,0.326379,0.543333,0.210829,775,3248,4023
+394,"2012-01-29","spring",2012,"January","not holiday","Sunday","not workday",1,0.2825,0.272721,0.31125,0.24005,558,2685,3243
+395,"2012-01-30","spring",2012,"January","not holiday","Monday","workday",1,0.269167,0.262625,0.400833,0.215792,126,3498,3624
+396,"2012-01-31","spring",2012,"January","not holiday","Tuesday","workday",1,0.39,0.381317,0.416667,0.261817,324,4185,4509
+397,"2012-02-01","spring",2012,"February","not holiday","Wednesday","workday",1,0.469167,0.466538,0.507917,0.189067,304,4275,4579
+398,"2012-02-02","spring",2012,"February","not holiday","Thursday","workday",2,0.399167,0.398971,0.672917,0.187187,190,3571,3761
+399,"2012-02-03","spring",2012,"February","not holiday","Friday","workday",1,0.313333,0.309346,0.526667,0.178496,310,3841,4151
+400,"2012-02-04","spring",2012,"February","not holiday","Saturday","not workday",2,0.264167,0.272725,0.779583,0.121896,384,2448,2832
+401,"2012-02-05","spring",2012,"February","not holiday","Sunday","not workday",2,0.265833,0.264521,0.687917,0.175996,318,2629,2947
+402,"2012-02-06","spring",2012,"February","not holiday","Monday","workday",1,0.282609,0.296426,0.622174,0.1538,206,3578,3784
+403,"2012-02-07","spring",2012,"February","not holiday","Tuesday","workday",1,0.354167,0.361104,0.49625,0.147379,199,4176,4375
+404,"2012-02-08","spring",2012,"February","not holiday","Wednesday","workday",2,0.256667,0.266421,0.722917,0.133721,109,2693,2802
+405,"2012-02-09","spring",2012,"February","not holiday","Thursday","workday",1,0.265,0.261988,0.562083,0.194037,163,3667,3830
+406,"2012-02-10","spring",2012,"February","not holiday","Friday","workday",2,0.280833,0.293558,0.54,0.116929,227,3604,3831
+407,"2012-02-11","spring",2012,"February","not holiday","Saturday","not workday",3,0.224167,0.210867,0.73125,0.289796,192,1977,2169
+408,"2012-02-12","spring",2012,"February","not holiday","Sunday","not workday",1,0.1275,0.101658,0.464583,0.409212,73,1456,1529
+409,"2012-02-13","spring",2012,"February","not holiday","Monday","workday",1,0.2225,0.227913,0.41125,0.167283,94,3328,3422
+410,"2012-02-14","spring",2012,"February","not holiday","Tuesday","workday",2,0.319167,0.333946,0.50875,0.141179,135,3787,3922
+411,"2012-02-15","spring",2012,"February","not holiday","Wednesday","workday",1,0.348333,0.351629,0.53125,0.1816,141,4028,4169
+412,"2012-02-16","spring",2012,"February","not holiday","Thursday","workday",2,0.316667,0.330162,0.752917,0.091425,74,2931,3005
+413,"2012-02-17","spring",2012,"February","not holiday","Friday","workday",1,0.343333,0.351629,0.634583,0.205846,349,3805,4154
+414,"2012-02-18","spring",2012,"February","not holiday","Saturday","not workday",1,0.346667,0.355425,0.534583,0.190929,1435,2883,4318
+415,"2012-02-19","spring",2012,"February","not holiday","Sunday","not workday",2,0.28,0.265788,0.515833,0.253112,618,2071,2689
+416,"2012-02-20","spring",2012,"February","holiday","Monday","not workday",1,0.28,0.273391,0.507826,0.229083,502,2627,3129
+417,"2012-02-21","spring",2012,"February","not holiday","Tuesday","workday",1,0.287826,0.295113,0.594348,0.205717,163,3614,3777
+418,"2012-02-22","spring",2012,"February","not holiday","Wednesday","workday",1,0.395833,0.392667,0.567917,0.234471,394,4379,4773
+419,"2012-02-23","spring",2012,"February","not holiday","Thursday","workday",1,0.454167,0.444446,0.554583,0.190913,516,4546,5062
+420,"2012-02-24","spring",2012,"February","not holiday","Friday","workday",2,0.4075,0.410971,0.7375,0.237567,246,3241,3487
+421,"2012-02-25","spring",2012,"February","not holiday","Saturday","not workday",1,0.290833,0.255675,0.395833,0.421642,317,2415,2732
+422,"2012-02-26","spring",2012,"February","not holiday","Sunday","not workday",1,0.279167,0.268308,0.41,0.205229,515,2874,3389
+423,"2012-02-27","spring",2012,"February","not holiday","Monday","workday",1,0.366667,0.357954,0.490833,0.268033,253,4069,4322
+424,"2012-02-28","spring",2012,"February","not holiday","Tuesday","workday",1,0.359167,0.353525,0.395833,0.193417,229,4134,4363
+425,"2012-02-29","spring",2012,"February","not holiday","Wednesday","workday",2,0.344348,0.34847,0.804783,0.179117,65,1769,1834
+426,"2012-03-01","spring",2012,"March","not holiday","Thursday","workday",1,0.485833,0.475371,0.615417,0.226987,325,4665,4990
+427,"2012-03-02","spring",2012,"March","not holiday","Friday","workday",2,0.353333,0.359842,0.657083,0.144904,246,2948,3194
+428,"2012-03-03","spring",2012,"March","not holiday","Saturday","not workday",2,0.414167,0.413492,0.62125,0.161079,956,3110,4066
+429,"2012-03-04","spring",2012,"March","not holiday","Sunday","not workday",1,0.325833,0.303021,0.403333,0.334571,710,2713,3423
+430,"2012-03-05","spring",2012,"March","not holiday","Monday","workday",1,0.243333,0.241171,0.50625,0.228858,203,3130,3333
+431,"2012-03-06","spring",2012,"March","not holiday","Tuesday","workday",1,0.258333,0.255042,0.456667,0.200875,221,3735,3956
+432,"2012-03-07","spring",2012,"March","not holiday","Wednesday","workday",1,0.404167,0.3851,0.513333,0.345779,432,4484,4916
+433,"2012-03-08","spring",2012,"March","not holiday","Thursday","workday",1,0.5275,0.524604,0.5675,0.441563,486,4896,5382
+434,"2012-03-09","spring",2012,"March","not holiday","Friday","workday",2,0.410833,0.397083,0.407083,0.4148,447,4122,4569
+435,"2012-03-10","spring",2012,"March","not holiday","Saturday","not workday",1,0.2875,0.277767,0.350417,0.22575,968,3150,4118
+436,"2012-03-11","spring",2012,"March","not holiday","Sunday","not workday",1,0.361739,0.35967,0.476957,0.222587,1658,3253,4911
+437,"2012-03-12","spring",2012,"March","not holiday","Monday","workday",1,0.466667,0.459592,0.489167,0.207713,838,4460,5298
+438,"2012-03-13","spring",2012,"March","not holiday","Tuesday","workday",1,0.565,0.542929,0.6175,0.23695,762,5085,5847
+439,"2012-03-14","spring",2012,"March","not holiday","Wednesday","workday",1,0.5725,0.548617,0.507083,0.115062,997,5315,6312
+440,"2012-03-15","spring",2012,"March","not holiday","Thursday","workday",1,0.5575,0.532825,0.579583,0.149883,1005,5187,6192
+441,"2012-03-16","spring",2012,"March","not holiday","Friday","workday",2,0.435833,0.436229,0.842083,0.113192,548,3830,4378
+442,"2012-03-17","spring",2012,"March","not holiday","Saturday","not workday",2,0.514167,0.505046,0.755833,0.110704,3155,4681,7836
+443,"2012-03-18","spring",2012,"March","not holiday","Sunday","not workday",2,0.4725,0.464,0.81,0.126883,2207,3685,5892
+444,"2012-03-19","spring",2012,"March","not holiday","Monday","workday",1,0.545,0.532821,0.72875,0.162317,982,5171,6153
+445,"2012-03-20","spring",2012,"March","not holiday","Tuesday","workday",1,0.560833,0.538533,0.807917,0.121271,1051,5042,6093
+446,"2012-03-21","summer",2012,"March","not holiday","Wednesday","workday",2,0.531667,0.513258,0.82125,0.0895583,1122,5108,6230
+447,"2012-03-22","summer",2012,"March","not holiday","Thursday","workday",1,0.554167,0.531567,0.83125,0.117562,1334,5537,6871
+448,"2012-03-23","summer",2012,"March","not holiday","Friday","workday",2,0.601667,0.570067,0.694167,0.1163,2469,5893,8362
+449,"2012-03-24","summer",2012,"March","not holiday","Saturday","not workday",2,0.5025,0.486733,0.885417,0.192783,1033,2339,3372
+450,"2012-03-25","summer",2012,"March","not holiday","Sunday","not workday",2,0.4375,0.437488,0.880833,0.220775,1532,3464,4996
+451,"2012-03-26","summer",2012,"March","not holiday","Monday","workday",1,0.445833,0.43875,0.477917,0.386821,795,4763,5558
+452,"2012-03-27","summer",2012,"March","not holiday","Tuesday","workday",1,0.323333,0.315654,0.29,0.187192,531,4571,5102
+453,"2012-03-28","summer",2012,"March","not holiday","Wednesday","workday",1,0.484167,0.47095,0.48125,0.291671,674,5024,5698
+454,"2012-03-29","summer",2012,"March","not holiday","Thursday","workday",1,0.494167,0.482304,0.439167,0.31965,834,5299,6133
+455,"2012-03-30","summer",2012,"March","not holiday","Friday","workday",2,0.37,0.375621,0.580833,0.138067,796,4663,5459
+456,"2012-03-31","summer",2012,"March","not holiday","Saturday","not workday",2,0.424167,0.421708,0.738333,0.250617,2301,3934,6235
+457,"2012-04-01","summer",2012,"April","not holiday","Sunday","not workday",2,0.425833,0.417287,0.67625,0.172267,2347,3694,6041
+458,"2012-04-02","summer",2012,"April","not holiday","Monday","workday",1,0.433913,0.427513,0.504348,0.312139,1208,4728,5936
+459,"2012-04-03","summer",2012,"April","not holiday","Tuesday","workday",1,0.466667,0.461483,0.396667,0.100133,1348,5424,6772
+460,"2012-04-04","summer",2012,"April","not holiday","Wednesday","workday",1,0.541667,0.53345,0.469583,0.180975,1058,5378,6436
+461,"2012-04-05","summer",2012,"April","not holiday","Thursday","workday",1,0.435,0.431163,0.374167,0.219529,1192,5265,6457
+462,"2012-04-06","summer",2012,"April","not holiday","Friday","workday",1,0.403333,0.390767,0.377083,0.300388,1807,4653,6460
+463,"2012-04-07","summer",2012,"April","not holiday","Saturday","not workday",1,0.4375,0.426129,0.254167,0.274871,3252,3605,6857
+464,"2012-04-08","summer",2012,"April","not holiday","Sunday","not workday",1,0.5,0.492425,0.275833,0.232596,2230,2939,5169
+465,"2012-04-09","summer",2012,"April","not holiday","Monday","workday",1,0.489167,0.476638,0.3175,0.358196,905,4680,5585
+466,"2012-04-10","summer",2012,"April","not holiday","Tuesday","workday",1,0.446667,0.436233,0.435,0.249375,819,5099,5918
+467,"2012-04-11","summer",2012,"April","not holiday","Wednesday","workday",1,0.348696,0.337274,0.469565,0.295274,482,4380,4862
+468,"2012-04-12","summer",2012,"April","not holiday","Thursday","workday",1,0.3975,0.387604,0.46625,0.290429,663,4746,5409
+469,"2012-04-13","summer",2012,"April","not holiday","Friday","workday",1,0.4425,0.431808,0.408333,0.155471,1252,5146,6398
+470,"2012-04-14","summer",2012,"April","not holiday","Saturday","not workday",1,0.495,0.487996,0.502917,0.190917,2795,4665,7460
+471,"2012-04-15","summer",2012,"April","not holiday","Sunday","not workday",1,0.606667,0.573875,0.507917,0.225129,2846,4286,7132
+472,"2012-04-16","summer",2012,"April","holiday","Monday","not workday",1,0.664167,0.614925,0.561667,0.284829,1198,5172,6370
+473,"2012-04-17","summer",2012,"April","not holiday","Tuesday","workday",1,0.608333,0.598487,0.390417,0.273629,989,5702,6691
+474,"2012-04-18","summer",2012,"April","not holiday","Wednesday","workday",2,0.463333,0.457038,0.569167,0.167912,347,4020,4367
+475,"2012-04-19","summer",2012,"April","not holiday","Thursday","workday",1,0.498333,0.493046,0.6125,0.0659292,846,5719,6565
+476,"2012-04-20","summer",2012,"April","not holiday","Friday","workday",1,0.526667,0.515775,0.694583,0.149871,1340,5950,7290
+477,"2012-04-21","summer",2012,"April","not holiday","Saturday","not workday",1,0.57,0.542921,0.682917,0.283587,2541,4083,6624
+478,"2012-04-22","summer",2012,"April","not holiday","Sunday","not workday",3,0.396667,0.389504,0.835417,0.344546,120,907,1027
+479,"2012-04-23","summer",2012,"April","not holiday","Monday","workday",2,0.321667,0.301125,0.766667,0.303496,195,3019,3214
+480,"2012-04-24","summer",2012,"April","not holiday","Tuesday","workday",1,0.413333,0.405283,0.454167,0.249383,518,5115,5633
+481,"2012-04-25","summer",2012,"April","not holiday","Wednesday","workday",1,0.476667,0.470317,0.427917,0.118792,655,5541,6196
+482,"2012-04-26","summer",2012,"April","not holiday","Thursday","workday",2,0.498333,0.483583,0.756667,0.176625,475,4551,5026
+483,"2012-04-27","summer",2012,"April","not holiday","Friday","workday",1,0.4575,0.452637,0.400833,0.347633,1014,5219,6233
+484,"2012-04-28","summer",2012,"April","not holiday","Saturday","not workday",2,0.376667,0.377504,0.489583,0.129975,1120,3100,4220
+485,"2012-04-29","summer",2012,"April","not holiday","Sunday","not workday",1,0.458333,0.450121,0.587083,0.116908,2229,4075,6304
+486,"2012-04-30","summer",2012,"April","not holiday","Monday","workday",2,0.464167,0.457696,0.57,0.171638,665,4907,5572
+487,"2012-05-01","summer",2012,"May","not holiday","Tuesday","workday",2,0.613333,0.577021,0.659583,0.156096,653,5087,5740
+488,"2012-05-02","summer",2012,"May","not holiday","Wednesday","workday",1,0.564167,0.537896,0.797083,0.138058,667,5502,6169
+489,"2012-05-03","summer",2012,"May","not holiday","Thursday","workday",2,0.56,0.537242,0.768333,0.133696,764,5657,6421
+490,"2012-05-04","summer",2012,"May","not holiday","Friday","workday",1,0.6275,0.590917,0.735417,0.162938,1069,5227,6296
+491,"2012-05-05","summer",2012,"May","not holiday","Saturday","not workday",2,0.621667,0.584608,0.756667,0.152992,2496,4387,6883
+492,"2012-05-06","summer",2012,"May","not holiday","Sunday","not workday",2,0.5625,0.546737,0.74,0.149879,2135,4224,6359
+493,"2012-05-07","summer",2012,"May","not holiday","Monday","workday",2,0.5375,0.527142,0.664167,0.230721,1008,5265,6273
+494,"2012-05-08","summer",2012,"May","not holiday","Tuesday","workday",2,0.581667,0.557471,0.685833,0.296029,738,4990,5728
+495,"2012-05-09","summer",2012,"May","not holiday","Wednesday","workday",2,0.575,0.553025,0.744167,0.216412,620,4097,4717
+496,"2012-05-10","summer",2012,"May","not holiday","Thursday","workday",1,0.505833,0.491783,0.552083,0.314063,1026,5546,6572
+497,"2012-05-11","summer",2012,"May","not holiday","Friday","workday",1,0.533333,0.520833,0.360417,0.236937,1319,5711,7030
+498,"2012-05-12","summer",2012,"May","not holiday","Saturday","not workday",1,0.564167,0.544817,0.480417,0.123133,2622,4807,7429
+499,"2012-05-13","summer",2012,"May","not holiday","Sunday","not workday",1,0.6125,0.585238,0.57625,0.225117,2172,3946,6118
+500,"2012-05-14","summer",2012,"May","not holiday","Monday","workday",2,0.573333,0.5499,0.789583,0.212692,342,2501,2843
+501,"2012-05-15","summer",2012,"May","not holiday","Tuesday","workday",2,0.611667,0.576404,0.794583,0.147392,625,4490,5115
+502,"2012-05-16","summer",2012,"May","not holiday","Wednesday","workday",1,0.636667,0.595975,0.697917,0.122512,991,6433,7424
+503,"2012-05-17","summer",2012,"May","not holiday","Thursday","workday",1,0.593333,0.572613,0.52,0.229475,1242,6142,7384
+504,"2012-05-18","summer",2012,"May","not holiday","Friday","workday",1,0.564167,0.551121,0.523333,0.136817,1521,6118,7639
+505,"2012-05-19","summer",2012,"May","not holiday","Saturday","not workday",1,0.6,0.566908,0.45625,0.083975,3410,4884,8294
+506,"2012-05-20","summer",2012,"May","not holiday","Sunday","not workday",1,0.620833,0.583967,0.530417,0.254367,2704,4425,7129
+507,"2012-05-21","summer",2012,"May","not holiday","Monday","workday",2,0.598333,0.565667,0.81125,0.233204,630,3729,4359
+508,"2012-05-22","summer",2012,"May","not holiday","Tuesday","workday",2,0.615,0.580825,0.765833,0.118167,819,5254,6073
+509,"2012-05-23","summer",2012,"May","not holiday","Wednesday","workday",2,0.621667,0.584612,0.774583,0.102,766,4494,5260
+510,"2012-05-24","summer",2012,"May","not holiday","Thursday","workday",1,0.655,0.6067,0.716667,0.172896,1059,5711,6770
+511,"2012-05-25","summer",2012,"May","not holiday","Friday","workday",1,0.68,0.627529,0.747083,0.14055,1417,5317,6734
+512,"2012-05-26","summer",2012,"May","not holiday","Saturday","not workday",1,0.6925,0.642696,0.7325,0.198992,2855,3681,6536
+513,"2012-05-27","summer",2012,"May","not holiday","Sunday","not workday",1,0.69,0.641425,0.697083,0.215171,3283,3308,6591
+514,"2012-05-28","summer",2012,"May","holiday","Monday","not workday",1,0.7125,0.6793,0.67625,0.196521,2557,3486,6043
+515,"2012-05-29","summer",2012,"May","not holiday","Tuesday","workday",1,0.7225,0.672992,0.684583,0.2954,880,4863,5743
+516,"2012-05-30","summer",2012,"May","not holiday","Wednesday","workday",2,0.656667,0.611129,0.67,0.134329,745,6110,6855
+517,"2012-05-31","summer",2012,"May","not holiday","Thursday","workday",1,0.68,0.631329,0.492917,0.195279,1100,6238,7338
+518,"2012-06-01","summer",2012,"June","not holiday","Friday","workday",2,0.654167,0.607962,0.755417,0.237563,533,3594,4127
+519,"2012-06-02","summer",2012,"June","not holiday","Saturday","not workday",1,0.583333,0.566288,0.549167,0.186562,2795,5325,8120
+520,"2012-06-03","summer",2012,"June","not holiday","Sunday","not workday",1,0.6025,0.575133,0.493333,0.184087,2494,5147,7641
+521,"2012-06-04","summer",2012,"June","not holiday","Monday","workday",1,0.5975,0.578283,0.487083,0.284833,1071,5927,6998
+522,"2012-06-05","summer",2012,"June","not holiday","Tuesday","workday",2,0.540833,0.525892,0.613333,0.209575,968,6033,7001
+523,"2012-06-06","summer",2012,"June","not holiday","Wednesday","workday",1,0.554167,0.542292,0.61125,0.077125,1027,6028,7055
+524,"2012-06-07","summer",2012,"June","not holiday","Thursday","workday",1,0.6025,0.569442,0.567083,0.15735,1038,6456,7494
+525,"2012-06-08","summer",2012,"June","not holiday","Friday","workday",1,0.649167,0.597862,0.467917,0.175383,1488,6248,7736
+526,"2012-06-09","summer",2012,"June","not holiday","Saturday","not workday",1,0.710833,0.648367,0.437083,0.144287,2708,4790,7498
+527,"2012-06-10","summer",2012,"June","not holiday","Sunday","not workday",1,0.726667,0.663517,0.538333,0.133721,2224,4374,6598
+528,"2012-06-11","summer",2012,"June","not holiday","Monday","workday",2,0.720833,0.659721,0.587917,0.207713,1017,5647,6664
+529,"2012-06-12","summer",2012,"June","not holiday","Tuesday","workday",2,0.653333,0.597875,0.833333,0.214546,477,4495,4972
+530,"2012-06-13","summer",2012,"June","not holiday","Wednesday","workday",1,0.655833,0.611117,0.582083,0.343279,1173,6248,7421
+531,"2012-06-14","summer",2012,"June","not holiday","Thursday","workday",1,0.648333,0.624383,0.569583,0.253733,1180,6183,7363
+532,"2012-06-15","summer",2012,"June","not holiday","Friday","workday",1,0.639167,0.599754,0.589583,0.176617,1563,6102,7665
+533,"2012-06-16","summer",2012,"June","not holiday","Saturday","not workday",1,0.631667,0.594708,0.504167,0.166667,2963,4739,7702
+534,"2012-06-17","summer",2012,"June","not holiday","Sunday","not workday",1,0.5925,0.571975,0.59875,0.144904,2634,4344,6978
+535,"2012-06-18","summer",2012,"June","not holiday","Monday","workday",2,0.568333,0.544842,0.777917,0.174746,653,4446,5099
+536,"2012-06-19","summer",2012,"June","not holiday","Tuesday","workday",1,0.688333,0.654692,0.69,0.148017,968,5857,6825
+537,"2012-06-20","summer",2012,"June","not holiday","Wednesday","workday",1,0.7825,0.720975,0.592083,0.113812,872,5339,6211
+538,"2012-06-21","fall",2012,"June","not holiday","Thursday","workday",1,0.805833,0.752542,0.567917,0.118787,778,5127,5905
+539,"2012-06-22","fall",2012,"June","not holiday","Friday","workday",1,0.7775,0.724121,0.57375,0.182842,964,4859,5823
+540,"2012-06-23","fall",2012,"June","not holiday","Saturday","not workday",1,0.731667,0.652792,0.534583,0.179721,2657,4801,7458
+541,"2012-06-24","fall",2012,"June","not holiday","Sunday","not workday",1,0.743333,0.674254,0.479167,0.145525,2551,4340,6891
+542,"2012-06-25","fall",2012,"June","not holiday","Monday","workday",1,0.715833,0.654042,0.504167,0.300383,1139,5640,6779
+543,"2012-06-26","fall",2012,"June","not holiday","Tuesday","workday",1,0.630833,0.594704,0.373333,0.347642,1077,6365,7442
+544,"2012-06-27","fall",2012,"June","not holiday","Wednesday","workday",1,0.6975,0.640792,0.36,0.271775,1077,6258,7335
+545,"2012-06-28","fall",2012,"June","not holiday","Thursday","workday",1,0.749167,0.675512,0.4225,0.17165,921,5958,6879
+546,"2012-06-29","fall",2012,"June","not holiday","Friday","workday",1,0.834167,0.786613,0.48875,0.165417,829,4634,5463
+547,"2012-06-30","fall",2012,"June","not holiday","Saturday","not workday",1,0.765,0.687508,0.60125,0.161071,1455,4232,5687
+548,"2012-07-01","fall",2012,"July","not holiday","Sunday","not workday",1,0.815833,0.750629,0.51875,0.168529,1421,4110,5531
+549,"2012-07-02","fall",2012,"July","not holiday","Monday","workday",1,0.781667,0.702038,0.447083,0.195267,904,5323,6227
+550,"2012-07-03","fall",2012,"July","not holiday","Tuesday","workday",1,0.780833,0.70265,0.492083,0.126237,1052,5608,6660
+551,"2012-07-04","fall",2012,"July","holiday","Wednesday","not workday",1,0.789167,0.732337,0.53875,0.13495,2562,4841,7403
+552,"2012-07-05","fall",2012,"July","not holiday","Thursday","workday",1,0.8275,0.761367,0.457917,0.194029,1405,4836,6241
+553,"2012-07-06","fall",2012,"July","not holiday","Friday","workday",1,0.828333,0.752533,0.450833,0.146142,1366,4841,6207
+554,"2012-07-07","fall",2012,"July","not holiday","Saturday","not workday",1,0.861667,0.804913,0.492083,0.163554,1448,3392,4840
+555,"2012-07-08","fall",2012,"July","not holiday","Sunday","not workday",1,0.8225,0.790396,0.57375,0.125629,1203,3469,4672
+556,"2012-07-09","fall",2012,"July","not holiday","Monday","workday",2,0.710833,0.654054,0.683333,0.180975,998,5571,6569
+557,"2012-07-10","fall",2012,"July","not holiday","Tuesday","workday",2,0.720833,0.664796,0.6675,0.151737,954,5336,6290
+558,"2012-07-11","fall",2012,"July","not holiday","Wednesday","workday",1,0.716667,0.650271,0.633333,0.151733,975,6289,7264
+559,"2012-07-12","fall",2012,"July","not holiday","Thursday","workday",1,0.715833,0.654683,0.529583,0.146775,1032,6414,7446
+560,"2012-07-13","fall",2012,"July","not holiday","Friday","workday",2,0.731667,0.667933,0.485833,0.08085,1511,5988,7499
+561,"2012-07-14","fall",2012,"July","not holiday","Saturday","not workday",2,0.703333,0.666042,0.699167,0.143679,2355,4614,6969
+562,"2012-07-15","fall",2012,"July","not holiday","Sunday","not workday",1,0.745833,0.705196,0.717917,0.166667,1920,4111,6031
+563,"2012-07-16","fall",2012,"July","not holiday","Monday","workday",1,0.763333,0.724125,0.645,0.164187,1088,5742,6830
+564,"2012-07-17","fall",2012,"July","not holiday","Tuesday","workday",1,0.818333,0.755683,0.505833,0.114429,921,5865,6786
+565,"2012-07-18","fall",2012,"July","not holiday","Wednesday","workday",1,0.793333,0.745583,0.577083,0.137442,799,4914,5713
+566,"2012-07-19","fall",2012,"July","not holiday","Thursday","workday",1,0.77,0.714642,0.600417,0.165429,888,5703,6591
+567,"2012-07-20","fall",2012,"July","not holiday","Friday","workday",2,0.665833,0.613025,0.844167,0.208967,747,5123,5870
+568,"2012-07-21","fall",2012,"July","not holiday","Saturday","not workday",3,0.595833,0.549912,0.865417,0.2133,1264,3195,4459
+569,"2012-07-22","fall",2012,"July","not holiday","Sunday","not workday",2,0.6675,0.623125,0.7625,0.0939208,2544,4866,7410
+570,"2012-07-23","fall",2012,"July","not holiday","Monday","workday",1,0.741667,0.690017,0.694167,0.138683,1135,5831,6966
+571,"2012-07-24","fall",2012,"July","not holiday","Tuesday","workday",1,0.750833,0.70645,0.655,0.211454,1140,6452,7592
+572,"2012-07-25","fall",2012,"July","not holiday","Wednesday","workday",1,0.724167,0.654054,0.45,0.1648,1383,6790,8173
+573,"2012-07-26","fall",2012,"July","not holiday","Thursday","workday",1,0.776667,0.739263,0.596667,0.284813,1036,5825,6861
+574,"2012-07-27","fall",2012,"July","not holiday","Friday","workday",1,0.781667,0.734217,0.594583,0.152992,1259,5645,6904
+575,"2012-07-28","fall",2012,"July","not holiday","Saturday","not workday",1,0.755833,0.697604,0.613333,0.15735,2234,4451,6685
+576,"2012-07-29","fall",2012,"July","not holiday","Sunday","not workday",1,0.721667,0.667933,0.62375,0.170396,2153,4444,6597
+577,"2012-07-30","fall",2012,"July","not holiday","Monday","workday",1,0.730833,0.684987,0.66875,0.153617,1040,6065,7105
+578,"2012-07-31","fall",2012,"July","not holiday","Tuesday","workday",1,0.713333,0.662896,0.704167,0.165425,968,6248,7216
+579,"2012-08-01","fall",2012,"August","not holiday","Wednesday","workday",1,0.7175,0.667308,0.6775,0.141179,1074,6506,7580
+580,"2012-08-02","fall",2012,"August","not holiday","Thursday","workday",1,0.7525,0.707088,0.659583,0.129354,983,6278,7261
+581,"2012-08-03","fall",2012,"August","not holiday","Friday","workday",2,0.765833,0.722867,0.6425,0.215792,1328,5847,7175
+582,"2012-08-04","fall",2012,"August","not holiday","Saturday","not workday",1,0.793333,0.751267,0.613333,0.257458,2345,4479,6824
+583,"2012-08-05","fall",2012,"August","not holiday","Sunday","not workday",1,0.769167,0.731079,0.6525,0.290421,1707,3757,5464
+584,"2012-08-06","fall",2012,"August","not holiday","Monday","workday",2,0.7525,0.710246,0.654167,0.129354,1233,5780,7013
+585,"2012-08-07","fall",2012,"August","not holiday","Tuesday","workday",2,0.735833,0.697621,0.70375,0.116908,1278,5995,7273
+586,"2012-08-08","fall",2012,"August","not holiday","Wednesday","workday",2,0.75,0.707717,0.672917,0.1107,1263,6271,7534
+587,"2012-08-09","fall",2012,"August","not holiday","Thursday","workday",1,0.755833,0.699508,0.620417,0.1561,1196,6090,7286
+588,"2012-08-10","fall",2012,"August","not holiday","Friday","workday",2,0.715833,0.667942,0.715833,0.238813,1065,4721,5786
+589,"2012-08-11","fall",2012,"August","not holiday","Saturday","not workday",2,0.6925,0.638267,0.732917,0.206479,2247,4052,6299
+590,"2012-08-12","fall",2012,"August","not holiday","Sunday","not workday",1,0.700833,0.644579,0.530417,0.122512,2182,4362,6544
+591,"2012-08-13","fall",2012,"August","not holiday","Monday","workday",1,0.720833,0.662254,0.545417,0.136212,1207,5676,6883
+592,"2012-08-14","fall",2012,"August","not holiday","Tuesday","workday",1,0.726667,0.676779,0.686667,0.169158,1128,5656,6784
+593,"2012-08-15","fall",2012,"August","not holiday","Wednesday","workday",1,0.706667,0.654037,0.619583,0.169771,1198,6149,7347
+594,"2012-08-16","fall",2012,"August","not holiday","Thursday","workday",1,0.719167,0.654688,0.519167,0.141796,1338,6267,7605
+595,"2012-08-17","fall",2012,"August","not holiday","Friday","workday",1,0.723333,0.2424,0.570833,0.231354,1483,5665,7148
+596,"2012-08-18","fall",2012,"August","not holiday","Saturday","not workday",1,0.678333,0.618071,0.603333,0.177867,2827,5038,7865
+597,"2012-08-19","fall",2012,"August","not holiday","Sunday","not workday",2,0.635833,0.603554,0.711667,0.08645,1208,3341,4549
+598,"2012-08-20","fall",2012,"August","not holiday","Monday","workday",2,0.635833,0.595967,0.734167,0.129979,1026,5504,6530
+599,"2012-08-21","fall",2012,"August","not holiday","Tuesday","workday",1,0.649167,0.601025,0.67375,0.0727708,1081,5925,7006
+600,"2012-08-22","fall",2012,"August","not holiday","Wednesday","workday",1,0.6675,0.621854,0.677083,0.0702833,1094,6281,7375
+601,"2012-08-23","fall",2012,"August","not holiday","Thursday","workday",1,0.695833,0.637008,0.635833,0.0845958,1363,6402,7765
+602,"2012-08-24","fall",2012,"August","not holiday","Friday","workday",2,0.7025,0.6471,0.615,0.0721458,1325,6257,7582
+603,"2012-08-25","fall",2012,"August","not holiday","Saturday","not workday",2,0.661667,0.618696,0.712917,0.244408,1829,4224,6053
+604,"2012-08-26","fall",2012,"August","not holiday","Sunday","not workday",2,0.653333,0.595996,0.845833,0.228858,1483,3772,5255
+605,"2012-08-27","fall",2012,"August","not holiday","Monday","workday",1,0.703333,0.654688,0.730417,0.128733,989,5928,6917
+606,"2012-08-28","fall",2012,"August","not holiday","Tuesday","workday",1,0.728333,0.66605,0.62,0.190925,935,6105,7040
+607,"2012-08-29","fall",2012,"August","not holiday","Wednesday","workday",1,0.685,0.635733,0.552083,0.112562,1177,6520,7697
+608,"2012-08-30","fall",2012,"August","not holiday","Thursday","workday",1,0.706667,0.652779,0.590417,0.0771167,1172,6541,7713
+609,"2012-08-31","fall",2012,"August","not holiday","Friday","workday",1,0.764167,0.6894,0.5875,0.168533,1433,5917,7350
+610,"2012-09-01","fall",2012,"September","not holiday","Saturday","not workday",2,0.753333,0.702654,0.638333,0.113187,2352,3788,6140
+611,"2012-09-02","fall",2012,"September","not holiday","Sunday","not workday",2,0.696667,0.649,0.815,0.0640708,2613,3197,5810
+612,"2012-09-03","fall",2012,"September","holiday","Monday","not workday",1,0.7075,0.661629,0.790833,0.151121,1965,4069,6034
+613,"2012-09-04","fall",2012,"September","not holiday","Tuesday","workday",1,0.725833,0.686888,0.755,0.236321,867,5997,6864
+614,"2012-09-05","fall",2012,"September","not holiday","Wednesday","workday",1,0.736667,0.708983,0.74125,0.187808,832,6280,7112
+615,"2012-09-06","fall",2012,"September","not holiday","Thursday","workday",2,0.696667,0.655329,0.810417,0.142421,611,5592,6203
+616,"2012-09-07","fall",2012,"September","not holiday","Friday","workday",1,0.703333,0.657204,0.73625,0.171646,1045,6459,7504
+617,"2012-09-08","fall",2012,"September","not holiday","Saturday","not workday",2,0.659167,0.611121,0.799167,0.281104,1557,4419,5976
+618,"2012-09-09","fall",2012,"September","not holiday","Sunday","not workday",1,0.61,0.578925,0.5475,0.224496,2570,5657,8227
+619,"2012-09-10","fall",2012,"September","not holiday","Monday","workday",1,0.583333,0.565654,0.50375,0.258713,1118,6407,7525
+620,"2012-09-11","fall",2012,"September","not holiday","Tuesday","workday",1,0.5775,0.554292,0.52,0.0920542,1070,6697,7767
+621,"2012-09-12","fall",2012,"September","not holiday","Wednesday","workday",1,0.599167,0.570075,0.577083,0.131846,1050,6820,7870
+622,"2012-09-13","fall",2012,"September","not holiday","Thursday","workday",1,0.6125,0.579558,0.637083,0.0827208,1054,6750,7804
+623,"2012-09-14","fall",2012,"September","not holiday","Friday","workday",1,0.633333,0.594083,0.6725,0.103863,1379,6630,8009
+624,"2012-09-15","fall",2012,"September","not holiday","Saturday","not workday",1,0.608333,0.585867,0.501667,0.247521,3160,5554,8714
+625,"2012-09-16","fall",2012,"September","not holiday","Sunday","not workday",1,0.58,0.563125,0.57,0.0901833,2166,5167,7333
+626,"2012-09-17","fall",2012,"September","not holiday","Monday","workday",2,0.580833,0.55305,0.734583,0.151742,1022,5847,6869
+627,"2012-09-18","fall",2012,"September","not holiday","Tuesday","workday",2,0.623333,0.565067,0.8725,0.357587,371,3702,4073
+628,"2012-09-19","fall",2012,"September","not holiday","Wednesday","workday",1,0.5525,0.540404,0.536667,0.215175,788,6803,7591
+629,"2012-09-20","fall",2012,"September","not holiday","Thursday","workday",1,0.546667,0.532192,0.618333,0.118167,939,6781,7720
+630,"2012-09-21","fall",2012,"September","not holiday","Friday","workday",1,0.599167,0.571971,0.66875,0.154229,1250,6917,8167
+631,"2012-09-22","fall",2012,"September","not holiday","Saturday","not workday",1,0.65,0.610488,0.646667,0.283583,2512,5883,8395
+632,"2012-09-23","winter",2012,"September","not holiday","Sunday","not workday",1,0.529167,0.518933,0.467083,0.223258,2454,5453,7907
+633,"2012-09-24","winter",2012,"September","not holiday","Monday","workday",1,0.514167,0.502513,0.492917,0.142404,1001,6435,7436
+634,"2012-09-25","winter",2012,"September","not holiday","Tuesday","workday",1,0.55,0.544179,0.57,0.236321,845,6693,7538
+635,"2012-09-26","winter",2012,"September","not holiday","Wednesday","workday",1,0.635,0.596613,0.630833,0.2444,787,6946,7733
+636,"2012-09-27","winter",2012,"September","not holiday","Thursday","workday",2,0.65,0.607975,0.690833,0.134342,751,6642,7393
+637,"2012-09-28","winter",2012,"September","not holiday","Friday","workday",2,0.619167,0.585863,0.69,0.164179,1045,6370,7415
+638,"2012-09-29","winter",2012,"September","not holiday","Saturday","not workday",1,0.5425,0.530296,0.542917,0.227604,2589,5966,8555
+639,"2012-09-30","winter",2012,"September","not holiday","Sunday","not workday",1,0.526667,0.517663,0.583333,0.134958,2015,4874,6889
+640,"2012-10-01","winter",2012,"October","not holiday","Monday","workday",2,0.520833,0.512,0.649167,0.0908042,763,6015,6778
+641,"2012-10-02","winter",2012,"October","not holiday","Tuesday","workday",3,0.590833,0.542333,0.871667,0.104475,315,4324,4639
+642,"2012-10-03","winter",2012,"October","not holiday","Wednesday","workday",2,0.6575,0.599133,0.79375,0.0665458,728,6844,7572
+643,"2012-10-04","winter",2012,"October","not holiday","Thursday","workday",2,0.6575,0.607975,0.722917,0.117546,891,6437,7328
+644,"2012-10-05","winter",2012,"October","not holiday","Friday","workday",1,0.615,0.580187,0.6275,0.10635,1516,6640,8156
+645,"2012-10-06","winter",2012,"October","not holiday","Saturday","not workday",1,0.554167,0.538521,0.664167,0.268025,3031,4934,7965
+646,"2012-10-07","winter",2012,"October","not holiday","Sunday","not workday",2,0.415833,0.419813,0.708333,0.141162,781,2729,3510
+647,"2012-10-08","winter",2012,"October","holiday","Monday","not workday",2,0.383333,0.387608,0.709583,0.189679,874,4604,5478
+648,"2012-10-09","winter",2012,"October","not holiday","Tuesday","workday",2,0.446667,0.438112,0.761667,0.1903,601,5791,6392
+649,"2012-10-10","winter",2012,"October","not holiday","Wednesday","workday",1,0.514167,0.503142,0.630833,0.187821,780,6911,7691
+650,"2012-10-11","winter",2012,"October","not holiday","Thursday","workday",1,0.435,0.431167,0.463333,0.181596,834,6736,7570
+651,"2012-10-12","winter",2012,"October","not holiday","Friday","workday",1,0.4375,0.433071,0.539167,0.235092,1060,6222,7282
+652,"2012-10-13","winter",2012,"October","not holiday","Saturday","not workday",1,0.393333,0.391396,0.494583,0.146142,2252,4857,7109
+653,"2012-10-14","winter",2012,"October","not holiday","Sunday","not workday",1,0.521667,0.508204,0.640417,0.278612,2080,4559,6639
+654,"2012-10-15","winter",2012,"October","not holiday","Monday","workday",2,0.561667,0.53915,0.7075,0.296037,760,5115,5875
+655,"2012-10-16","winter",2012,"October","not holiday","Tuesday","workday",1,0.468333,0.460846,0.558333,0.182221,922,6612,7534
+656,"2012-10-17","winter",2012,"October","not holiday","Wednesday","workday",1,0.455833,0.450108,0.692917,0.101371,979,6482,7461
+657,"2012-10-18","winter",2012,"October","not holiday","Thursday","workday",2,0.5225,0.512625,0.728333,0.236937,1008,6501,7509
+658,"2012-10-19","winter",2012,"October","not holiday","Friday","workday",2,0.563333,0.537896,0.815,0.134954,753,4671,5424
+659,"2012-10-20","winter",2012,"October","not holiday","Saturday","not workday",1,0.484167,0.472842,0.572917,0.117537,2806,5284,8090
+660,"2012-10-21","winter",2012,"October","not holiday","Sunday","not workday",1,0.464167,0.456429,0.51,0.166054,2132,4692,6824
+661,"2012-10-22","winter",2012,"October","not holiday","Monday","workday",1,0.4875,0.482942,0.568333,0.0814833,830,6228,7058
+662,"2012-10-23","winter",2012,"October","not holiday","Tuesday","workday",1,0.544167,0.530304,0.641667,0.0945458,841,6625,7466
+663,"2012-10-24","winter",2012,"October","not holiday","Wednesday","workday",1,0.5875,0.558721,0.63625,0.0727792,795,6898,7693
+664,"2012-10-25","winter",2012,"October","not holiday","Thursday","workday",2,0.55,0.529688,0.800417,0.124375,875,6484,7359
+665,"2012-10-26","winter",2012,"October","not holiday","Friday","workday",2,0.545833,0.52275,0.807083,0.132467,1182,6262,7444
+666,"2012-10-27","winter",2012,"October","not holiday","Saturday","not workday",2,0.53,0.515133,0.72,0.235692,2643,5209,7852
+667,"2012-10-28","winter",2012,"October","not holiday","Sunday","not workday",2,0.4775,0.467771,0.694583,0.398008,998,3461,4459
+668,"2012-10-29","winter",2012,"October","not holiday","Monday","workday",3,0.44,0.4394,0.88,0.3582,2,20,22
+669,"2012-10-30","winter",2012,"October","not holiday","Tuesday","workday",2,0.318182,0.309909,0.825455,0.213009,87,1009,1096
+670,"2012-10-31","winter",2012,"October","not holiday","Wednesday","workday",2,0.3575,0.3611,0.666667,0.166667,419,5147,5566
+671,"2012-11-01","winter",2012,"November","not holiday","Thursday","workday",2,0.365833,0.369942,0.581667,0.157346,466,5520,5986
+672,"2012-11-02","winter",2012,"November","not holiday","Friday","workday",1,0.355,0.356042,0.522083,0.266175,618,5229,5847
+673,"2012-11-03","winter",2012,"November","not holiday","Saturday","not workday",2,0.343333,0.323846,0.49125,0.270529,1029,4109,5138
+674,"2012-11-04","winter",2012,"November","not holiday","Sunday","not workday",1,0.325833,0.329538,0.532917,0.179108,1201,3906,5107
+675,"2012-11-05","winter",2012,"November","not holiday","Monday","workday",1,0.319167,0.308075,0.494167,0.236325,378,4881,5259
+676,"2012-11-06","winter",2012,"November","not holiday","Tuesday","workday",1,0.280833,0.281567,0.567083,0.173513,466,5220,5686
+677,"2012-11-07","winter",2012,"November","not holiday","Wednesday","workday",2,0.295833,0.274621,0.5475,0.304108,326,4709,5035
+678,"2012-11-08","winter",2012,"November","not holiday","Thursday","workday",1,0.352174,0.341891,0.333478,0.347835,340,4975,5315
+679,"2012-11-09","winter",2012,"November","not holiday","Friday","workday",1,0.361667,0.355413,0.540833,0.214558,709,5283,5992
+680,"2012-11-10","winter",2012,"November","not holiday","Saturday","not workday",1,0.389167,0.393937,0.645417,0.0578458,2090,4446,6536
+681,"2012-11-11","winter",2012,"November","not holiday","Sunday","not workday",1,0.420833,0.421713,0.659167,0.1275,2290,4562,6852
+682,"2012-11-12","winter",2012,"November","holiday","Monday","not workday",1,0.485,0.475383,0.741667,0.173517,1097,5172,6269
+683,"2012-11-13","winter",2012,"November","not holiday","Tuesday","workday",2,0.343333,0.323225,0.662917,0.342046,327,3767,4094
+684,"2012-11-14","winter",2012,"November","not holiday","Wednesday","workday",1,0.289167,0.281563,0.552083,0.199625,373,5122,5495
+685,"2012-11-15","winter",2012,"November","not holiday","Thursday","workday",2,0.321667,0.324492,0.620417,0.152987,320,5125,5445
+686,"2012-11-16","winter",2012,"November","not holiday","Friday","workday",1,0.345,0.347204,0.524583,0.171025,484,5214,5698
+687,"2012-11-17","winter",2012,"November","not holiday","Saturday","not workday",1,0.325,0.326383,0.545417,0.179729,1313,4316,5629
+688,"2012-11-18","winter",2012,"November","not holiday","Sunday","not workday",1,0.3425,0.337746,0.692917,0.227612,922,3747,4669
+689,"2012-11-19","winter",2012,"November","not holiday","Monday","workday",2,0.380833,0.375621,0.623333,0.235067,449,5050,5499
+690,"2012-11-20","winter",2012,"November","not holiday","Tuesday","workday",2,0.374167,0.380667,0.685,0.082725,534,5100,5634
+691,"2012-11-21","winter",2012,"November","not holiday","Wednesday","workday",1,0.353333,0.364892,0.61375,0.103246,615,4531,5146
+692,"2012-11-22","winter",2012,"November","holiday","Thursday","not workday",1,0.34,0.350371,0.580417,0.0528708,955,1470,2425
+693,"2012-11-23","winter",2012,"November","not holiday","Friday","workday",1,0.368333,0.378779,0.56875,0.148021,1603,2307,3910
+694,"2012-11-24","winter",2012,"November","not holiday","Saturday","not workday",1,0.278333,0.248742,0.404583,0.376871,532,1745,2277
+695,"2012-11-25","winter",2012,"November","not holiday","Sunday","not workday",1,0.245833,0.257583,0.468333,0.1505,309,2115,2424
+696,"2012-11-26","winter",2012,"November","not holiday","Monday","workday",1,0.313333,0.339004,0.535417,0.04665,337,4750,5087
+697,"2012-11-27","winter",2012,"November","not holiday","Tuesday","workday",2,0.291667,0.281558,0.786667,0.237562,123,3836,3959
+698,"2012-11-28","winter",2012,"November","not holiday","Wednesday","workday",1,0.296667,0.289762,0.50625,0.210821,198,5062,5260
+699,"2012-11-29","winter",2012,"November","not holiday","Thursday","workday",1,0.28087,0.298422,0.555652,0.115522,243,5080,5323
+700,"2012-11-30","winter",2012,"November","not holiday","Friday","workday",1,0.298333,0.323867,0.649583,0.0584708,362,5306,5668
+701,"2012-12-01","winter",2012,"December","not holiday","Saturday","not workday",2,0.298333,0.316904,0.806667,0.0597042,951,4240,5191
+702,"2012-12-02","winter",2012,"December","not holiday","Sunday","not workday",2,0.3475,0.359208,0.823333,0.124379,892,3757,4649
+703,"2012-12-03","winter",2012,"December","not holiday","Monday","workday",1,0.4525,0.455796,0.7675,0.0827208,555,5679,6234
+704,"2012-12-04","winter",2012,"December","not holiday","Tuesday","workday",1,0.475833,0.469054,0.73375,0.174129,551,6055,6606
+705,"2012-12-05","winter",2012,"December","not holiday","Wednesday","workday",1,0.438333,0.428012,0.485,0.324021,331,5398,5729
+706,"2012-12-06","winter",2012,"December","not holiday","Thursday","workday",1,0.255833,0.258204,0.50875,0.174754,340,5035,5375
+707,"2012-12-07","winter",2012,"December","not holiday","Friday","workday",2,0.320833,0.321958,0.764167,0.1306,349,4659,5008
+708,"2012-12-08","winter",2012,"December","not holiday","Saturday","not workday",2,0.381667,0.389508,0.91125,0.101379,1153,4429,5582
+709,"2012-12-09","winter",2012,"December","not holiday","Sunday","not workday",2,0.384167,0.390146,0.905417,0.157975,441,2787,3228
+710,"2012-12-10","winter",2012,"December","not holiday","Monday","workday",2,0.435833,0.435575,0.925,0.190308,329,4841,5170
+711,"2012-12-11","winter",2012,"December","not holiday","Tuesday","workday",2,0.353333,0.338363,0.596667,0.296037,282,5219,5501
+712,"2012-12-12","winter",2012,"December","not holiday","Wednesday","workday",2,0.2975,0.297338,0.538333,0.162937,310,5009,5319
+713,"2012-12-13","winter",2012,"December","not holiday","Thursday","workday",1,0.295833,0.294188,0.485833,0.174129,425,5107,5532
+714,"2012-12-14","winter",2012,"December","not holiday","Friday","workday",1,0.281667,0.294192,0.642917,0.131229,429,5182,5611
+715,"2012-12-15","winter",2012,"December","not holiday","Saturday","not workday",1,0.324167,0.338383,0.650417,0.10635,767,4280,5047
+716,"2012-12-16","winter",2012,"December","not holiday","Sunday","not workday",2,0.3625,0.369938,0.83875,0.100742,538,3248,3786
+717,"2012-12-17","winter",2012,"December","not holiday","Monday","workday",2,0.393333,0.4015,0.907083,0.0982583,212,4373,4585
+718,"2012-12-18","winter",2012,"December","not holiday","Tuesday","workday",1,0.410833,0.409708,0.66625,0.221404,433,5124,5557
+719,"2012-12-19","winter",2012,"December","not holiday","Wednesday","workday",1,0.3325,0.342162,0.625417,0.184092,333,4934,5267
+720,"2012-12-20","winter",2012,"December","not holiday","Thursday","workday",2,0.33,0.335217,0.667917,0.132463,314,3814,4128
+721,"2012-12-21","spring",2012,"December","not holiday","Friday","workday",2,0.326667,0.301767,0.556667,0.374383,221,3402,3623
+722,"2012-12-22","spring",2012,"December","not holiday","Saturday","not workday",1,0.265833,0.236113,0.44125,0.407346,205,1544,1749
+723,"2012-12-23","spring",2012,"December","not holiday","Sunday","not workday",1,0.245833,0.259471,0.515417,0.133083,408,1379,1787
+724,"2012-12-24","spring",2012,"December","not holiday","Monday","workday",2,0.231304,0.2589,0.791304,0.0772304,174,746,920
+725,"2012-12-25","spring",2012,"December","holiday","Tuesday","not workday",2,0.291304,0.294465,0.734783,0.168726,440,573,1013
+726,"2012-12-26","spring",2012,"December","not holiday","Wednesday","workday",3,0.243333,0.220333,0.823333,0.316546,9,432,441
+727,"2012-12-27","spring",2012,"December","not holiday","Thursday","workday",2,0.254167,0.226642,0.652917,0.350133,247,1867,2114
+728,"2012-12-28","spring",2012,"December","not holiday","Friday","workday",2,0.253333,0.255046,0.59,0.155471,644,2451,3095
+729,"2012-12-29","spring",2012,"December","not holiday","Saturday","not workday",2,0.253333,0.2424,0.752917,0.124383,159,1182,1341
+730,"2012-12-30","spring",2012,"December","not holiday","Sunday","not workday",1,0.255833,0.2317,0.483333,0.350754,364,1432,1796
+731,"2012-12-31","spring",2012,"December","not holiday","Monday","workday",2,0.215833,0.223487,0.5775,0.154846,439,2290,2729
