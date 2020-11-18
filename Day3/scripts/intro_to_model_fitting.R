@@ -16,28 +16,16 @@ bike_data <- read.csv("../data/day.csv",
 # 1. General workflow of creating a training and test dataset -------------
 
 # Create a training dataset
-training_bike_data <- bike_data %>%
-  rownames_to_column() %>%
-  rename("index" = "rowname") %>%
-  mutate(feeling_temperature = atemp*50) %>%
-  select( index, feeling_temperature, registered, workingday) %>%
-  sample_frac(., size = 0.75, weight = as.factor(workingday))
+
 
 # Create a test dataset
-test_bike_data <- bike_data %>%
-  rownames_to_column() %>%
-  rename("index" = "rowname") %>%
-  mutate(feeling_temperature = atemp*50) %>%
-  select( index, feeling_temperature, registered, workingday) %>%
-  filter(!(index %in% training_bike_data$index))
+
 
 # Build a linear model on the training dataset
-training_bike_model <- lm(registered ~ feeling_temperature, data = training_bike_data)
-summary(test_bike_model)
+
 
 # Predict values for the test dataset
-test_bike_data$predicted_registered <- predict.lm(training_bike_model, 
-                                                  newdata = test_bike_data)
+
 
 # Calculate RMSE for predictions vs. observations
 rmse <- test_bike_data %>%
@@ -119,83 +107,3 @@ ggplot() +
 ## model accuracy, where accurracy is defined as the number of true positives 
 # and true negatives divided by the total number of runs. 
 
-nreps <- 1000
-accuracy_repo <- rep(NA, nreps)
-
-for(i in 1:nreps){
-  training_bike_data <- bike_data %>%
-    rownames_to_column() %>%
-    rename("index" = "rowname") %>%
-    mutate(feeling_temperature = atemp*50) %>%
-    select( index, feeling_temperature, registered, workingday) %>%
-    sample_frac(., size = 0.75, weight = as.factor(workingday))
-  
-  test_bike_data <- bike_data %>%
-    rownames_to_column() %>%
-    rename("index" = "rowname") %>%
-    mutate(feeling_temperature = atemp*50) %>%
-    select( index, feeling_temperature, registered, workingday) %>%
-    filter(!(index %in% training_bike_data$index))
-  
-  training_bike_model <- glm(workingday ~ registered, 
-                            data = training_bike_data, 
-                            family = binomial())
-  summary(training_bike_model)
-  
-  test_bike_data$predicted_registered <- predict(training_bike_model,
-                                                 newdata = test_bike_data,
-                                                 type = "response")
-  
-  accuracy_repo[i] <- test_bike_data %>%
-    mutate(predicted_registered = ifelse(predicted_registered >= 0.75,
-                                         1, 0),
-           categorical_result = ifelse(workingday == 1 & predicted_registered == 1,
-                                       "TRUE_RESULT", NA),
-           categorical_result = ifelse(workingday == 0 & predicted_registered == 0,
-                                       "TRUE_RESULT", categorical_result),
-           categorical_result = ifelse(workingday == 1 & predicted_registered == 0,
-                                       "FALSE_RESULT", categorical_result),
-           categorical_result = ifelse(workingday == 0 & predicted_registered == 1,
-                                       "FALSE_RESULT", categorical_result)) %>%
-    group_by(categorical_result) %>%
-    count() %>%
-    spread(categorical_result, n) %>%
-    summarize(accuracy = TRUE_RESULT / sum(TRUE_RESULT + FALSE_RESULT))
-}
-
-hist(unlist(accuracy_repo))
-
-logistic_bike_data <- bike_data %>%
-  rownames_to_column() %>%
-  rename("index" = "rowname") %>%
-  mutate(feeling_temperature = atemp*50) %>%
-  select( index, feeling_temperature, registered, workingday) 
-
-whole_logistic_model <- lm(workingday ~ registered,
-                         data = logistic_bike_data)
-
-logistic_bike_data$predicted_registered <- predict(whole_logistic_model)
-
-accuracy_whole <- logistic_bike_data %>%
-  mutate(predicted_registered = ifelse(predicted_registered >= 0.75,
-                                       1, 0),
-         categorical_result = ifelse(workingday == 1 & predicted_registered == 1,
-                                     "TRUE_RESULT", NA),
-         categorical_result = ifelse(workingday == 0 & predicted_registered == 0,
-                                     "TRUE_RESULT", categorical_result),
-         categorical_result = ifelse(workingday == 1 & predicted_registered == 0,
-                                     "FALSE_RESULT", categorical_result),
-         categorical_result = ifelse(workingday == 0 & predicted_registered == 1,
-                                     "FALSE_RESULT", categorical_result)) %>%
-  group_by(categorical_result) %>%
-  count() %>%
-  spread(categorical_result, n) %>%
-  summarize(accuracy = TRUE_RESULT / sum(TRUE_RESULT + FALSE_RESULT))
-
-unlist(accuracy_whole)
-
-ggplot() +
-  geom_histogram(data = data.frame(accuracy = unlist(accuracy_repo)), 
-                 aes(x = accuracy)) +
-  geom_vline(data = data.frame(accuracy = unlist(accuracy_whole)),
-             aes(xintercept = accuracy))
