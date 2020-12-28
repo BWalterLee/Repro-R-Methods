@@ -1,5 +1,5 @@
 # Repro-R-Methods
-##Workshop General purpose repo
+
 
 This Folder includes data and scripts from the 11/16-11/20 Reproducible Research Methods in R 2020 Workshop. 
 
@@ -9,8 +9,7 @@ This Folder includes data and scripts from the 11/16-11/20 Reproducible Research
 - Day 4: workflow Solutions with Drake
 - Day 5: Creating a Github Website (notes missing)
 
-Contact mbrousil@gmail.com for additional information on this event! 
+Contact mbrousil@gmail.com for additional information on this and future events! 
 
 
- 
- 
+BWL was an assistant instructor for this workshop.
